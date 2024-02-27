@@ -1,0 +1,6622 @@
+foreign
+
+I forgot about the time
+
+but I'm seen to have an audition and is
+
+there any audio
+
+aside from my voice I mean
+
+is the game playing any audio
+
+okay
+
+nice to see you here I see that you
+
+found a very interesting team
+
+game is silent yeah I was afraid of that
+
+and there is a solution
+
+um I can just simply capture the audio
+
+from the
+
+because now I'm capturing the video
+
+straight from the capture card meaning
+
+that the video should look much nicer
+
+now
+
+but that means I would still have to
+
+start the separate software and capture
+
+the audio that way I wanted to avoid
+
+that
+
+but it looks like I have to do that
+
+anyway
+
+so
+
+why is this one like
+
+hmm
+
+I can hear you talking yeah that's good
+
+game is silently exactly
+
+and I think ghosts
+
+like quite a big but
+
+very interesting you you run the redeem
+
+very interesting or anything else
+
+already
+
+okay
+
+um for some reason nothing shows up in
+
+this
+
+window but this is weird
+
+now the capture card doesn't even
+
+they got booty yes the cool redeem uh
+
+yeah
+
+it's a
+
+and now it works
+
+okay
+
+okay it says that
+
+I thought you were before but I might be
+
+wrong about that
+
+it says that it is currently
+
+but it says this status is capture
+
+device I assume that is because it's
+
+outputting to VLC it's not going to show
+
+up in this software itself
+
+and the software itself is not giving
+
+any audio
+
+though yep there's nothing there but
+
+the game itself plays audio at the
+
+moment because I can hear it my
+
+headphones
+
+I'm listening to it
+
+yeah
+
+there's definitely audio
+
+I mean I can't play the game without the
+
+audio
+
+streamline currently obs
+
+Dreamland custom money right
+
+yeah the uh audio it's it has an audio
+
+um
+
+like
+
+I'm sorry kitten I I've seen you I
+
+I didn't know what to say
+
+because I'm currently trying to solve
+
+this audio issue
+
+I'd rate I guess I'll just remove it and
+
+add it again
+
+I guess that's the solution
+
+so I'll try that let me just
+
+oh but I have an arch I could just add a
+
+second I think
+
+okay
+
+can I yeah I should be able to copy over
+
+that
+
+can I rename these so I have to quickly
+
+hit the new one every time
+
+maybe I can rename them afterwards
+
+so
+
+it cannot only output a signal one at a
+
+time is that the problem
+
+that's going to be a problem
+
+yeah and then I can't
+
+okay let me create a
+
+backup for all the filters which I will
+
+pick the OBS generic camera
+
+um
+
+which I don't need
+
+see have it show
+
+like that
+
+copy
+
+over all the filters
+
+delete
+
+one I'm actually going to use
+
+re-add that one
+
+on the Fly and now the picture shows up
+
+and it also shows that it's playing
+
+audio
+
+[Music]
+
+so the audio is working now right
+
+oh it works perfect but it seems that
+
+audio is a bit off
+
+for some reason
+
+oh that's because I
+
+yeah that's why
+
+okay now the audience yeah that's a bit
+
+annoying that I have to basically and
+
+then I copy filter from the backup to
+
+this one
+
+again now the picture looks good
+
+and there we go and then I just need to
+
+balance the audio
+
+is obvious like this
+
+why is it so quiet
+
+this one doesn't make any noise
+
+yeah the game is really quiet
+
+but yeah I said I was going to add a
+
+hard command I forgot about it
+
+I guess I'll just have to boost on You
+
+by how much
+
+I guess that much
+
+it's a good volume
+
+it's okay
+
+it's the it's the thought that counts
+
+[Music]
+
+but I'll do it for you
+
+yep yeah I need to note that down
+
+ads hug
+
+okay there's my notes this has Vault
+
+here I see that months captivity have
+
+done nothing to slow that electric
+
+tongue of yours from incessantly wagging
+
+it's just that it's also exciting
+
+exhilarating and chanting and thralling
+
+and yeah all right no more thesaurus for
+
+you pal all of you please be quiet
+
+it is suddenly encouraging that Spyder
+
+has been able to free two of you to
+
+allow this reunion but haven't we
+
+forgotten someone yes yes of course
+
+terrible precisely
+
+now how do we proceed I Believe I Can
+
+Help ignite us well young chaps and to
+
+learn a few things about ice on tall
+
+planes I suggest we adjourn to the
+
+training room so that I can teach you
+
+some more the legacy of the great ice
+
+dragons of yore my ancestors who come
+
+from the best of the best of this
+
+somewhat bedraggled lineage is long and
+
+storied with my help rescuing terador
+
+should be a certain tear your pomposity
+
+arrogance and pretentiousness is odious
+
+to the extreme
+
+shall we
+
+okay let's get back there
+
+I'm only back I got to drive home now
+
+and and I work an hour away from home
+
+and I'm working I
+
+well I don't know when you when you
+
+finished work eh all right I should
+
+probably
+
+yeah that's that's not the Run button
+
+because they walk so slowly
+
+saying oh you go oh you're going to
+
+drive home now okay I thought you were
+
+home
+
+we shall
+
+lights but
+
+button Dragon you will learn the secrets
+
+of ice
+
+I'm doing my best
+
+all right
+
+maybe it's just
+
+[Music]
+
+a kid now it's more balanced
+
+let's just yeah
+
+[Music]
+
+[Music]
+
+beginner's luck aren't sir
+
+yeah there wasn't a question about here
+
+in the game was if they argued at least
+
+hey oh I forgot I need to
+
+days after the dummies
+
+it's part of the priest that means
+
+when they are in range one person
+
+okay doing fights it's not
+
+[Music]
+
+just a little bit by like bunions more
+
+and see
+
+yeah I can see what you mean okay let me
+
+just remove the P boost all together
+
+let's see if it's better than
+
+this is even shorter
+
+no no no no that simply will not do
+
+give me more time
+
+over here
+
+I mean
+
+I guess the music isn't too light loud
+
+hydrate okay after this because the time
+
+let me see sure sure I mean I Stood
+
+Still
+
+do that
+
+that's one more
+
+okay that was pretty easy
+
+it's not completely
+
+can find success once in a while
+
+this way oh mauve one
+
+I'm gonna Pick Your Parts where you
+
+should stand
+
+ing here yeah that's good okay that's
+
+not my face hold on trying to see did
+
+you I shot okay
+
+let me try them
+
+oh project times
+
+[Music]
+
+right from all
+
+right is that like nine of them come
+
+here I didn't count
+
+[Applause]
+
+it one
+
+two
+
+was that two or three
+
+I love it just can't
+
+foreign
+
+[Music]
+
+[Music]
+
+thank you
+
+[Music]
+
+yes yes that's it yes
+
+guess what's in too hard over here
+
+all right in milk because
+
+this time ice Fury
+
+the gems
+
+yeah
+
+you don't really collect them in that
+
+place okay so
+
+it's just Powers up
+
+[Music]
+
+oh
+
+yeah the red one gives you health the
+
+green one gives you friends
+
+does he have limited amount of press in
+
+his game
+
+do you want to give you
+
+experience
+
+and apparently during the practice
+
+doesn't give you experience
+
+and
+
+purple charges these super thing
+
+they need a faster statue
+
+so what exactly are you saying igniters
+
+yes your hypothesis is an intriguing one
+
+mixing to the extreme huh he says he
+
+doesn't know what he's talking about
+
+dude I never know what he's saying what
+
+I'm saying is that Cinder is harnessing
+
+the guardian's power to unlock a portal
+
+that must never be opened well what's
+
+behind this portal that doesn't concern
+
+that's enough volt here there's plenty
+
+of time
+
+plenty of time
+
+plenty of time where we need more time
+
+to have horrible things happen to us why
+
+didn't we just stay in Tall Plains
+
+oh I'm a big deal there quit complaining
+
+Sparks maybe there's a tribe on
+
+Munitions Forge you can save too yeah
+
+but there's always something special
+
+about the first tribe you save
+
+you know
+
+[Music]
+
+okay dude I never know what he's saying
+
+foreign
+
+the locals who live underground have
+
+been forced to mine the metals that the
+
+cinder uses to forge our Army's weapons
+
+but what are the locals called they're
+
+called man response right I need to
+
+write that down rumor has it the cinder
+
+is whole
+
+terrible or somewhere in the mines we
+
+know she's using him to power the last
+
+of the crystal she needs to open the
+
+port free him before she gets the chance
+
+boy is it big it's big but in no time
+
+for sightseeing Sparks
+
+time to get serious let's go ah
+
+not again
+
+I forgot about the place is called an or
+
+the locals Acosta
+
+well thank you for writing that before I
+
+even
+
+that that I forgot about it
+
+wasn't enough power yeah there we go
+
+there's some more blue I don't like you
+
+see the first more there you go that was
+
+enough to Power It Up
+
+and then more of these
+
+love it
+
+I do like fine most the question is is
+
+very good against these enemies
+
+considering
+
+while they're considering the place I
+
+guess
+
+I guess now
+
+well
+
+the rest for the Heat
+
+these
+
+[Music]
+
+I think it's probably does this like
+
+a good amount of damage
+
+that's it
+
+stopping away
+
+saw something over here
+
+okay doesn't matter if I destroy
+
+anything I don't get anything from it
+
+[Music]
+
+so I'm supposed to progress there
+
+but
+
+I think push back across First Press
+
+how
+
+do you take damage from that
+
+you're like something
+
+they love us I must fight
+
+foreign
+
+[Music]
+
+and they're not letting me escape
+
+whatever should I yeah
+
+[Music]
+
+[Music]
+
+I love the eyes
+
+[Music]
+
+but I'm after the ice to the max
+
+okay
+
+I don't feel like guys is that effective
+
+after all
+
+like the tree system but
+
+oops some fell into the lava
+
+okay
+
+[Music]
+
+what's up
+
+how many are there
+
+[Music]
+
+is this emulated are you capturing it is
+
+captured
+
+my eyes in the quality looks much better
+
+now
+
+you can
+
+yeah I guess if you look carefully you
+
+can see the inflation
+
+I guess he could emulate to if you
+
+really like your entrance
+
+and I have forgot to change the frame
+
+rates off the stream oh well
+
+can I get to go up here
+
+I was kind of late with his stream too
+
+what's that who's there
+
+yeah that's why I was curious I
+
+appreciate audio it is a pleasure though
+
+don't carry this bench please
+
+we are
+
+and who are you
+
+leader of the manual smells but I'm not
+
+much of a leader anymore
+
+which shouldn't be long if you would
+
+help me free them perhaps there's
+
+something I could do for you
+
+I don't know we're here to rescue a big
+
+friend of ours
+
+is
+
+[Music]
+
+yes why because I know what he's been
+
+kept in demands there are large level
+
+cap where my own brother ex-humor turns
+
+away we can help each other
+
+which way did we go what should we do
+
+next oh it's simple enough but we've got
+
+to hurry but is it big he's getting more
+
+unstable about a minute we must clear
+
+these caves before we can help your
+
+friend
+
+and you're asking him for directions
+
+wow talk about blind leading the blind
+
+forget him oh yeah we're in
+
+okay let's go through this and what's
+
+difference between emulating and
+
+capturing well
+
+the obvious difference is emulating is
+
+when emulating
+
+the the playing the game on your
+
+computer and capturing it's playing it
+
+on
+
+proper hardware and then capture the
+
+picture and put it into your computer I
+
+guess you could take it no
+
+so in emulating you have a lot of tricks
+
+you can do as well by original Hardware
+
+you're limited to usually limited to
+
+what it is
+
+I can see the interlacing
+
+has that old CRT effect
+
+oh yeah I wonder if there is a filter I
+
+could remove it if it's distracting
+
+but do you want it look nice and clean
+
+emulator looks better but playing it on
+
+Origin Hardware it's different
+
+yeah
+
+emulated okay
+
+well adapt this computer would be able
+
+to even run the game properly
+
+but if can you get better framework from
+
+emulator
+
+etc etc
+
+I wouldn't mind doing like because I've
+
+been playing a game
+
+it's just like
+
+a man wears man's a circuit attack the
+
+crystalline person okay I mean
+
+instructions before
+
+kind of dark in here
+
+Emoji Hardware is satisfying a place to
+
+check in bags like that
+
+this I wanted to yeah I wanted to play
+
+another memory
+
+just for the
+
+I guess reliability
+
+[Music]
+
+or something
+
+and let's uh this up it can become
+
+better
+
+you have to go from composite stage
+
+micro market and capture his life
+
+oh I
+
+I just captured the composite
+
+it seems to work fine I wouldn't mind
+
+capturing the HMI but I can't really do
+
+that
+
+PS3
+
+okay the wrong way and got coffees like
+
+night time so it's late for me
+
+I mean depends on where you live too
+
+um
+
+I got some explosions
+
+is using the PS2 emulators using his PC
+
+yeah basically yeah I want to explain it
+
+emulating is playing it it's on the
+
+hardware that is not meant for which I'm
+
+100 accounts run it natively basically
+
+since I'm using an original
+
+as the first generation of PlayStation
+
+3 which can
+
+if it has like the PS2 built in it does
+
+run it the hard way
+
+if you do a later version of the PS3 you
+
+can run the games it's really animation
+
+is this a secret because it's because
+
+sorry I was taking your crystals
+
+[Applause]
+
+if it was supposed to come here over at
+
+least I don't know
+
+I am not going the correct way
+
+because I did find another one
+
+thank you for
+
+mining the crystals I need for us
+
+or is it meant to be like a landing
+
+techniques
+
+I think it's a medium size
+
+thank you
+
+I have to play Sparrow sword on original
+
+Hardware
+
+[Music]
+
+and
+
+to a relation of Wii modes is not exact
+
+ly I haven't tried to emanate any nuts
+
+but sorry for that paper I hope you
+
+don't need it
+
+[Applause]
+
+oh
+
+foreign
+
+[Music]
+
+[Music]
+
+it's a pain to get I mean I think the
+
+pieces you have tried that before
+
+I think
+
+it sometimes works sometimes it doesn't
+
+and you still need that sense about yeah
+
+or something emulating Center violets I
+
+really wanted
+
+to be the best
+
+so much fun
+
+he's fine not good
+
+[Music]
+
+more leveling up
+
+I'm going to fill out
+
+Focus
+
+this loose
+
+dangerous
+
+oh no
+
+stay back
+
+yeah
+
+anything that emits infrared
+
+and you basically need
+
+for best
+
+I don't know I don't remember if it's
+
+like
+
+[Music]
+
+I want to get something
+
+[Music]
+
+yeah I think I went in a second now yeah
+
+do you and that's on either side but I
+
+think just one works
+
+I'm back welcome back Julie
+
+what are you eating
+
+um
+
+so let's Fire
+
+[Music]
+
+Let's head to the chest
+
+thank you
+
+[Music]
+
+the last thing
+
+okay
+
+this almost looks like it should be able
+
+to swim
+
+it was nothing
+
+meeting meat and fries
+
+find him and let him know we're friends
+
+and he'll you have to proceed
+
+how will we know
+
+yeah all you manner we Smiles look the
+
+same to me oh you are not him I have to
+
+turn off my
+
+country
+
+I didn't pay attention
+
+I was so busy
+
+I got so busy with um
+
+with everything wait a minute
+
+yeah
+
+[Applause]
+
+I got too much troubles making the
+
+gamework and I forgot about the time and
+
+when I should just started streaming
+
+hello sunny
+
+15 minutes left
+
+I couldn't even get this time
+
+the countdown working
+
+okay this seems to be two Loops
+
+basically
+
+[Music]
+
+remember a second oh here
+
+and this look oh there we go there is
+
+the enemies
+
+oh goodness it's part of the tech he's
+
+his head
+
+ah don't be sorry it's not your fault
+
+just had to remove and re-amp this once
+
+and then correct
+
+I wish there was a wait for OBS to
+
+refresh this voice kind of deleting it
+
+and reacting it itself
+
+and keeping all these settings
+
+down into it
+
+okay
+
+I don't think they can survive
+
+lava
+
+foreign
+
+all right okay
+
+[Music]
+
+yeah I don't think they survived it
+
+I can't refresh browsy sources others
+
+and yeah browsing sources works at least
+
+[Music]
+
+that's a good thing sometimes the
+
+process sources doesn't want to work
+
+at least
+
+it doesn't sound refresh at all
+
+now this place you call it is a bit
+
+better than my previous streams I think
+
+I hope I hope there's a noticeable
+
+difference
+
+okay
+
+okay let's try this
+
+[Music]
+
+I guess it worked
+
+eyes
+
+where am I going now
+
+there we go
+
+oh see yeah just
+
+kill yourself
+
+[Music]
+
+did y'all die
+
+everyone is exploded
+
+okay I want this the entire version but
+
+I guess it's right too
+
+even a chicken sandwich I should have
+
+used the pie version
+
+maybe I should update that one more
+
+I still not enough
+
+I made some spaghetti with mussels
+
+Instagram
+
+says
+
+that was the wrong effect
+
+s
+
+[Music]
+
+record the difference between
+
+the divisions of the attacks between
+
+this one and the rice squishy
+
+thank you
+
+and wine sauce recipe uses clams
+
+hey excuse me
+
+but I cannot find clams on here
+
+but muscles are good too
+
+I did it again
+
+nothing up here
+
+I guess that's all
+
+[Music]
+
+right
+
+I guess this one
+
+[Music]
+
+best customers anything
+
+baby
+
+scorpion
+
+[Music]
+
+oh
+
+[Applause]
+
+I guess that worked
+
+another one of those
+
+[Music]
+
+I'm I'm busy with this vehicle
+
+for now I'm dying
+
+[Music]
+
+now it's chasing me
+
+okay
+
+[Music]
+
+now I need some help no that's not how
+
+you get health no
+
+give me strength
+
+and power up oh that's not enough
+
+I need much more powerful
+
+okay
+
+here we go
+
+[Music]
+
+half half a lady
+
+powerful lady
+
+you'll get to see the powerful lady
+
+eventually
+
+okay no I should be able to get that
+
+over here
+
+[Music]
+
+turn on destination
+
+[Music]
+
+suspicious
+
+[Music]
+
+land in the middle that seems like a
+
+good idea
+
+[Music]
+
+you can't ring that Bell
+
+why would I want to oh you're scared
+
+I'm not scared
+
+oh the big special dragon is scared of
+
+the Mean Old Bell oh I didn't know that
+
+I'm sorry oh no I'm sorry baby why don't
+
+I get your pillow you laid out
+
+[Music]
+
+that sounds work
+
+you okay buddy he doesn't forget about
+
+those cracks I made about your fatness
+
+and your being purple and stupid and fat
+
+all right
+
+we did
+
+[Music]
+
+hydrate
+
+ah now he gets the
+
+did you say something
+
+me no no I was
+
+talking out loud thinking of my day I
+
+gotta do I just thought I heard
+
+something before I blasted my way out oh
+
+that's funny yeah no
+
+must be hearing things
+
+[Music]
+
+now
+
+first part is Earth problem I guess
+
+you'll learn Earth shot press
+
+knocks the start button
+
+just left to select personalization
+
+I mean it doesn't matter
+
+I must upgrade it first
+
+but I barely got anything for that
+
+I guess
+
+wow
+
+foreign
+
+[Applause]
+
+[Music]
+
+not white Sparks red
+
+Sparks is not the house
+
+[Music]
+
+maybe it's like
+
+he's changing colors depending on them
+
+paid attention to this color
+
+I just didn't take that
+
+uh uh that's a stupid
+
+wait why all the way back here
+
+especially this is considering and we
+
+don't respond
+
+oh look at that thing can we get up
+
+there
+
+no that's not how it gets okay
+
+that's not the way
+
+this
+
+no
+
+I want to be more careful so I wouldn't
+
+fall down and then I fell down
+
+sounds like the Polish word for summer
+
+laptop
+
+a latitude
+
+I want those
+
+[Music]
+
+oh
+
+come on spider
+
+you can do it
+
+oh there you go that's inside
+
+that was designed they look special only
+
+because they were in light
+
+another thing that's here in the way
+
+you're supposed to get up there
+
+and I don't see any other way but I did
+
+saw another one here Stitch around the
+
+corner here
+
+it is hello
+
+make that one pack
+
+all right you're gonna cover it on the
+
+house up there man
+
+okay that was in the Dodge fire
+
+if I aren't you that you helped me twist
+
+at zero
+
+and let's continue
+
+outside
+
+this isn't glowing anymore
+
+come on you worthless waste of Flesh
+
+let's go you gotta hop on Steam and get
+
+back to that sleeping Dragon the crystal
+
+should be almost ready and the volcano
+
+is right on the break
+
+since when can they speak
+
+[Music]
+
+if that Clips right Stewart lamb come on
+
+Sparks we've gotta catch them
+
+[Music]
+
+all right
+
+let me guess I need to change aspire's
+
+expressions are weird
+
+I need to change those and laughs will
+
+turn green in the
+
+correct three lamps
+
+stop taking damage and start attacking
+
+any more health
+
+hahaha
+
+hello
+
+I still think they're getting damaged
+
+from that
+
+[Music]
+
+just push this
+
+oh yeah one land turn green
+
+even though no none of the lamps were
+
+green
+
+before they cleansed it but that's his
+
+decades
+
+I have a nice big things
+
+[ __ ] it
+
+[Music]
+
+I don't know
+
+I can push it before I defeat anime
+
+yeah I'm here who are you attacking
+
+or battle eater eats bell for breakfast
+
+stop defending yourself against fire
+
+and now to the last
+
+leave
+
+don't fall down
+
+pick up these first
+
+game is one what's my
+
+I need to go around
+
+[Music]
+
+okay
+
+[Music]
+
+and outfit change
+
+when I play on cancer I can control the
+
+me much easier
+
+I think camera cooperate with me
+
+I defeated hundreds of subscribe
+
+[Music]
+
+I guess it worked
+
+yeah
+
+okay the door has been opened
+
+yes
+
+how hard could it be it's on Rails
+
+really famous last words
+
+he stepped on us take to change the
+
+speed and to tell the Minecon
+
+like that okay
+
+attacks Steam and the campus by running
+
+a person trying to shoot very much
+
+oh that's one
+
+too much dance
+
+it does some damage
+
+now I can't wait when is the difficult
+
+part come in
+
+here
+
+[Music]
+
+[Music]
+
+my PayPal
+
+price
+
+faster
+
+foreign
+
+I disappeared
+
+I know no
+
+[Laughter]
+
+okay okay
+
+I'm at work don't want to say hi
+
+okay hello
+
+okay but nice
+
+nice of you to come by
+
+while at work
+
+hopefully not too distracting
+
+depending on what you do at work
+
+whoa
+
+yeah I don't know what's the point of
+
+that lemon was doing
+
+good things by land that he has me
+
+[Applause]
+
+yay
+
+I don't know did I get any leveling for
+
+nothing
+
+yeah let's upgrade this anyway
+
+I'm probably going to be
+
+taught how to use that thing
+
+not this thing the wrong buttons
+
+I watched that one
+
+they seem to be weak to eyes no that was
+
+fire
+
+okay keep a distance now
+
+[Music]
+
+should have really nice minute
+
+there you go
+
+yeah it's like held back
+
+[Applause]
+
+[Music]
+
+okay
+
+that one went much better than I thought
+
+because
+
+okay these
+
+it would be able
+
+almost
+
+[Music]
+
+yeah thank you
+
+foreign
+
+I probably should have painted this one
+
+last step
+
+I had to do it again a lot more than
+
+that
+
+it's these have two parts to deal with
+
+use this
+
+[Music]
+
+amazing
+
+foreign
+
+[Music]
+
+they're here wasn't that hard was it
+
+what is this this isn't about some kind
+
+of rock you in there
+
+let's hear some scrap
+
+end of this
+
+[Music]
+
+nurse there and continue how quickly the
+
+open Netflix is I'm not supposed to go
+
+there
+
+[Music]
+
+oh
+
+green is one of the really long cars
+
+I need to use the old platform
+
+okay now it's just straight
+
+I need to use your platform goodbye
+
+okay let's see
+
+where's my gems
+
+he's not worth going for us
+
+what about
+
+if you knock them down on the ground
+
+you don't get your gems
+
+on if they fall down in the
+
+level
+
+how annoying
+
+Wi-Fi
+
+foreign
+
+landed in the lava and now I've got my
+
+gems
+
+that
+
+hello Lolly welcome
+
+and
+
+I don't know how to do it
+
+have to do at the rate I've only been
+
+never I almost never finished it
+
+well cozy
+
+playing some
+
+Legend of Spider-Man it's the first game
+
+getting close to the end
+
+it's uh some more
+
+so
+
+now uh
+
+hello
+
+cinder's life
+
+did I get that
+
+there's a Cinders here
+
+oh a shortcut
+
+about that
+
+nice of them
+
+and kitty core
+
+did I have a kitten here so now we have
+
+perfect
+
+that's great
+
+yeah the tricky part of nursing names
+
+let's see
+
+I'm trying to talking oh now I get this
+
+platform
+
+it
+
+I got hit with the head straight after
+
+raided why do your ads come
+
+at a rate they should they shouldn't do
+
+that
+
+yeah I don't know what trains
+
+so now it's raining
+
+what were you playing
+
+how's this thing going I mean it started
+
+off terribly
+
+but it was rather easy to fix
+
+because I didn't get any audio from the
+
+game I had to re-add the source and that
+
+fixed it
+
+now there's no more trains for some
+
+reason
+
+for that flying Beast is in there the
+
+cinder is in this game
+
+[Music]
+
+he sure is pal he's all safe and sound I
+
+know it's a really thick past stations
+
+everyone will be ready
+
+yeah do your part hey twitch twitch has
+
+been fine
+
+it's um
+
+it was OBS being annoying
+
+let's play Monster Hunter territory
+
+yeah
+
+it was oh yeah it's the it's the one
+
+where you have the butterfly wings
+
+that's it that's the decision I'm saying
+
+um
+
+welcome lady
+
+I mean we're going to free the man we're
+
+Smalls
+
+it was badly okay
+
+yeah the
+
+the shout outs
+
+Larry was playing nothing
+
+oh yeah I fixed it shot that command
+
+needs myself David Spade Sparks this is
+
+really good
+
+uh oh yes Sparks I have no experience
+
+with the voice actors
+
+yeah
+
+so to me it's just one another voice
+
+yeah I'm a butterfly was down there yes
+
+the wings to play
+
+[Music]
+
+I watch the playing that game um
+
+accused exactly how as he likes it
+
+did I get the right foot I spotted his
+
+house
+
+price is a bit odd in this game
+
+he gets for every game he gets weirder
+
+and weirder
+
+gonna get your food and food there and
+
+this is the peak of his awareness and
+
+rudeness
+
+well I have I haven't played the other
+
+language fighter games
+
+I have played this one before I just
+
+want to play Siri something uh
+
+and then I will and then I'm going to
+
+play the other two of course
+
+it's interesting you know what it is
+
+oh
+
+yes I saw him in
+
+on Thursday for the first time though oh
+
+yes that's made me so upset
+
+[Music]
+
+yeah they have they have ruined Sparks
+
+well he looks like that why is he an
+
+[ __ ] I refuse to acknowledge Him
+
+yeah this isn't sparse this is some
+
+imposter to be fair this is like
+
+reimagined fire because this is a
+
+different different backstory
+
+so it's not the original Sparks
+
+I guess we can use that excuse that's
+
+what Spy looks so weird too
+
+I don't mind his personality
+
+Sparks
+
+oh yeah because
+
+I guess it's not spoilage because it's
+
+right at the start of the game
+
+yeah it's completely separate from the
+
+original trilogy
+
+when am I supposed to be going
+
+I've been talking and fighting
+
+there's a door here maybe I should go
+
+through it
+
+maybe I need to do something
+
+to make the door open these look
+
+suspicious
+
+what's that
+
+oh you were captured sorry I didn't know
+
+that was a cage let me rescue him
+
+David yone is tourism technically yeah
+
+exactly
+
+I don't know which games are part of
+
+which universe
+
+you have these three first original
+
+games are here stay no namaste
+
+yeah enter the dragonfly that is the
+
+horse game that should be the same
+
+universe
+
+oh yeah
+
+yeah I just think I saw this before
+
+[Music]
+
+and here's fail I think he's part of the
+
+same universe
+
+The Darkest Timeline
+
+okay
+
+yes okay
+
+I'll just destroy everything
+
+they don't need that does this stuff
+
+okay I can't
+
+I can climb up on it
+
+like I'm doing thing about it oh there's
+
+another one
+
+oh there's another case
+
+now you have me I hope
+
+now I have the strongest place
+
+yeah now it trickies oh I see you two
+
+crazy kids found each other
+
+yeah in this case buying Sparks are
+
+brothers
+
+when you say be careful does that mean
+
+try not to die I'm trying to do that
+
+anyway Comics humor we must get all the
+
+men wear smiles undergrounds
+
+are the whole families together
+
+you didn't sleep their heads behind
+
+yes spiders adopted by Sparks family
+
+this game has Sparks family but his
+
+parents
+
+maybe it's the only challenge
+
+wait the man response are robots
+
+you know
+
+it's probably a reference there I don't
+
+get
+
+I'm feeling inexperienced
+
+that's kind of cute
+
+and
+
+we can see that
+
+yet no aspire's family or smart family
+
+for them or anyone's family
+
+original games
+
+and brothers yeah
+
+okay this one I did this why I can't
+
+update it oh yeah now I should be able
+
+to talk to me
+
+nope
+
+I need a bit more maybe I should
+
+and back
+
+there you go
+
+updates
+
+okay now I can upgrade it nope
+
+[Music]
+
+goodbye
+
+yeah the this game you can upgrade
+
+okay
+
+[Music]
+
+thank you
+
+it's it gets more Hearts forming later
+
+on now let you
+
+we'll see whoops I'm about goodbye
+
+I shouldn't remember the story
+
+so
+
+do I want to go
+
+I want to do something about this one
+
+because
+
+no
+
+yeah anything about that
+
+you wanna see and how long it will take
+
+me to take for me to get there as well
+
+okay
+
+I'm just cutting it up all this
+
+and now
+
+you now have the fury of
+
+parishes and ending blizzard
+
+I hope it's unending otherwise
+
+I will be sad
+
+I
+
+think it's the uh
+
+whatever on the period I think that
+
+that's upgraded
+
+I don't exactly know how this game works
+
+it doesn't really explain things when
+
+that was the whole explanation again
+
+oh you're not dead
+
+and now you did
+
+I don't like how to survived
+
+no house
+
+[Music]
+
+I played he
+
+and so many times the stories
+
+I played it to it like once with push so
+
+I think I'm supposed to continue but I
+
+like these I want the more of these
+
+stories
+
+I don't know if that's is the point of
+
+destroying those this has a more
+
+I guess they can't gain much
+
+and then I connect me toes
+
+I like gems and I played this game
+
+I guess you're getting to experience
+
+this game this way is that this way
+
+let me get the confused of where I'm
+
+supposed to kill
+
+there you go
+
+[Music]
+
+I'm not looking at this
+
+if I see the highest level makes them
+
+bounce around
+
+oh
+
+[Music]
+
+that's different from
+
+if they respond can I
+
+Farm okay lemons
+
+[Music]
+
+[Music]
+
+it should be my
+
+IMO stands for
+
+[Music]
+
+in my opinion yes
+
+[Music]
+
+it's
+
+[Music]
+
+um
+
+something
+
+[Music]
+
+I think personally I think they're
+
+fighting can get a bit to repetitive and
+
+it doesn't really
+
+I mean you could probably bury
+
+but it doesn't
+
+like push you to use different abilities
+
+and you could basically rely on doing
+
+your basic combo
+
+oh that exploded something nice
+
+and then we can do this in those
+
+so you could argue that the original
+
+spies can rip it if I only have two
+
+attacks
+
+but at least enemies by immediately so
+
+[Applause]
+
+[Music]
+
+oh
+
+[Music]
+
+correct
+
+I won't get dams from these
+
+or gems from the water
+
+[Music]
+
+I
+
+see him as she comes through there
+
+and I'm not more of these
+
+I do want to play
+
+to play through every spider game
+
+including
+
+became boring Kings
+
+you see how that kills
+
+[Music]
+
+why you should just be able to step on
+
+those white people just
+
+I can't match them
+
+as much health
+
+and you step on them but they don't die
+
+you have to step on them
+
+[Music]
+
+can't
+
+in person so this game this is a game I
+
+have no it didn't give me Health it
+
+doesn't give me breath
+
+it doesn't give me 11.
+
+oh yeah
+
+[Music]
+
+it's the same in general
+
+maybe I should I
+
+he doesn't have a housemate guarantee
+
+okay let me check my application
+
+oh
+
+I'm going to have that
+
+unless I can
+
+[Music]
+
+I don't know
+
+what I just progress okay
+
+what's the point of doing that
+
+my first bar game was enter the
+
+dragonfly never beat it
+
+I have made a little stream because you
+
+don't didn't want to work but since I
+
+got the dogs the dog's life to work
+
+and I could try the same
+
+method for anti-track tie and perhaps
+
+how it works
+
+as well
+
+I got the last level or class three that
+
+my brother deleted my memory card the
+
+whole memory card every other game
+
+not on purpose though
+
+yeah
+
+I mean I accidentally removed the same
+
+in this game so it happens
+
+I only ever played watched bits of the
+
+original trilities and now I'm playing
+
+through them all the remastered version
+
+that is
+
+and I enjoy watching
+
+and hit the place to him
+
+face but
+
+I want to say like for enjoying watching
+
+you struggle but it's more like watching
+
+you struggle first but then you overcome
+
+and succeed
+
+that's great to see
+
+it's more fun to see someone actually
+
+um
+
+when when it's a Class A Challenge and
+
+seeing people overcome the challenges
+
+there are several streamers that
+
+Face Place through the game without
+
+anything
+
+isn't as fun foreign
+
+back in the day but I do have the really
+
+nice chilia how is the reason how it's
+
+really going for you
+
+original
+
+yeah you enjoy me watching me suffer
+
+I mean the suffering is part of the
+
+family
+
+but also the success
+
+you know I wonder if I'll be better
+
+inspired now with materials and he must
+
+be better I mean
+
+and plus
+
+you have shown that
+
+the I would say there's a clear
+
+difference
+
+before and after
+
+gyms
+
+and Elsa after you get through uh fresh
+
+that's awesome
+
+and that's my TV experience with
+
+I don't know if it had a spider though
+
+but
+
+I can't practice by after finishing the
+
+Press crash
+
+[Music]
+
+yeah you're going back and forth
+
+and and then I was just going to say
+
+something else I forgot
+
+and yeah I'll let you know
+
+well you can you can help
+
+where am I this looks like a place I
+
+should go to
+
+[Music]
+
+that's something
+
+let's go
+
+how did the dynamite knuckle that does
+
+suck
+
+are you free now
+
+Savage
+
+first game still can't be nice in Orange
+
+besides not to worry about you but then
+
+I did Head Start exactly
+
+oh yeah I've seen a few people
+
+struggling doesn't work it's not like
+
+the greatest boss battle
+
+it is quite a challenge
+
+so that's the three levels
+
+quite with Max this one out before I get
+
+the practice
+
+so where am I supposed to go now
+
+[Music]
+
+because
+
+yeah I was going to say that
+
+I know what you said before but everyone
+
+else haven't you can always tell
+
+everyone else to experience but she did
+
+I am probably supposed to go up here
+
+all right
+
+and then I did that timer is up
+
+and then
+
+I do want you have to be changed to be
+
+arithmetic
+
+someday
+
+I've seen one streamer
+
+hello
+
+take that
+
+is this on okay let's bring it
+
+okay
+
+[Applause]
+
+how long until the bus
+
+oh yeah oh yeah yeah that is also I
+
+think I should do I've got forgot about
+
+that
+
+you just should have done sorry about
+
+that
+
+that doesn't work oh I'm pressing the
+
+wrong button sorry
+
+the question was
+
+[Music]
+
+how
+
+well
+
+was Battle three I will kiss
+
+serious
+
+want to see this or four plus this
+
+I set it in 30 minutes but when I get to
+
+the bus
+
+and the I will
+
+cut the timer short
+
+no I didn't want to go there
+
+please there we go
+
+oh yeah and then I should have this one
+
+open
+
+now that's the prediction which I've got
+
+this forgot
+
+what is the bus
+
+all right
+
+yeah this is the bus
+
+you've got a short time predicting at
+
+least never this easy you get to see
+
+them sometimes you're not going to get
+
+an argument from me chief
+
+[Music]
+
+yeah okay this is the bus
+
+the bus is a train conductor on a huge
+
+train
+
+s
+
+okay that's the that's the boss
+
+um
+
+I should
+
+I'll be back in like a minute or so give
+
+me a short moment you get the time to do
+
+the answering the prediction
+
+but I am back
+
+have you written anything
+
+literally me
+
+except I jumped the crash
+
+yeah oh yeah I didn't I didn't remember
+
+if you defeated National I assume you
+
+didn't
+
+in that case the fact that it's just
+
+chasing stuff and trying not to fall off
+
+the ledge no thank you
+
+yeah I understand it
+
+oh hydrate
+
+and thus receding platforms those get me
+
+every single time
+
+at least it got that far
+
+I'm back meow meow meow meow meow
+
+hello kitten now and there's a
+
+prediction going
+
+how will it go from it defeating this
+
+bus
+
+place your bets
+
+yeah okay
+
+that was dehydrate
+
+foreign
+
+some predictions uh our people ready I
+
+have a kitten puts their
+
+I don't see it on my point it should
+
+wait why doesn't it show up on my bed
+
+that is weird
+
+i s i mean it should show up I mean
+
+do the prediction yeah have you both
+
+invested
+
+and for those
+
+I don't know if
+
+what is it yeah here is
+
+how do I get
+
+yeah I want to watch Pom-Pom yeah it
+
+should be
+
+basically at the top of the chat I can
+
+see it but twitch is
+
+the blank I don't know if that's because
+
+I made it myself and not allowed to
+
+predict
+
+oh wait yeah yeah now remember wait yeah
+
+okay yeah yeah if you press the uh
+
+Channel points it's at the top of the
+
+redeems that's another way of getting to
+
+it
+
+okay that's sort it out
+
+can I place your bed place your bed some
+
+Melody dead spiders will take the defeat
+
+this bus Winner Takes all the loser
+
+and we have tissues
+
+uh don't don't think this is nice
+
+you had to close and reopen yeah that's
+
+why we have doing it I mean
+
+great mate everyone ready
+
+so I can close the predictions
+
+before I begin
+
+lasting last thing you have free to
+
+vote whatever you want I take no issues
+
+yeah you're about it
+
+uh Julie are you going to vote or
+
+are you staying out that's perfectly
+
+fine
+
+so I know that I can close it
+
+I think there was something about not
+
+being able to win as a mod and uh it's
+
+only if a mod
+
+um makes the prediction
+
+yeah
+
+and then we can do it pump fun but not
+
+in one try though
+
+that's not what you voted for okay let's
+
+be
+
+and let's begin then
+
+and everyone
+
+who haven't put in anything yet is
+
+it's sorry it's fine it's fine I mean I
+
+did perform very badly against the first
+
+boss
+
+well prediction
+
+part is over time to defeat this boss
+
+okay first part is three you have our
+
+energy damage the bus
+
+if that did some damage
+
+okay that didn't do any damage
+
+[ __ ] I got to run oh fish
+
+all right
+
+oh that's spicy I see
+
+I see
+
+and also one detail another detail is
+
+shout at me
+
+okay phase one is probably easy
+
+but later faces probably will give me
+
+a problem
+
+but one one additional detail is that
+
+it can indicate that one option which no
+
+one has voted for wins
+
+hey you're not allowed to do that
+
+I will instead I will just refund very
+
+much points
+
+yes
+
+expense
+
+because otherwise everyone will be
+
+losing that's not fun
+
+but as late as long as there's at least
+
+one you know that the The Winner Takes
+
+like the wounds
+
+[Music]
+
+okay so now it doesn't want to be
+
+running if you want
+
+okay
+
+now this one this was a four faces
+
+okay okay now now it's getting a bit
+
+Cafe now taking some damage
+
+busted
+
+come at me
+
+trying to shoot stretch
+
+ah now I get the attack again
+
+[Music]
+
+okay how hard is it to you today
+
+foreign
+
+yeah now we're fighting Steam
+
+[Music]
+
+steamer cost me so much problem
+
+okay
+
+he seems way too easy this
+
+is just a slow bus
+
+okay
+
+thank you for destroying them for me
+
+okay I Can't Dance Now
+
+I'm making too many mistakes
+
+[Music]
+
+yeah
+
+okay I'm about to die
+
+okay no I can't think now
+
+now I don't have trouble
+
+[Music]
+
+I don't have any more hairless
+
+Ness
+
+I did that again and and surprise that's
+
+one that's
+
+yeah this last phase oh everything came
+
+back okay in that case
+
+okay all right come on can I stop moving
+
+just sure he start attacking
+
+attacking now
+
+I still doing that
+
+I can't I can't divide him that way
+
+oh this is not that way
+
+foreign
+
+[Music]
+
+[Music]
+
+making strange noises
+
+um
+
+[Music]
+
+that wasn't much
+
+that was
+
+sir it has your house I assume this is
+
+the
+
+[Music]
+
+thank you
+
+very slow death animation
+
+honestly that's a secret face no that
+
+was the end
+
+well
+
+one death
+
+purple dragon leaves
+
+he's got a name you know yes my name is
+
+Spyro man you must be terrador
+
+congratulations those were the two
+
+[ __ ] I love
+
+her later taster how about we leave
+
+before the volcano blows us up you're
+
+right and uh third person let's go right
+
+behind you actually I'm right in front
+
+of you
+
+thank you
+
+one two three deaths is correct results
+
+when the guy says run I think he knows
+
+something
+
+oh Cinder
+
+I'm not paying attention to cutscene
+
+I picked the correct result here
+
+now you're rich
+
+I'll go back to the temple for help
+
+three thousand
+
+splits
+
+okay
+
+everything back
+
+okay
+
+um
+
+and that's the second time since
+
+I've started streaming that just
+
+disconnects
+
+and I don't know why because I still
+
+haven't still got messages through the
+
+chat and everything but just
+
+it just disconnected
+
+so everyone everyone's in there let's
+
+continue
+
+oh that's um it switches down sometimes
+
+I think I don't know it was gonna have
+
+obvious I am on the protection yeah you
+
+did I only died once
+
+um
+
+I should write like
+
+something like that because I had
+
+I'm headed so twitch doesn't
+
+which is actually the twitch part that
+
+is done
+
+I guess to a channel being started them
+
+once more
+
+maybe see
+
+if you have not done anything
+
+I missed the friendly purple dragon
+
+rescuing my friends
+
+[Music]
+
+amazingly yeah
+
+watch out for the lava
+
+it wasn't happening the same
+
+here she comes
+
+[Music]
+
+I don't want to be
+
+where am I supposed to go it's just lava
+
+buggies no
+
+it just cuts there
+
+completely different points
+
+[Music]
+
+we've got to find them help ignite us
+
+they're gone Spyro there's nothing we
+
+can do I don't care ignitis wouldn't
+
+leave me
+
+Spyro he's right I'm right oh my God
+
+that's a first yes you'll never find
+
+them in this mess and you're not ready
+
+to face Cinder yet
+
+time to fight will come but it is not
+
+mal
+
+tese
+
+I guess you're right
+
+let's go
+
+I guess since they are sentences if
+
+the old
+
+and weak ignite I guess I didn't know
+
+ignite this when it works it kinda
+
+I don't know what you call it it's my
+
+fault I failed ignitus when he needed me
+
+most it's just that the sight of Cinder
+
+so close just just made your heart stop
+
+put ice in your veins scared the crud
+
+out of you
+
+yeah something like that
+
+all Warriors feel fear at one time or
+
+another Spiral there's no shame in that
+
+yes it's a proven scientific fact that
+
+the quotient between adrenaline and
+
+trepidation Voltaire please I believe
+
+our good friend here was trying to make
+
+a point
+
+thank you Cyril what I was going to say
+
+is that all Warriors feel fear Spyro but
+
+only the most Valiant Among Us can face
+
+that fear and mess
+
+from what I saw of you on Munitions
+
+Forge you are one such Warrior
+
+when I felt they trained and died once
+
+now is the time to complete your
+
+training
+
+now is the time to face your fear
+
+come
+
+am I the only one still petrified
+
+[Music]
+
+oh come here
+
+nice of you
+
+nice of you
+
+later they serve providing oh I don't
+
+know if it cancels the ads
+
+but very kind of beauty shy gift a
+
+subscription at least now no more ads in
+
+the future
+
+welcome because I noticed that it
+
+doesn't show that you are
+
+and that you are level one bunny
+
+because of your first mark
+
+but I think you can choose whichever you
+
+want to show but I mean if you if I
+
+heard that one
+
+press square to shoot the Earth
+
+academics preparation
+
+it's a good moment to have a heads I
+
+guess
+
+a little bit
+
+a picture on us maybe I think
+
+soon the ads should be over you can see
+
+always be gracious in Victory Spyro
+
+what do you mean
+
+yeah okay let's see if I can help me
+
+nothing
+
+so
+
+now
+
+he's up here
+
+okay
+
+foreign
+
+[Music]
+
+I earn it to you basically
+
+press oh wait what should I stand in the
+
+middle of doing this month
+
+stay within them okay okay
+
+many expressions
+
+like ignitis may have been right about
+
+you
+
+that was nice talking
+
+okay back here
+
+just hi this is
+
+foreign
+
+[Music]
+
+yeah it proved to be a true warrior yet
+
+pyro come here yeah
+
+that's this one
+
+again
+
+it's called
+
+[Music]
+
+the red is
+
+energy points I think they call it
+
+okay
+
+let me finish up the last one okay
+
+and then activate this oh
+
+thank you
+
+last before it's updated good job now
+
+the final confrontation awaits
+
+Dragon says I guess ignite this hasn't
+
+risk it yet
+
+oh Lolly got the level one bunny
+
+you've done well Spyro there's ass pat
+
+on the back good going all that other
+
+rubbish but we've got to get moving here
+
+oh yeah I don't have anything you can
+
+choose she happens to be right terrador
+
+ignite if you click on the icon to the
+
+left off
+
+the Chatfield
+
+you should have an option to choose
+
+which icon you want to show up as your
+
+subscription
+
+yet take place every time
+
+but you have the first icon which is
+
+like an upgraded version certain that's
+
+weird
+
+built in twitch icon come on I'd give
+
+anything to go with you young Warrior
+
+but that Crystal sapped the last of my
+
+will I fear my fighting days are over
+
+every generation must pass the torch to
+
+the next terrador
+
+our time is done yes it is spirals time
+
+to shine now go to it young dragon yes
+
+sir wow you guys make even me want to
+
+face Cinder
+
+did I say that aloud
+
+sounds like Sparks is getting a bit more
+
+positive
+
+so this should be the last World and I
+
+seem because he's supposed to face in
+
+there is where hope goes to die spiral
+
+thanks for positivity
+
+plans her next assault
+
+next time I say that I want to face
+
+Cinder why don't you go ahead and punch
+
+me in the mouth no problem
+
+yeah that's the spirit spider
+
+but no problem I'll do it
+
+I gladly to it or made it sound like
+
+this place is uninhabited now what fun
+
+would that be come on we've got to take
+
+them out
+
+[Music]
+
+I want the crystals I want all these
+
+crystals these dark crystals
+
+pulsating with evilness
+
+I hear some evil laughter
+
+foreign
+
+[Music]
+
+that is so strange names
+
+okay how about fire
+
+wirelessly damage I want ice the ice is
+
+just annoying
+
+about Fire and Ice
+
+that's an interesting conversation
+
+that's a nice trick
+
+okay
+
+wow what's that oh Jim I like gems
+
+I love collecting them
+
+I'm going to destroying them
+
+oh here we are let's stop running away
+
+how are we Face me
+
+so
+
+um
+
+I don't know
+
+badly applicated that one
+
+yeah
+
+I got to get the pricing now finally
+
+that was in my strap battle
+
+oh what yeah kind of just like creatures
+
+like this
+
+leech electric leech
+
+like fire
+
+so
+
+as long as it sounds like fire rank it
+
+it's true
+
+thank you
+
+oh I think well
+
+I have a way to deal with you
+
+sailor Hunter
+
+I think
+
+yeah
+
+I sure sounds
+
+[Music]
+
+[Music]
+
+and because it definitely shows one day
+
+one enemy at a time he switches around a
+
+lot
+
+chill spell
+
+another one of these friends
+
+foreign
+
+[Music]
+
+perfect
+
+explosions everywhere
+
+[Music]
+
+all right just two small enemies huh
+
+that's more more so of course
+
+[Music]
+
+a silent drum that seems like a useless
+
+drum
+
+are they making noise what's the first
+
+thing yet
+
+silent Battleground
+
+s
+
+thank you
+
+please stop attacking me
+
+nice twister
+
+what is this Warrior call this evil
+
+Warrior the ants twister
+
+I feel frightened
+
+okay that's what I wanted
+
+I think
+
+might be here
+
+oh no
+
+oh what's going on here
+
+not to cut me at the same time because
+
+that makes the possibility powder
+
+wow this is quite quite the place
+
+[Music]
+
+get ready
+
+so this is
+
+what's the point of this
+
+smacking everything
+
+defeat all of singers forces to activate
+
+the crystal platforms I mean I have been
+
+defeating all the horses already did it
+
+you have to tell me yes sure
+
+all right continue with what I've been
+
+doing so far
+
+that's
+
+super easy
+
+[Music]
+
+okay
+
+place it active now
+
+did you hear someone walking
+
+oh there's there's one thing
+
+why are you talking
+
+we were up there fighting
+
+her convenience that the security system
+
+just allows you to continue by defeating
+
+and yeah I mean
+
+isn't that a security system should do
+
+work defeated secured card and then
+
+disappear the system shuts down
+
+for like the gate open since
+
+our art security system should work
+
+wow
+
+okay okay a big enemy
+
+so I'm making progress
+
+silent eyes or silent this if you want
+
+nice work big guy now for the next one
+
+oh sharp stuff
+
+okay next spell
+
+yeah they have to be careful with me
+
+soon as they don't get stabbed
+
+can I do this
+
+I mean
+
+he attacked me okay I can't do it
+
+because they keep attacking me
+
+okay
+
+my security system I don't think you
+
+want to be part of social security
+
+system
+
+but then for them to get through they
+
+have to kill you
+
+if you're the security guard guys
+
+okay two big boys
+
+can I
+
+yes
+
+not really
+
+how are you supposed to fall down
+
+please fall down
+
+I'm standing on the edge
+
+thank you
+
+I mean you're dead already so
+
+much stuff you know
+
+okay arcade
+
+oh
+
+I got a lot of upgrade with now
+
+yeah okay this one
+
+you know I see you want this outfits
+
+it's a nice outfit isn't it
+
+no I don't want it
+
+yeah I seem so
+
+let me know what you think about that
+
+outfit
+
+okay I've got the new security system
+
+that I placed when you get close
+
+okay
+
+okay that looks creepy
+
+[Music]
+
+that wasn't down
+
+I mean
+
+someone fell down anyway
+
+because this enemies is too small to
+
+have every airport to knock them down
+
+so long that they because I'm not good
+
+at it
+
+and then die before I get to knock them
+
+down
+
+very nice
+
+Jason spiders
+
+it's a spider
+
+it's a very nice outfit fun fun thank
+
+you I
+
+yeah
+
+well I kind of plan without myself
+
+I had a more app with ideas fun fun I do
+
+have a bit of this I just don't have
+
+money to pay the artists
+
+I want the uh made outfit I also take
+
+ideas too
+
+and then
+
+I guess there's like cosplaying as other
+
+characters related to whichever game it
+
+is
+
+if only I was an artist and kids
+
+kid I mean I could probably just give it
+
+a try okay pick one come on
+
+camera
+
+I want you now
+
+thank you that was easy
+
+and now
+
+I am supposed to defeat this thing okay
+
+it's not it's not something that shuts
+
+down
+
+oh it's parking back what kind of
+
+security system is this
+
+[Music]
+
+stop doing that
+
+I defeat the laser spider
+
+oh you want pamper this up as an Evie I
+
+would like that
+
+[Music]
+
+doing this
+
+outfit
+
+yes Evie yeah I guess I should try to
+
+draw
+
+myself draw myself draw on my own
+
+[Music]
+
+goodbye
+
+[Music]
+
+goodbye
+
+oh you take fall damage in this game
+
+imagine taking fall damage
+
+I mean if if he starts flying before
+
+landing I guess you can avoid it
+
+welcome welcome
+
+nice to see you here too
+
+playing some
+
+Legend of Spyro or hopefully finished
+
+England Spyro
+
+and don't mind the outfit
+
+why are you standing on such a smart
+
+platform
+
+this is
+
+[Music]
+
+ah it punched me
+
+can't wait to turn on for that one
+
+no there we go
+
+oh wait okay Sparks pointed that way in
+
+that case I go this way
+
+but is that the way to continue actually
+
+okay let me go back I changed my mind
+
+I should have listened to you Sparks now
+
+I do something happy
+
+so what you are talking Sparks there's
+
+nothing here
+
+sometimes it points in the direction
+
+he's going
+
+like what thing you should interact with
+
+or something
+
+no uh okay I'll deal with you later I'll
+
+take care
+
+be careful each first
+
+but I only got enough effective at the
+
+moment
+
+good
+
+I'll put it on a queue I guess if I can
+
+no
+
+no
+
+I guess I could shorter the timer too
+
+but it is 30 minutes which quite a long
+
+time
+
+if I just has a starch
+
+but I guess I should never be the timer
+
+not much of a timer it's manually I used
+
+it
+
+you should gather some dark crystals
+
+envelope would want them in here stay
+
+yeah
+
+yeah what's going on here let's party
+
+okay yeah you get the outfits
+
+Within
+
+all right
+
+remember it doesn't exist in this
+
+universe and new girl does the unit ever
+
+exists
+
+of the night exist in November
+
+up here
+
+hopefully my appear up here
+
+[Music]
+
+Byron The Dark Crystal
+
+yeah
+
+it can only be one
+
+Dragon girl in every game
+
+no let's respond down here
+
+another big one though
+
+oh
+
+a star
+
+[Music]
+
+I like the current outfit times yeah I
+
+mean you get a lot of whatever those
+
+points
+
+the same
+
+but if you want to activate like if you
+
+I don't know
+
+because if I do stream in three hours
+
+that means that you get six outfits
+
+during the whole stream
+
+this one is different from the rest but
+
+it cannot counter tightly
+
+kind of level Collision is this
+
+okay
+
+[Music]
+
+so I could shorten it to like half the
+
+time
+
+I I do think soccer means might be too
+
+long
+
+quite a long time
+
+oh no
+
+that's maybe
+
+TV Fire stuff
+
+let me know you see once he has a long
+
+time as possible you could do a 10
+
+minutes option for fewer coins
+
+[Music]
+
+this point of this
+
+you don't seem to do anything
+
+and explode and then nothing
+
+hey
+
+yes
+
+half the time for half the coins
+
+[Music]
+
+50 minutes might be good
+
+for 15 minutes
+
+is waiting I need to compare to what
+
+other
+
+extreme HD but it also depends on the
+
+side of course
+
+nice
+
+now I think
+
+nothing can
+
+change it's fun now
+
+one thing
+
+Miss cuts it
+
+but there we go
+
+second probably keep it like it is for
+
+now
+
+[Music]
+
+I don't see anything
+
+you're blocking the camera
+
+I'm dying
+
+behind it
+
+finger
+
+all right
+
+oh dead already Okay
+
+um
+
+I need to concentrate oh it starts with
+
+punching someone
+
+okay and it shouldn't get too close then
+
+like that
+
+[Music]
+
+okay there we go
+
+here with this one
+
+[Music]
+
+no no no no
+
+what you folks down there online
+
+nope
+
+you're getting better inspired get out
+
+of there
+
+other girls I said I must not
+
+but I know
+
+the enemy is healed
+
+okay
+
+I'll be sure to for us passion
+
+oh no
+
+and you're not going to have a potato
+
+left
+
+yeah I need to be on this one first
+
+okay there we go
+
+okay
+
+that wasn't the Dodge
+
+I just I wish I had a dedicated Touch
+
+button
+
+huh
+
+let's say that now I got to pull again
+
+okay
+
+my my crystal
+
+pretty much shot the area yeah exactly
+
+and it's just
+
+I'm vodka nuts and that'd be bad why and
+
+due to damages
+
+mostly
+
+I don't know
+
+why is that stuff
+
+the camera doesn't pick any garbage okay
+
+that would be very little damage
+
+[Music]
+
+okay hold on let me
+
+[Music]
+
+okay let's do this okay let's do this
+
+that was all of them
+
+foreign
+
+was nothing
+
+that does a lot of damage
+
+it does damage
+
+but it drains a lot better because
+
+foreign
+
+[Music]
+
+yeah
+
+it's partly Crystal parking electricity
+
+what phenotype is that I left it Crystal
+
+type
+
+the kid is up uh
+
+I
+
+sorry I mean the background I didn't
+
+mean to
+
+Bohemian magic speech
+
+laughs
+
+lost touch that one has lost it
+
+[Music]
+
+okay I should probably
+
+um
+
+[Music]
+
+does that make them slow
+
+yeah that's a good idea
+
+[Music]
+
+so great balance taking care of but this
+
+one
+
+oh
+
+foreign
+
+of course
+
+[Music]
+
+you don't steal that one
+
+[Music]
+
+that's fun all right another one
+
+foreign
+
+[Music]
+
+[Applause]
+
+[Music]
+
+[Applause]
+
+foreign
+
+[Music]
+
+I guess I guess it worked
+
+[Music]
+
+[Music]
+
+fall down
+
+oh I died
+
+those Red Wing must looks like something
+
+you'd find in Monster Hunter oh
+
+that sounds
+
+interesting
+
+he said that everything space without
+
+the Sandra but
+
+Maybe
+
+oh I'm going up
+
+lovely
+
+I'm not finished now
+
+[Music]
+
+[Music]
+
+too many people on it
+
+[Music]
+
+foreign
+
+to that door I assume
+
+I didn't mean since that one here
+
+there's nothing here
+
+anyway because it can fill it up really
+
+quickly
+
+but now it is more electric spiders
+
+[Applause]
+
+do you like ice
+
+foreign
+
+[Applause]
+
+[Music]
+
+maybe I should defeat them with
+
+electricity
+
+do anything here fire no
+
+[Music]
+
+yes
+
+well bubbles or water
+
+yeah what they should do that a lot of
+
+damage to them
+
+there you go there's some damage more
+
+like the pack is quick but it wasn't too
+
+much damage I mean the attack does do my
+
+everything's wrong with what they said
+
+there
+
+they attacked us that there's a lot of
+
+damage but without the drains a lot of
+
+the energies
+
+it seems at the same time
+
+I don't really have a hard time dealing
+
+one of them
+
+[Music]
+
+no don't chase me
+
+anything
+
+Deep Purple Tower is Concepts in this
+
+area because of a few dinosaurs
+
+another one
+
+yeah
+
+too many laser spiders
+
+[Music]
+
+thank you
+
+Sims more
+
+okay
+
+okay another one defeated
+
+then this is the last one
+
+how many lace is quite exciting
+
+I don't know
+
+too many
+
+just
+
+[Music]
+
+that feels I can attack you
+
+oh thank you does that be dangerous for
+
+me
+
+[Music]
+
+Windows Crystal appears quickly
+
+mask making he don't even claim us
+
+I think
+
+I guess you can have masks more like
+
+this
+
+still doesn't matter ignite us needs us
+
+I'm not complaining I'm just saying it
+
+would be easier if she was smaller
+
+a lot smaller
+
+it is very high up
+
+[Music]
+
+so let's push these off
+
+goodbye
+
+and that's fine don't fall up kid
+
+there you go
+
+another big one
+
+right here
+
+and now I'm I'm trapped
+
+you are with me
+
+jump interrupt me
+
+what's up
+
+a bit more
+
+yeah attacking them doesn't wrap their
+
+attacks
+
+they still continue doing backpacks
+
+[Music]
+
+oh I didn't mean to touch that
+
+okay are we going to fight now
+
+foreign
+
+[Music]
+
+[Music]
+
+come on
+
+no no no
+
+oh kill plane yes Diamond touch it
+
+doesn't die in the air not like falling
+
+that's animation
+
+oh you dropped he dropped something
+
+[Music]
+
+perfect
+
+where's this in this one once
+
+goodbye
+
+hydrate
+
+ah this one is done
+
+I will switch to this one
+
+I will take a hydrate kill my pumpkin
+
+this is unlike
+
+here
+
+he's still purple and shot because of
+
+the rain
+
+I was just a truck down here or
+
+something
+
+all right or something
+
+[Music]
+
+I was meant to do it yet
+
+no not nothing more of the laser spiders
+
+[Applause]
+
+College
+
+Merry Christmas
+
+laser spiders
+
+trying to attack this one pretty much
+
+helps it's too much time he likes to
+
+like to smell them
+
+[Music]
+
+[Applause]
+
+yeah
+
+at least some more laser spiders
+
+yeah game games like they're not
+
+candidates they're laser spiders
+
+yeah that's more the game change the
+
+name of them
+
+one of the few elements that don't have
+
+names and he just to keep shop what they
+
+are
+
+did I like to upgrade this thing again
+
+nothing
+
+um more lazy spiders
+
+not working
+
+thank you
+
+thank you
+
+I think
+
+[Music]
+
+foreign
+
+I think I missed every single one of
+
+those
+
+it looks like more battling
+
+oh oh yeah and big battle
+
+s
+
+killing your own kind
+
+that doesn't seem smart
+
+oh yeah of course closing Gates like
+
+after soon
+
+[Music]
+
+okay I shouldn't maybe do something
+
+about this cannon
+
+looking
+
+oh inspired today okay I got
+
+okay
+
+yeah it's okay to die he just said that
+
+others names
+
+yeah this can really need to support
+
+having possible names sunscreen at the
+
+same time
+
+there's a crystal over here all the way
+
+in the corner
+
+nothing is good this area is clean
+
+just moving on to more Bells
+
+never seen this one
+
+yeah
+
+it's sad
+
+yeah I don't know if you've got ads or
+
+anything
+
+it says that as positions
+
+it is the legend I can't wait The Legend
+
+of Spyro
+
+but really I don't think this challenge
+
+is possible on the PS1
+
+[Music]
+
+what colors
+
+wow
+
+[Music]
+
+and a possible in the remake
+
+that's what they're talking do you mean
+
+they know
+
+lame challenge no it's just you being
+
+bad
+
+No it should be possible and what's the
+
+wet party do you have trouble with I
+
+mean you should certainly be able to get
+
+on the
+
+did you get did you get this 6 000 gems
+
+and costume as this one
+
+Challenge on this Vietnam
+
+I need 700 gems without the flying hand
+
+oh you still don't have I mean
+
+wait is there really not enough games
+
+[Music]
+
+that's interesting
+
+so can I defeat these things
+
+no I just need to avoid I'm gonna take
+
+them I guess
+
+uh possibly where I miss uh um have
+
+another look yeah I'll put when I have
+
+the time like if you have the time
+
+tomorrow
+
+I can
+
+sing
+
+there's anything
+
+but yeah I did the challenge in the
+
+united but it still feels like
+
+about plenty of gems to that liners
+
+shouldn't seeing
+
+that was something and I'm glad you had
+
+fun with it
+
+and
+
+well since
+
+I'll do it yeah
+
+since the other two games don't have any
+
+requirements regarding gems to such
+
+um
+
+in those cases it says it should be
+
+might be possible
+
+yeah yeah
+
+and
+
+diamonds actually done with my PS4
+
+you'd probably
+
+wrong
+
+this is time please oh another one
+
+that's just iron these I think
+
+they're not easy
+
+stupid Stones I don't like you
+
+yeah that's how I progress
+
+silly give it a go anyways yeah that's
+
+uh
+
+listen
+
+I'm really glad you actually did do it
+
+and I'm going to try
+
+your suggestions
+
+to a challenge too
+
+I'll do
+
+to see when I get it where I could put
+
+him right there
+
+this would be on some Saturday Sunday
+
+but I do feel
+
+random games a kiss
+
+okay rice and Fire
+
+okay you are
+
+trust me a lot of traffic signal
+
+s
+
+there we go
+
+[Music]
+
+e
+
+[Music]
+
+yeah not so uh I should also wake up
+
+earlier tomorrow
+
+let's sleep a little late
+
+[Music]
+
+okay this anime is fine why did it
+
+um this is a sound effect on game appear
+
+again now the sound effects
+
+kinda I don't know
+
+some sound effects
+
+oh
+
+okay
+
+[Music]
+
+yeah they
+
+just killed their own fight yeah
+
+I mean it does make it easier
+
+[Music]
+
+pretty quick and easy
+
+can I continue
+
+let me upgrade
+
+you now have the fury of
+
+Heat
+
+it runs breath
+
+of nature
+
+yes this box this part these are my
+
+these are my stuff
+
+I guess just maxing out electricity now
+
+the need to bet is least I mean yeah I
+
+haven't talked it so I mean it's week
+
+for that reason but
+
+foreign
+
+[Music]
+
+[Music]
+
+[Music]
+
+thank you
+
+you got a big one this time
+
+and I'm getting
+
+hey attack me how many times
+
+I got hit by Shockwave
+
+that doesn't seem like
+
+a Farm location
+
+[Music]
+
+got hit by this really slow punch
+
+[Music]
+
+okay there we go
+
+then yes this one
+
+which is
+
+now what easier to deal with
+
+it she probably got Mr Price oh no what
+
+is this and mine
+
+a Black Knight with purple
+
+magic
+
+electric King is this related to the Ice
+
+King
+
+okay so it yeah they seems to be really
+
+dark so this is just a mini boss and not
+
+like a full bus
+
+coming okay
+
+oh
+
+okay
+
+the pots for yeah
+
+and it is the Ice King but
+
+doesn't it mean I have to fight the
+
+Earth's king and the Fire King as well
+
+how is nothing
+
+[Music]
+
+[Music]
+
+oh no he's yeah
+
+so the ice cream tomato pie is the
+
+electricity King is made of metal
+
+King
+
+this is
+
+else
+
+[Applause]
+
+foreign
+
+okay
+
+speed
+
+this is phase one again no it's
+
+different
+
+slept with a sword
+
+what is that
+
+a boss
+
+we got stunned I was thinking did I die
+
+with hands left
+
+can I do this
+
+one try
+
+squished okay
+
+give me hell
+
+hi someone
+
+[Music]
+
+it didn't work
+
+I guess that's worked as a Dodge I've
+
+exactly what you're trying to do
+
+too much breath still need to help
+
+all right
+
+[Music]
+
+quick attack
+
+I had no attacks left in the edge
+
+well that worked the king is down the
+
+King has been defeated
+
+I really hope this is not earth or Fire
+
+King now
+
+um
+
+[Music]
+
+you did it yes I did it in one attempts
+
+I'm really happy with that
+
+and let's
+
+um
+
+[Music]
+
+I actually don't know how to
+
+had the properly response I'm not really
+
+good with
+
+instructions
+
+okay
+
+I wasn't really good at me I guess this
+
+is
+
+do it
+
+let's be
+
+just a single enemy right how did I
+
+defeat the
+
+boss that had like
+
+three faces
+
+twice the health bars
+
+for example
+
+it doesn't seem like a good idea
+
+thank you
+
+got that strongly
+
+oh
+
+almost left now
+
+defeated by his own
+
+[Music]
+
+I'm silly
+
+break all the crystal charts to allow
+
+the elevator to proceed
+
+doing this
+
+ah okay
+
+have a great distance that seems like
+
+missing anything I'm doing this in this
+
+game
+
+in the short like spikes there's bikes
+
+everywhere
+
+okay so do you eat that
+
+they're still here
+
+[Applause]
+
+first
+
+[Music]
+
+come on
+
+you stop attacking
+
+there it is then
+
+I'm guessing news I've ever seen
+
+because if you give me all the chance to
+
+come down
+
+I mean it's supposed to fall down
+
+Thomas defeat by the way
+
+yeah send away the Enemy at the time
+
+yeah that's
+
+that seems easy
+
+why is it flashing
+
+[Music]
+
+I don't know why it's flashing
+
+yeah it doesn't even give me any enemies
+
+or anything so I don't even get the
+
+point of it
+
+but I also don't get the point of the
+
+flashing
+
+is that in the original game is there
+
+something wrong with
+
+this capture card I mean I understand
+
+why you it just be flashing in this
+
+situation
+
+it was easy
+
+try the other one
+
+I really iron bad
+
+[Music]
+
+I love snake
+
+and that's that
+
+and then here's the spawn onesie
+
+yes
+
+I know right yeah there should be some
+
+element music
+
+okay are you showing here to break this
+
+again I think I got that
+
+sometimes it makes it very obvious what
+
+you're supposed to do sometimes it can
+
+be
+
+50. I think this one is the most honest
+
+our level
+
+like that
+
+I'm waiting not that the elevator is
+
+moving while I'm leveling up anyway
+
+let's level up anyway
+
+now it starts flashing again it has
+
+something to do with it mommy elevator
+
+[Music]
+
+slow elevated at least it's a short
+
+before it stops
+
+oh
+
+oh interesting
+
+I wasn't ready you attacked me too early
+
+that's why I like a countdown but still
+
+an elevates music no all you get is
+
+that's the recipe
+
+yeah even just trying to knock them down
+
+kills them
+
+okay here we go did they remaster these
+
+games no sadly not
+
+all right let's start oh no they are
+
+protected I see this trip that enough I
+
+would like if they did and uh maybe
+
+more like
+
+if they got a second like
+
+19 19 somethings
+
+like every master and everything
+
+the controls
+
+also option between using yeah
+
+spiral traditional controls
+
+or
+
+controls
+
+nope now you get all the answers here I
+
+wish they did
+
+anything
+
+[Music]
+
+because some because they have put the
+
+flame button where this charge button is
+
+foreign
+
+wash the elevator time
+
+[Music]
+
+[Music]
+
+they should remaster and make sparks not
+
+ugly as soon
+
+so I would imagine
+
+[Music]
+
+[Music]
+
+stop doing that
+
+oh right someone stepped off
+
+doesn't that mean there's a lot of gems
+
+down here
+
+you can see me
+
+oh another one
+
+yeah he didn't see what happened to the
+
+other one that I pushed down
+
+yeah we should move a lot of gems down
+
+there now
+
+let's get toasty humps for some reason
+
+bye
+
+go down and see
+
+I guess they are
+
+unless oh yeah I wanted you to fly
+
+spider
+
+there's no level up anyway oh here we go
+
+other than I have to wait for this
+
+location
+
+uh maybe that wasn't a good idea
+
+so much head back
+
+it's a way it's a quick way to get rid
+
+of them but that's a lot of
+
+a lot of slow elevator times so maybe
+
+not last idea
+
+music
+
+finally the elevator moves fast when
+
+it's going down yep
+
+that's the only time it I mean
+
+I mean yeah going down it can just let
+
+it fall down for the
+
+by the force of gravity but when it
+
+moves up it has to actually push it up
+
+and it's a heavy elevator
+
+yeah if I stand close to it
+
+there we go
+
+yeah that's the next stop
+
+okay
+
+[Music]
+
+now apparently
+
+further remove the stick
+
+slowly go oh I mean
+
+the last seam of the stick the slower
+
+the camera moves but as soon as you
+
+release the stick it goes back
+
+so what's
+
+the position six should determine the
+
+position of me
+
+camera I don't know
+
+you should get there by next question
+
+I will see you next week
+
+Careless Whisper place over there
+
+elevators
+
+the feet in there
+
+yeah I was going through it anyways so
+
+these careless side well this bike goes
+
+to the
+
+different teams just for my most likely
+
+yeah
+
+I've been thinking of doing some sound
+
+routines
+
+can I have to fit
+
+okay that's the
+
+Queen's picture thing
+
+all right cutscene it's Paris is a
+
+purple blush
+
+okay
+
+spiral what
+
+I don't like this
+
+feels like she's baiting us I'm getting
+
+smarter
+
+well at least Sparks like a admits being
+
+stupid
+
+trap
+
+here before Cinder gets back
+
+yeah see there's nothing here oh wait he
+
+Clips through the floor
+
+this is so big
+
+time you learned how complicated life
+
+can be very big
+
+we missed Spire oh it did his fire
+
+run Spyro
+
+save yourself
+
+but it's more slower
+
+bring it
+
+bring it I'll bring my all
+
+right I don't get full health
+
+great health
+
+I'm sorry
+
+stop attacking whatever you leave you
+
+have
+
+okay I need to I need a plan
+
+[Music]
+
+okay that doesn't work
+
+does this work
+
+snap
+
+take damage
+
+okay
+
+okay your attack is way too long
+
+I slept
+
+okay can't
+
+yeah I also forgot the uh
+
+forgot the uh um
+
+yeah
+
+prediction for these battles but I'm
+
+pretty sure I'll die more than four
+
+times
+
+I don't think we need a prediction
+
+don't do that
+
+[Music]
+
+okay we can't we can't do this no
+
+[Music]
+
+that one
+
+[Music]
+
+oh no I was out of range
+
+I was a problem inspired
+
+probably let your spider is that
+
+spider is so slow when it comes to
+
+dodging I moved into that state
+
+and yeah so yeah Aspire is too slow when
+
+it comes to touching
+
+and the build up on a pack of the
+
+opponent is too quick
+
+you have to
+
+yeah so yeah
+
+I should have picked up health
+
+[Music]
+
+I was out of range
+
+foreign
+
+[Music]
+
+at least
+
+come on I just got my health back
+
+stop chasing me
+
+uh
+
+oh
+
+okay okay
+
+let me just see what's going on here
+
+you think that's a nice voice wait a
+
+spider voice pie and I sharp Woods yes
+
+Queen summer is the I assume that's the
+
+voice of Cindy yes he is
+
+Boys by Chris Summers
+
+seriously from Rugrats number five from
+
+kind of names kids next door which I
+
+personally have no experience with
+
+because well I watched those in Swedish
+
+the circle very Talent voice acting
+
+incredible
+
+the fire dragon guy sounds familiar too
+
+the tail attack sounds like a weep I
+
+guess it is a weep attack
+
+is David Spade
+
+I don't know what it is
+
+no not Sparks the one who is captured
+
+who touched by Sir I think it's scary
+
+old man
+
+can
+
+you yeah let's just confirms that
+
+and I was thinking you have to look at
+
+that
+
+I think I have the strength
+
+I mean that I guess guessing is fine
+
+it's easy to look at it's basically what
+
+I mean because I she already created
+
+everything somewhere
+
+quiet until the Joker joins the party
+
+isn't that
+
+what thing
+
+it's the first one getting a lot of
+
+famous actors which I think is silly
+
+foreign
+
+I don't really buy a video game for
+
+famous actors
+
+it doesn't get silly like
+
+because I have I've had people suggest
+
+that I should watch something because
+
+there's a certain famous person in it I
+
+don't even know famous actors
+
+so it means nothing to me
+
+oh
+
+and I'm
+
+getting here
+
+now she's hot
+
+[Music]
+
+it's in there please stop I'm just a
+
+young dragon you're evil
+
+and stop showing me your butt
+
+some reads
+
+why didn't I kept in a house
+
+attack Nicholson
+
+I know by the way why aren't you doing
+
+anything you're standing there and
+
+taking diamonds is it is quite a bit
+
+because quite the hard shot apparently
+
+because I felt bad outside and how hot
+
+spiders move well like I don't get how
+
+I'm supposed to play this game
+
+in that case
+
+I did together once
+
+but then died
+
+she's so fast and attack so quickly
+
+I am less surprised about that one but
+
+no that's excited then I got inside
+
+shampoo boys are characters in red
+
+versus blue oh
+
+and that's far more obscure and inspired
+
+it is which character did he
+
+boys
+
+some one of characters
+
+can't stop them
+
+[Music]
+
+yeah I'm I'm having trouble with this
+
+fight
+
+[Music]
+
+[Music]
+
+am I supposed to do this
+
+no apparently no foolproof
+
+okay it doesn't work on that okay
+
+is actually focused on me now
+
+oh
+
+[Music]
+
+I just have to avoid
+
+her mouth
+
+and tail uh
+
+that when I found them
+
+this way you can do it
+
+again I don't think I watched that much
+
+they watch quite a lot of red version
+
+blue but
+
+waiting to freeze
+
+I don't think
+
+this is
+
+I don't think that comments would be
+
+spiral
+
+you and Cinder share more than you know
+
+it's time
+
+I told you the truth
+
+all of it
+
+you see after I took your egg to the
+
+Silver River
+
+and returned to The Grotto to find out
+
+her chaos she might save these fights
+
+until tomorrow I bet for how long
+
+with us both hours
+
+we will accept one to be fair I've been
+
+playing a half an hour over time
+
+to prevent
+
+the bird you are right about that needed
+
+a dragon I forgot to check the camera
+
+Spyro only one born in the year Dragon
+
+could
+
+have been so close to anything
+
+finishing the game
+
+I'm afraid so but if we come from the
+
+same place why is she so so evil
+
+monstrous big sexy oops did I say that
+
+because Spyro after the night of the
+
+raid
+
+she was corrupted by the Dark Masters
+
+poisonous powers
+
+Twisted by his evil law
+
+she's become the dark master
+
+but why yeah of course the only Master
+
+female dragon in the game should be made
+
+from the portal of convexity yeah
+
+considered sexy Havoc across the realms
+
+and if Cinder gets there
+
+he just might succeed
+
+[Music]
+
+I'm afraid
+
+we might be too late
+
+no I refuse to give up I'm going to stop
+
+Cinder and the dark master
+
+wait you uh you heard the dragon's fire
+
+we said too late we'll get him next time
+
+come on champ you did a great job and
+
+let's let's take five no I'm ready now
+
+okay
+
+you're all right hello Clay welcome you
+
+have to try it's only reason there how
+
+much this game is
+
+too sexy I mean they made
+
+sex injury United so
+
+[Laughter]
+
+I guess you are correct about that why
+
+they look after us all
+
+they made they made the female
+
+characters less sexy and they made the
+
+male guys more sexy they're just trying
+
+to balance it out okay
+
+convexity
+
+funny but unfortunately now it's about
+
+the money
+
+I mean
+
+I think
+
+this battle is that long unless I've
+
+failed a lot so
+
+I think I could
+
+end the game not too long time
+
+[Music]
+
+honestly this is a whole world I'm gonna
+
+see a whole lot more come on
+
+it shouldn't be but it is it's just
+
+now this is the cinder battle okay
+
+in that case I can hopefully finish this
+
+panel here and then the spiral Legends
+
+pirate Adventure 2 begins
+
+tomorrow in that case
+
+it's a weird place
+
+don't jump on this
+
+it wasn't bounce
+
+I wanted to be bouncy
+
+they probably have to pay
+
+the voice actors again they did every
+
+dub
+
+ignited so
+
+what does this do it no no way
+
+so if they did redo this game they will
+
+probably
+
+voice it
+
+comedy
+
+[Music]
+
+I got up there I don't remember
+
+pretty expensive but yeah
+
+I could imagine that
+
+one million dollars
+
+what's this game but oh
+
+[Music]
+
+yeah this isn't going to work what I'm
+
+supposed to do
+
+that's somebody oh that's I'm not
+
+supposed to do that
+
+inspire you that
+
+I didn't even get the center
+
+okay I'm up here
+
+well he tried but yeah no more defeating
+
+isn't it
+
+I'm not even supposed I'm not even sure
+
+what I'm supposed to do
+
+thank you
+
+hello
+
+kinda
+
+[Music]
+
+like
+
+[Music]
+
+those fish things are cool actually I go
+
+there but then I don't get up
+
+I mean
+
+why can't he just fly
+
+I don't really use that area
+
+I can't reach like this area
+
+I'm not sure if that helps
+
+it's like that immediately because it
+
+came from mechanics
+
+yeah because he let's do it
+
+he can't fly freely he has shown that
+
+huh
+
+yeah I'm not sure what I'm doing at the
+
+moments
+
+this feels like I'm going back to the
+
+start
+
+it didn't help anything
+
+I think the path foreign
+
+this is different
+
+I guess this isn't the start it's just
+
+the level is confusing
+
+yeah this is the continuation
+
+okay good I'm actually making progress
+
+not the
+
+clearest design
+
+um
+
+right that worked somehow
+
+yeah the stuff was probably somewhere
+
+okay
+
+Linda I am here I know you can see
+
+that's not how the platform looks like
+
+Master returns
+
+we're too late
+
+yeah
+
+consistent little fellow aren't you
+
+this is where it really ends bring it
+
+no mercy this time
+
+I can't watch this
+
+okay yes let's just continue
+
+all right
+
+Kim
+
+happy
+
+maybe I shouldn't stand on the side
+
+closest to the
+
+[Applause]
+
+[Music]
+
+it's very
+
+late
+
+I'm not supposed to be on this side
+
+I just have to work it out how cute
+
+each face because I don't have to
+
+restart the whole battle unless you
+
+change the rules
+
+stop attacking spider
+
+[Music]
+
+that includes change the Inspire that's
+
+not that loud run Spider Run
+
+get away from the evil
+
+dragon
+
+okay
+
+nice it phase two done
+
+all right good that he stopped breathing
+
+fire when he got to me
+
+are you done
+
+you want to come find
+
+thank you
+
+that was somebody to find how about that
+
+uh uh it wasn't for president why are
+
+you stop stop lying around leave
+
+something
+
+now he has got hurt but
+
+you're going to take more damage if you
+
+don't do anything
+
+why are you running
+
+why you have to do running
+
+I had to be more fire
+
+back in
+
+I can survive fire
+
+[Applause]
+
+that's right
+
+he's especially to society
+
+yeah let's fight
+
+what are you doing
+
+and it moves back
+
+thank you
+
+okay if you did a fly one more time
+
+you don't even try to hit me
+
+what are you doing yeah
+
+[Music]
+
+okay push out for that
+
+well I guess I did
+
+try to die but who cares
+
+succeeded the next phase
+
+for now okay
+
+[Music]
+
+oh
+
+I almost learned Deep Dark Tower
+
+yep no it's time to unleash the true
+
+Dragon within you
+
+foreign
+
+[Music]
+
+[Music]
+
+she is just like me
+
+smart weak and dude we gotta get out of
+
+here now
+
+I can't leave her behind
+
+save her
+
+what save the beast that's been trying
+
+to kill us yeah that wasn't her fault
+
+[Music]
+
+now we can go right behind you buddy
+
+[Music]
+
+[Music]
+
+mommy fluff my pillow
+
+better spiral
+
+not really ignite us more has seen this
+
+trained every last bit of my strength I
+
+can hardly lift my head yes it will take
+
+some time for your powers to return
+
+but they will in time young dragon
+
+they will in time
+
+Cinder ever since I failed the night of
+
+the raid
+
+I've dreamed of this day it wasn't just
+
+you ignite us we all failed be that as
+
+it may
+
+we're together again now
+
+thanks to Spyro
+
+well done young dragon thanks ignite us
+
+but we still don't know what's happened
+
+to the dark master
+
+no matter Spyro there will be time to
+
+talk of the dark master later
+
+now it's time to be grateful for your
+
+success his success what about me just
+
+cause a bunch of weird stuff doesn't fly
+
+out of my mouth doesn't mean I didn't
+
+help you now yeah you were a big help
+
+Sparks no doubt about it
+
+but just for the record a lot of weird
+
+stuff does come out of that little mouth
+
+of yours and what the heck is that
+
+supposed to mean
+
+you know I don't need this
+
+I could have stayed
+
+where I was appreciated but no
+
+no I just had to help the poor help us
+
+dragons rid the world of evil whatever
+
+yes they're saying I get no thanks yes
+
+and I thought voltear talked a lot I
+
+left home too you know
+
+yes yeah that's right the Llama people
+
+he belongs to them than they are to you
+
+and did I back away
+
+why because I got moxie
+
+I'm a tough cookie
+
+I got class
+
+I got a
+
+I have a boyfriend there is
+
+too early
+
+[Music]
+
+not even a thanks hey how you doing good
+
+let me buy you a drink
+
+we should go back to the swamp
+
+mom will make it all good
+
+Tommy always does
+
+game
+
+yeah so
+
+[Music]
+
+do you think
+
+[Music]
+
+that's I should share without the other
+
+one
+
+[Music]
+
+but too far
+
+so how are you
+
+anything interesting going on
+
+right it was better today it's two hours
+
+earlier so I'm not tired Shaft or stream
+
+getting tired at the end
+
+with this extra hour of gameplay just to
+
+finish the game
+
+seconds starting next game with the next
+
+stream instead of starting next game in
+
+the middle of next stream
+
+the battle didn't take that long
+
+and less than an hour at least
+
+yeah these
+
+Lolly has created emotes
+
+hydrate
+
+oh the music changed
+
+[Music]
+
+having thanks to our partners spouses
+
+and families who put up with us being
+
+away while we weren't working on this
+
+project
+
+welcome to the world
+
+yeah
+
+[Music]
+
+I assume
+
+it's too fast to read but unless it
+
+doesn't take too much
+
+ah thank you
+
+I I really like them
+
+the sharing one is amazing
+
+the
+
+[Music]
+
+SE girls one looks I like I like the way
+
+it looks
+
+[Music]
+
+and there are like
+
+I did think
+
+it is cuffs one has very thick black
+
+borders making it quite easy to read on
+
+a small size it's probably the problem
+
+is getting them to work in a small size
+
+if I may come with a slight criticism
+
+it's
+
+it says that
+
+this one I had I I know what it is now
+
+after seeing it in large size or not but
+
+I had had trouble seeing the wave in in
+
+it
+
+and
+
+I don't know
+
+[Music]
+
+it is easier to tell what's going on
+
+when you know it what it is
+
+I guess as feedback
+
+[Music]
+
+hey
+
+this yeah I guess the hand isn't as
+
+obvious when it's in smaller scale
+
+that's about it I think specs yeah I
+
+mean it doesn't matter much I guess
+
+it's always from name
+
+Jessica yeah maybe oh here we go
+
+[Music]
+
+here we go
+
+but I've got a bad feeling
+
+me too
+
+[Music]
+
+I got the bad feeling
+
+yeah yeah the ears
+
+feeling up of the whole background
+
+I think if maybe if the hand had a
+
+secret outline like how the scuffed have
+
+the guidelines I think that might help
+
+seeing the hand
+
+oh interviews
+
+does it
+
+oh swamp so this is like
+
+New Game Plus
+
+it doesn't have it
+
+it's bedtime now bonus oh yeah it's the
+
+end of the stream now
+
+you know
+
+[Music]
+
+so
+
+[Music]
+
+thank you all for staying through this
+
+through this
+
+spiral Adventure
+
+same thing tomorrow
+
+same channel yeah
+
+that of a spiral
+
+the legend I was waiting
+
+so
+
+yeah I should
+
+do this
+
+you know anything but
+
+using my headphones
+
+if you hover over on the computer you
+
+can see it's sick like the rest of yeah
+
+I mean yeah at the I did look at it in a
+
+large size and that's why I finally she
+
+had released I might just be bad at
+
+reading these pictures
+
+so
+
+that's a what I can provide
+
+so let's do
+
+the end of stream rate
+
+I think
+
+I'm not sure what else to say
+
+let's visit randpian who visited these
+
+three months
+
+was here
+
+and said hi
+
+it's very nice
+
+and playing ahead in time
+
+at running time
+
+yes thanks thanks for streaming thank
+
+you for watching
+
+it's be fun
+
+it's fun seeing
+
+you are being here
+
+it's
+
+it's a
+
+it has made me happy I I've been happier
+
+as streaming and being able to talk with
+
+you on
+
+bye bye
+
+I thank you Clyde Burton uh coming by as
+
+well
+
+it's been fun seeing your stream thank
+
+you
+
+it's been fun doing these dreams
+
+and I'm happy to do more
+
+and I will definitely definitely do more
+
+hello Papa
+
+Papa wolf
+
+so thank you all again I don't know how
+
+to end the stream so let's
+
+Send the Rain message doesn't matter
+
+I'm so an organized
+
