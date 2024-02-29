@@ -1,4414 +1,2207 @@
 R
-
 stamp someone
-
 start
-
 any no I didn't Cho
-
 that why didn't it go
-
 back
-
 anyway W we're mad that's next level we
-
 got getting first if the first first in
-
 a road so far I
-
 think because I think wasn't first last
-
 stream I can double check yep it's
-
 true starting over for one and I got the
-
 star I got 277 followers today got one
-
 yester yesterday so we will see how many
-
 followers I oh s starting up
-
 good there's a lot of work this level I
-
 will stick to
-
 land so back to this game I don't know
-
 how many streams I've been doing this
-
 game for but this is just another
-
 one so now this music so awkward acqu
-
 the
-
 many okay this level doesn't seem to be
-
 too
-
 hard no I'm always late on Tuesdays oh
-
 oh we like wet
-
 oh is that what you
-
 like where's
-
 the there a
-
 control Oh no I got
-
 shot no I got shot twice the audio
-
 volume was a bit loud on
-
 the I'm missing
-
 everything okay you know
-
 what I'll move back
-
 [Music]
-
 home well
-
 then how rude of you
-
 guys
-
 no sorry sorry I don't I will
-
 not okay now no that wasn't
-
 great we like wet bun but Pon pun isn't
-
 wet yes because you should wearing a
-
 swimsuit you know
-
 yes just to clarify but there is an idea
-
 but it would be annoying to
-
 implement that you have like a redeem to
-
 pour water onto pon pon or
-
 something to make her
-
 wet I assume you would like that but as
-
 it would be a bit annoying to
-
 implement yeah hope oh is
-
 understandable okay we just do some
-
 carpet bombing on this one I'll bomb
-
 some carpets with
-
 carpets no I made a
-
 mistake but the wet fur isn't soft or
-
 fluffy and definitely not fun to
-
 pet you might be correct about
-
 that okay I don't care about that loss
-
 cuz I destroy the flag
-
 building and this level shouldn't be as
-
 tedious because all locations with the
-
 flag should be easy to get I'll just
-
 start by removing the locations that are
-
 far away maybe you maybe
-
 want maybe want to
-
 [Music]
-
 redeem that makes pon pon w
-
 it should be down here I think
-
 yeah what where oh there it
-
 is I okay I'll get
-
 that no I didn't get
-
 that hydrate
-
 I mean I could maybe make the wetness be
-
 like um texture
-
 change in that case I could apply it
-
 like to
-
 anything actually gets splashed with
-
 water
-
 yes maybe not like hydrate but an actual
-
 redeem that is meant to make p Pon
-
 w
-
 which will H have the bow be like
-
 hanging down being on way too much
-
 work and I'm an easy no I don't want to
-
 be too ambitious with the
-
 model oh too far away from the
-
 world
-
 oops I didn't mean to shoot
-
 that to
-
 far too far far
-
 out oh I got
-
 one Mo like okay the helicopter is dead
-
 that's not Lester is ignored now oh no
-
 the helicopter's back a surprise there
-
 we go
-
 finally I know you're destroying your
-
 own
-
 base that's my
-
 job oh destroy it no I missed it next to
-
 it
-
 like get Splash with
-
 water that is H so I was thinking
-
 because
-
 um that is actually a redeem that Miss
-
 kit cor has what you can just pour
-
 water and then she has one that makes
-
 her dry again but
-
 then I don't know if there's an actual
-
 visual
-
 difference if that's
-
 just all right this isn't the helicopter
-
 I need to shoot them three times I try
-
 to measure the how how much damage each
-
 vehicle
-
 makes and it has been very tricky
-
 because damage vehicle does changes
-
 depending on what they are shoot
-
 shooting and I can go to I can go to
-
 everything equation done so doing the
-
 equation isy pretty simple like I Define
-
 the tower Health as 100 just for the
-
 sake of Simplicity you need to shoot the
-
 uh with a tank there's three types of
-
 bullets the missiles from this heavy
-
 vehicle the missiles from the helicopter
-
 and then the
-
 rest only only these missiles the
-
 helicopter missile and the heavy armored
-
 vehicle missiles that have different
-
 damage
-
 so five tank bullets requires to destroy
-
 a tower that means that a tank bullet
-
 does 20 up to but not including 25
-
 damage
-
 but but yeah let's ignore that and just
-
 focus on that it does from a fifth
-
 damage up to a force of
-
 damage so and uh when uh using the
-
 helicopter it only need to shoot a tower
-
 twice that means
-
 that the damage output of a helicopter
-
 is 2 and a half times stronger than a
-
 tank H up to but
-
 not whoa whoa
-
 whoo uh from Two and a half times
-
 stronger a tank up to uh but not
-
 including five times stronger than a
-
 think and and that makes sense so far if
-
 everyone knows
-
 mathematics
-
 like if the tank does one fifth damage
-
 every
-
 time if the then the helicopter does two
-
 and a half
-
 fifth R only requires two up two but not
-
 including five because five out of five
-
 is of course Max damage that's Destro
-
 ATT I hope that makes
-
 sense and then uh so
-
 yeah just it can't be it can't be five
-
 times
-
 stronger but it can of be weaker and two
-
 and a half times
-
 stronger so but then I tested shooting
-
 uh at uh the armored vehicle because
-
 that has the most health
-
 and using the tank bullets you can shoot
-
 it 52
-
 times that's a lot it survives a
-
 lot but using the helicopter I don't
-
 remember what the number is but whatever
-
 the number is it's you take 52 divide by
-
 6 and2 that means that the helicopter is
-
 6 and 1/2 times stronger than the tank
-
 is when shooting this heavy
-
 vehicle that doesn't make any
-
 sense because the helicopter is not
-
 supposed to be if you when shoot in the
-
 towers the helicopter is not that strong
-
 because if it's six and a half times
-
 stronger than a tank it would just one
-
 shot shoot the Destro Towers in one
-
 shot
-
 so it has been a struggle trying to
-
 figure out what the actual damage is
-
 with the vehicle
-
 sry so you could argue
-
 that the
-
 uh I'm not exactly sure what I'm doing
-
 here I'm just running around destroying
-
 everything
-
 the
-
 uh Hey excuse
-
 me and yeah the flying root thing also
-
 has uh the same damage output as the
-
 tank with one exception it cannot one
-
 shot the Jeep it must shoot it deep
-
 twice I like to tank and every everyone
-
 see so sure that that must be uh that
-
 might be one of the rules for the towers
-
 that you cannot destroy a tower with one
-
 shot but regardless of how strong the so
-
 the helicopter might be 6 out times
-
 stronger than the tank and therefore it
-
 could in Ser one shot the uh Towers but
-
 but the rule says that the tower must
-
 survive with at least one hit point left
-
 if it was full health and that could be
-
 a
-
 rule but when testing when shooting the
-
 a tank now I don't remember the any of
-
 the numbers between using a tank and a
-
 helicopter
-
 however H the helicopter is not six
-
 times
-
 stronger in this case six and half times
-
 strong keep forgetting checking the map
-
 where I'm
-
 going so the damage output of the
-
 helicopter compared to the tank changes
-
 depending on what you're
-
 shooting should what armor this thing
-
 has
-
 the more it affects the uh oops okay I
-
 should check the map where I'm supposed
-
 to go
-
 the uh the more are okay can I on the
-
 correct
-
 P the more armor it
-
 has the more it protects against the
-
 tank but it does not protect as much
-
 against the
-
 helicopter meaning that the helicopter
-
 gets relatively stronger and stronger
-
 which of course does not it's actually
-
 the other way around the tank gets
-
 relatively weaker and
-
 weaker do the
-
 helicopter become some type of type
-
 efficiency
-
 go so much stuff here no I'm getting
-
 shot from
-
 everywhere no I really don't like the
-
 way the are
-
 constructed
-
 when time to move home
-
 then don't like those mines I
-
 they let's just clear up here so I can
-
 just pass through without
-
 issue okay
-
 bunny went sugar yeah there you
-
 go destroy this
-
 thing and then I can move through here
-
 well don't shoot
-
 me I am a peaceful
-
 tank
-
 so that's the history of my research of
-
 of these
-
 games if there's anybody D want no I I
-
 don't know if I have any
-
 details I have for example not measured
-
 if the
-
 fuel what I know the fuel is only
-
 consumed when you move not when you
-
 stand still I could be wrong about that
-
 but I think that's
-
 case but then the question is is the
-
 fuel depleted based on distance or
-
 time while you're moving that is cuz you
-
 can basically only move full
-
 speed I going do more of this
-
 stuff I'm going I get through here
-
 easily there we
-
 go okay now I'm going to B basically
-
 destroying
-
 everything
-
 okay I know they're shooting at
-
 me
-
 okay let get through here so I can
-
 destroy that
-
 thing
-
 and then lastly this
-
 thing there we go now I can move on to
-
 the island with the flag thing which
-
 might not even contain the flag but
-
 recently in this late level seems like
-
 the next to last one has the
-
 flag whatever you call that
-
 pronouncement we said p
-
 you said PE PE
-
 no B PE the
-
 PE I am running out of
-
 bullets there's a tower out here in the
-
 water I don't
-
 like okay not you
-
 but okay I only got one bullet
-
 left
-
 it's somewhere on that island there not
-
 exactly sure how I should R
-
 it but it does not cause any
-
 [Music]
-
 issues
-
 I'm moving
-
 out don't mind
-
 [Music]
-
 me okay I do want
-
 to there we
-
 go see if I can like
-
 remove some of the more annoying
-
 mines but said f might not even be there
-
 so but I have a feeling that it is is a
-
 peaceful tank yep moving mines so no one
-
 accidentally gets exploded by
-
 them if there was a way to disarm the
-
 Min with without exploding
-
 them I'm very GL
-
 there I think throughout my play through
-
 I've only had a situation where single
-
 piece of bridge has been
-
 destroyed and was on the SOS
-
 map
-
 there we
-
 go we just passing through don't mind
-
 me no wait oh I can destroy this
-
 wall instead of going
-
 around and hopefully the flag is here
-
 because I've destroyed so
-
 much I'm stuck
-
 nope I
-
 one then it is in the last location
-
 it didn't shoot me what I was correcting
-
 myself okay in that case I guess I'll
-
 just have to move
-
 up I am running out the
-
 you is he
-
 ah too many
-
 mines
-
 no it's Sho
-
 me no lying
-
 ring there we
-
 go now we have Tower
-
 here
-
 go
-
 finally but they way too many
-
 mines okay I need to remove that
-
 building in a peaceful
-
 manner people in that building was not
-
 killed and that wasn't the building so
-
 it's
-
 okay
-
 okay I probably need to move home
-
 anyway yeah was that wasn't the building
-
 either so it's
-
 okay just clearing a paths for the
-
 Jeep so it can speed through
-
 oh no mes evil non peaceful
-
 mines just a tent in which tomatoes and
-
 a red paint are
-
 stored interesting that that they stored
-
 both those things in
-
 it so the the building is to the left
-
 there which I missed with my helicopter
-
 which would be so commun if I could hit
-
 it oh well
-
 all right wait is this this
-
 moment I should use tank the other
-
 tank the less tanky
-
 tank I used the tanky tank first now let
-
 tanky tank by storing them together they
-
 increase storage
-
 efficiency I mean this B the paint
-
 except could be stored by all the
-
 Mar which
-
 then yeah whatever
-
 whatever no I need this
-
 joint
-
 whoops well
-
 worked
-
 I didn't mean to tank it but
-
 sure just shoot
-
 it when I
-
 escape yes shoot
-
 it you
-
 fools
-
 yes shoot it
-
 something
-
 oh no my
-
 shield my precious
-
 shield no my
-
 bullets I need to get
-
 home
-
 well the area is almost cleared out
-
 so
-
 so
-
 so many
-
 mines oh the towers the tower I didn't
-
 destroy is still
-
 here how does that
-
 work I destroy
-
 Tower oh thank you
-
 for for
-
 me
-
 so many
-
 mins one more than
-
 to
-
 it's fine it's fine I have plenty of
-
 vehicles in
-
 there and then I destroy the flag
-
 building there's no flag oh
-
 no that would be kind of
-
 tragic we get rid of stuff here
-
 cleaning up the mess
-
 AIT here we
-
 go only many Towers left
-
 apparently
-
 so there you go
-
 peaceful I just need to destroy this so
-
 I can find a
-
 flag
-
 and then make sure the pass to the flag
-
 is
-
 safe I mean this might shouldn't be an
-
 issue but just in
-
 case the will St but that was not my
-
 fault they parked a mine there they
-
 cently place a mine outside the hospital
-
 and say like
-
 well on how close am
-
 I like oh no you destroy the hospital
-
 that's your
-
 fault how dare you destroy the hospital
-
 let's see if I can pick up the FL
-
 now go go
-
 deep a deep
-
 it's up here right come here much safer
-
 whoa whoa
-
 whoa trust me I'm not drink cting who
-
 water and
-
 Whopper I got a
-
 flank
-
 all speed
-
 [Music]
-
 home that that's how was suppos go but I
-
 down we I did
-
 it the C up so much I can use Rush with
-
 a vehicle he
-
 me still maybe we get a final beat on
-
 the one of the three Last
-
 Words I'd be drunk if I wasn't almost
-
 out of what say what no don't get drunk
-
 you know what I think about
-
 that op
-
 OPC op e is that is is that how you
-
 write PC uh but instead of p is all and
-
 C is e or
-
 S my attempt at the joke was terrible
-
 please ignore
-
 it I didn't I don't mean blacker drunk
-
 yeah
-
 but I'm still concerned about
-
 you because I don't know about
-
 you how
-
 how something is like oh I just just
-
 want to be just a little bit and I like
-
 half the
-
 ball okay I'm playing home
-
 now okay
-
 I need a better plan
-
 here well actually maybe it isn't so
-
 hard as I believe it should
-
 be I do need use
-
 bries
-
 okay just have to ease the back pain and
-
 wrist pain and shoulder pain knee pain
-
 and whatever other pain I decid to show
-
 up yeah
-
 okay I know
-
 that yeah and not of the towers please
-
 don't shoot
-
 me okay let's
-
 see somewhere up here
-
 yes I know it's
-
 going I now I'm missing
-
 it okay now with it
-
 gone wh don't shoot
-
 me now I can play back home
-
 [Music]
-
 hopefully so that's much better run than
-
 a lot of my helicopter
-
 [Music]
-
 runs
-
 [Music]
-
 whoops
-
 [Music]
-
 [Music]
-
 yeah I still haven't gotten to exercise
-
 I've been speaking up for like months as
-
 should
-
 do oh
-
 well such is life such is my
-
 life oh here it is M right outside
-
 it hey why didn't Tower get blown up at
-
 it
-
 mine
-
 that ain't
-
 Fair okay that wasn't the one I was
-
 going for
-
 but okay if I
-
 go I have an
-
 idea I hope they don't mind me like
-
 wasting
-
 [Music]
-
 helicopters I'm using them key
-
 [Music]
-
 okay oh thank you that shooting down the
-
 other
-
 [Music]
-
 Tower okay
-
 [Music]
-
 here go moving
-
 on
-
 got well he hello
-
 butu
-
 girl now I'm
-
 playing return fire I don't need to
-
 shoot
-
 [Music]
-
 this please don't mind
-
 me I'm just a peaceful helicopter
-
 scouting the
-
 area I mean I'm not scouting therea I'm
-
 passing
-
 through
-
 [Music]
-
 yeah have the so does the chopper do
-
 more damage to concrete buildings than
-
 the tank but no it was the opposite way
-
 didn't you listen to my whole
-
 explanation
-
 before or or do you mean
-
 like uh
-
 wait yes that's what you mean between
-
 the putting a helicopter and tank
-
 shooting a concrete tower building thing
-
 yes the helicopter does more damage I
-
 was just slay Heretics and could hly
-
 partly fair enough fair enough yes two
-
 shots from the helicopter five shots
-
 from the
-
 tank it's okay you don't have to listen
-
 to
-
 me
-
 [Music]
-
 yeah I had no
-
 choice
-
 so I do love to listen to you thank you
-
 and then we got Link Link fun P this is
-
 so Random I played this game when I was
-
 a
-
 kid me too
-
 actually surom see me I've been playing
-
 this game like every Thursday Friday
-
 for uh a few few weeks now this quite a
-
 long game to like
-
 finish to complete every
-
 level but yeah and I play like 3 to 4
-
 hours because on some levels are just
-
 too
-
 long that's that's what I've been
-
 doing now going too far for up all
-
 boom
-
 wow this is where like the four last
-
 for what would you even say
-
 that or forc the
-
 last World of levels to
-
 complete um then done with it and then
-
 then there's only three levels left
-
 three three worlds left many levels
-
 though can be like three to seven levels
-
 per world is quite
-
 inconsistent those are L need to leave
-
 in a few all but it's okay if you have
-
 to do things I accept
-
 it
-
 okay yes this was uh available I'm
-
 playing the PlayStation version as it
-
 says in the title but it was also
-
 available for PC and I played it demo on
-
 the
-
 PC okay I
-
 need should have remove this with the
-
 helicopter
-
 but
-
 no oops I should have I should have
-
 repair it first before I need that oh
-
 man l
-
 why are you laughing at
-
 me for a
-
 failing go go p p liing towards the
-
 she
-
 CH is
-
 that on my me I don't speak English
-
 English isn't my native
-
 language
-
 sorry but it was funny
-
 yeah you were like
-
 oops oops I destroyed the whole
-
 tank I guess it was
-
 fun I'm not sure what they're trying to
-
 shoot me while there's that Tower in the
-
 way but when it's Tower it gets
-
 destroyed and stop shooting they're like
-
 oops but it was an oops moment I had to
-
 say
-
 oops oh no they're breaking down my
-
 Shields
-
 me get
-
 through oh destroy the bush you can run
-
 over
-
 him oh this m shooting at me
-
 oops couldn't really pass through it
-
 pass by
-
 it try to be
-
 sneaky I'm sure he wasting
-
 these was I'm running out of each
-
 vehicle one at a
-
 time
-
 yeah that's me just
-
 running trying vehicle and then
-
 oops it got
-
 destroyed
-
 the second move
-
 forward now there's another
-
 one why have you built so many Towers
-
 here it's almost like you want to stop
-
 me from coming to or
-
 something has the Rand I'm
-
 feeling just passing through don't mind
-
 me oh nice Garden you know what that
-
 means oh there it
-
 is found the
-
 flag
-
 almost like it's a defensive line now
-
 what what do you
-
 mean what are they
-
 defending okay I'm out of bullets time
-
 to move home oh
-
 no got two shots left and there there's
-
 a flying thing coming at
-
 me oops I don't have any shots left and
-
 I have flying thing after
-
 me
-
 leave me
-
 alone I
-
 know oops that was the last
-
 one I think you missed the word
-
 there
-
 so so then I just have to clear up a
-
 path I mean I could just take a deep
-
 break now and just go
-
 through what does the fly do I forgot I
-
 you need to pick it
-
 up capture the
-
 fly the defending P cute
-
 re are you defending
-
 [Music]
-
 myar really singing along with the music
-
 kind of
-
 offit and then you bring it
-
 [Music]
-
 home
-
 yeah see I didn't I didn't need destroy
-
 more I destroyed just as much as I
-
 needed
-
 [Music]
-
 oops a star for linky link the star
-
 doesn't do anything by the
-
 way you where
-
 it they defending pwn C I'm not really
-
 sure what they mean by that okay this is
-
 same video every time we finish
-
 okay it's been a bit different
-
 month and then you have to wait for a
-
 certain amount of time before you save
-
 sure why guess I forgot the word usually
-
 I me the same word in English so that's
-
 why so you would say how do you speak
-
 English if not speak English or
-
 something like that s sounds a
-
 bit right how do you speak English if
-
 don't speak English or something like
-
 that it still sounds weird in English to
-
 me but well what do I
-
 know wait what was the level
-
 name all hello p k i see you okay this
-
 just un
-
 more thank you for being here so have a
-
 good day I have a good day I think the
-
 starting position the middle as far as I
-
 can
-
 tell
-
 a bit annoying to get around with the
-
 tank so basically should take the
-
 corners start talk why you are here for
-
 the
-
 day yeah me too it's almost one
-
 one but this was fun to watch thanks for
-
 having thank you for being here linkink
-
 linkink linkink no I'm restricted for
-
 what my tools
-
 are I have a good
-
 day and maybe you show up tomorrow
-
 team although I'm streaming quite late
-
 for you
-
 so
-
 understand
-
 understand Tuesday mon Monday monster
-
 Monday and Tuesday
-
 earlier it's time is very
-
 slightly doesn't I need to
-
 B that was that
-
 hel
-
 when
-
 I guess I'll just go a lap around level
-
 well yeah it's not really proper grammar
-
 in English don't me but I often do PI up
-
 to
-
 [Music]
-
 have oh is this still my base
-
 cool well not sure go place that mine in
-
 my
-
 base
-
 oh and
-
 animazing but yeah you can still AIT it
-
 in Swedish to it just needs
-
 to sometimes this just sounds
-
 weird depending
-
 on this one is here without any
-
 War don't think I need to destroy these
-
 destroying
-
 everything another
-
 one
-
 I
-
 know
-
 anyway clear it up a
-
 bit I was I was going back to base
-
 anyway
-
 so probably sounds weird as weird in
-
 English as it
-
 doesn't Probably sounds as weird in
-
 Swedish as does
-
 English I wonder if there's like there's
-
 certainly is situations where you can't
-
 un with it in both languages as s
-
 situations you can but I wonder like
-
 similar similar situation grammar wise
-
 but I do wonder if there's situations in
-
 both
-
 languages or you can wa in one but not
-
 the other and in the other but not in
-
 the punk tank
-
 welcome oh I see glitching this level
-
 look at this water yeah that's not how
-
 you look lazy programmers making the
-
 water wrong I'm not seen water being
-
 wrong I've seen one piece of land being
-
 wrong I'm going the wrong
-
 way well welcome ptic nice to see you
-
 here do you like my
-
 bunny
-
 I like that
-
 emot yeah it's a funny
-
 one okay let's see I should go
-
 down why get
-
 stuck who he's sniffing
-
 Snips P P's face oh does my face smell
-
 good to
-
 you I don't need a tank my
-
 tank don't get stuck CL
-
 p
-
 have to way here for spr that's a good
-
 one home
-
 home
-
 yeah you belong under the
-
 a
-
 that was a waste of me collection I done
-
 that yeah there got an
-
 outfit so Punk do you like the
-
 outfit it should been
-
 some
-
 I like it likes it I like it
-
 too
-
 so oh here it
-
 this one defending towers are many of
-
 them should leave this building
-
 actually cuz it's so close
-
 by
-
 so I really should start with one Fest
-
 way
-
 cuz the it's a Quantum
-
 flag its position can be altered by
-
 which buildings you're
-
 checking while you can't fully control
-
 it you can uh affect it position
-
 regardless
-
 so Dam go cleaning out the way a
-
 bit making ping through a bit
-
 easier got me sent to waste anyway since
-
 I'm moving back
-
 home I yes live through eight as wow
-
 wait why did you have so many
-
 heads okay that explains why you were
-
 quite
-
 I mean you shouldn't have ads when you
-
 join at that time because there
-
 shouldn't be in a pre-roll ads when you
-
 join a stream uh
-
 well I'm happy that you lived through
-
 those
-
 ads but that means that you're going to
-
 have
-
 57 minutes of ad free watching which is
-
 so yeah you have to suffer through 3
-
 minutes of ads but after that no ads for
-
 a really long time and I think that's a
-
 good trade off isn't
-
 it plus I can do like a single ad
-
 message can I only have to bother about
-
 ads once per
-
 hour I'm not the one bed by it but I
-
 mean I'm still bothered by
-
 like I understand it's like a necessary
-
 anyway so hello Punk nice to see you
-
 punk D wants me to get the H card I
-
 might I mean if you don't want one
-
 you're free to get one and give it to
-
 me I mean I don't need one I already got
-
 a card
-
 but it was a stupid was a terrible
-
 joke wasn't even a
-
 joke
-
 so that's one flag
-
 building so nice that the the green team
-
 decided to color code their
-
 whole
-
 base there a bridge there you actually
-
 don't need honest you want to move quick
-
 course which is nice to
-
 do here is next flag
-
 building which is also pretty easy to
-
 get through
-
 so all
-
 should also destroy it
-
 last so we move
-
 on but yeah pun I as I'm probably why he
-
 didn't answer me H because you wor in
-
 the
-
 head about The Bunny model I have on
-
 screen do you
-
 like destroying
-
 everything destroying everything
-
 and
-
 also any sporty
-
 outfit party pon pon I'm always run out
-
 everything even
-
 mines can I get down by pressing this
-
 button or this button this that button
-
 where
-
 there should be some but that but I
-
 actually don't
-
 know I guess it might be a shooting
-
 button yes it
-
 is a shooty
-
 button
-
 what a
-
 and I even didn't even check the map
-
 there nothing thing I said I was going
-
 to
-
 do oh
-
 my
-
 okay clean up
-
 junk
-
 oh I can stock up
-
 with fuel and
-
 munition
-
 just getting of these stupid
-
 Tower this is the next place for a
-
 flag
-
 I'm basically just moving around the
-
 whole
-
 island shame the fuel doesn't charge up
-
 that
-
 quickly
-
 yeah I should probably move home
-
 and repare the
-
 [Music]
-
 vehicle
-
 why are they so
-
 angry
-
 probably that more than
-
 enough that is more than
-
 enough
-
 wait I shouldn't goes through the
-
 base base isn't safe I need to go around
-
 it ground
-
 it so since I cleared out this
-
 area I could take left on the bridge
-
 this
-
 time which tech means that those places
-
 are kind of as close
-
 as the other ones
-
 anyway but I could do some kind of
-
 rushing destroy if I building rush out
-
 and see
-
 like let see I check the map and see
-
 what decision I make
-
 but
-
 what strategy I
-
 take let's see no wait there is no there
-
 is no such
-
 path
-
 just have to continue
-
 then there's one
-
 there so I
-
 could do something like
-
 that
-
 but I've been going like
-
 clockwise and go like
-
 anticlockwise
-
 counterclockwise by going up
-
 here
-
 my is
-
 tanking death destroyed
-
 just came
-
 here oh well since I'm not too far from
-
 the base
-
 I'll go home andair
-
 and then to
-
 a view of the area on
-
 ground
-
 I have a better idea
-
 of yeah so yeah exactly so I get there
-
 and
-
 then I continue around like that I
-
 should be able to see the flag building
-
 attack the flag building and then like
-
 work my way
-
 work my way down and
-
 around and the clockwise only focusing
-
 on the FL
-
 bings I so far destroyed one with the
-
 helicopter in the
-
 Northeast and then I will take out the
-
 north northwest
-
 West South West South Southeast finally
-
 East that is my
-
 strategy if you don't like that strategy
-
 oh
-
 what there
-
 go
-
 I do need to take the bridge
-
 over for safety
-
 reasons do want to get rid of
-
 you that's purely my safety reasons for
-
 my
-
 safety going continue around
-
 here
-
 that is the one I
-
 destroyed can I reach that Tower from
-
 here
-
 okay no don't shoot
-
 me
-
 no don't shoot
-
 me
-
 okay
-
 okay yeah
-
 WI
-
 it kind of
-
 works can I speed through here
-
 yeah good
-
 good
-
 boom okay
-
 so the strategy kind of
-
 works I am making progress which is
-
 smart counts I
-
 think oh too far there we
-
 go yeah yeah so I destroy that top
-
 northeast corner so I just need to get
-
 rid of those and then um very soon
-
 access the flag
-
 Ming
-
 [Music]
-
 Dam dramatic
-
 music
-
 [Music]
-
 K okay on classical music still want to
-
 do karaoke
-
 again
-
 just need
-
 to get the
-
 songs and have everyone select one song
-
 and deide the date and time I should do
-
 it
-
 them oh yeah I tried to destroy that
-
 building but I run out of munition okay
-
 how much health you have there you go
-
 no
-
 one I
-
 more
-
 okay
-
 yeah you get to select one
-
 song our Koke session and it would be
-
 one
-
 am I already tank this damage
-
 already they go it be easier to
-
 travel
-
 oh no the people leave the
-
 building here's a t passing
-
 through you're base don't mind
-
 me a tank a
-
 tank
-
 and
-
 tank and PS are mine and streets are
-
 mine yeah I can't waste these vehicles I
-
 have to
-
 go is I have to like go around
-
 everything this is one of the longer
-
 levels yeah I'm basically at that one
-
 and then I oh the next one's going be a
-
 bit
-
 [Music]
-
 annoying prob not
-
 toing
-
 [Music]
-
 don't fall off the
-
 brid
-
 and then quickly pass through
-
 here if I shoot it every time I pass
-
 through it eventually should
-
 break
-
 who whoa whoa I'm moving
-
 out
-
 go my
-
 shield
-
 go
-
 I
-
 know come Mo yes
-
 straight than
-
 okay one less Tower to care
-
 about no oh that one missed that one
-
 destroyed my
-
 tank oh no there's one
-
 there my little
-
 [Music]
-
 tanky now I just need to find some fuel
-
 I think
-
 oh I'm
-
 moving yeah those was that comp
-
 back
-
 [Music]
-
 how
-
 feel
-
 no no I know I
-
 [Music]
-
 know no mind
-
 me that might have been enough to get
-
 home I managed to get home wa okay so
-
 base yeah so just started Toof Road
-
 there so I just need to get across the
-
 bridge oh and then I'm probably going to
-
 be so
-
 attacked can get so attacked after
-
 [Music]
-
 that
-
 oh hold on there's something in your
-
 ear it's dead Panda P here what what do
-
 you mean that panda panda is
-
 sleeping
-
 oh he shot
-
 me I he this war now wait this all been
-
 [Music]
-
 War
-
 [Music]
-
 go Ching everything except the this side
-
 Target
-
 that was tricking and I wanted it to
-
 be one so there you
-
 go
-
 restocked
-
 refu okay there's one Tower left
-
 here oh missing
-
 it and then is
-
 this
-
 I that went better than I
-
 expected no let me
-
 be
-
 that's me
-
 be when corn it's so hard to heat
-
 them
-
 okay oh thank you for cleaning up the
-
 way but there's so many Towers
-
 here okay this isn't
-
 good sorry I have to run the other
-
 way well I guess I'll just have to go
-
 home again I think I still cleared out
-
 quite a
-
 lot I think that went pretty
-
 one I still have to go around
-
 bases go through
-
 them
-
 is them he more shots just in
-
 case and not that can of shots
-
 more we need for a few more
-
 [Music]
-
 bullets there we
-
 go
-
 oh no oh so no drinking shots it's okay
-
 I have your
-
 shots no drinking shots
-
 [Music]
-
 sorry not
-
 sorry wao I got a bit too close to that
-
 one guessing the tank didn't explode
-
 that was very close to than go B and hit
-
 points
-
 [Music]
-
 left but it's still holding together and
-
 drives yes is
-
 fine so yeah so I cleared up the upper
-
 part there I can just shoots into that
-
 Gap that I accidentally
-
 created and and no no then I go down
-
 there okay I see I see I see how I
-
 should do this should be pretty simple
-
 now and
-
 [Music]
-
 then
-
 [Music]
-
 d
-
 [Music]
-
 got another opportunity to ref I think
-
 something with
-
 there oops too
-
 close
-
 and the buttons are
-
 here so let's see if I remember my
-
 [Music]
-
 plan
-
 Bo so yeah so I go up
-
 here okay I didn't create the hole it
-
 was hole from the
-
 start cuz it was a
-
 gate there we
-
 go
-
 no come
-
 on
-
 we invited
-
 you why are you shooting at
-
 me
-
 okay I didn't mean to shoot that but
-
 whatever and then I just
-
 flee full speed
-
 away and then to the next
-
 base
-
 [Music]
-
 it's
-
 okay it's
-
 okay cuz that's the last one I want to
-
 destroy the tank I just need to go
-
 around everything
-
 again
-
 I'll try to not let this tank get
-
 destroyed first thing I do is run into
-
 water success so far making
-
 progress
-
 [Music]
-
 I not refuel but it's
-
 okay it's
-
 [Music]
-
 okay
-
 [Music]
-
 wow I didn't need to shoot the second
-
 time
-
 got it in first shot oh attacking your
-
 own
-
 building I could probably sneak over
-
 there but not taking
-
 risks no I'm missing oh no my
-
 shield okay destroy this building first
-
 that's
-
 priority
-
 okay I said that was not going to let
-
 this tank get destroyed so I'm not going
-
 to let this tank get
-
 destroyed
-
 well I manage to keep the
-
 tank and then I go back to
-
 the now this building is empty let's get
-
 rid of
-
 it okay I survived
-
 that
-
 so then I we just
-
 continue the have we and continue down
-
 they you should any way I was
-
 [Music]
-
 go
-
 and they fa to that's why oh yeah I need
-
 to decide what like which dat I should
-
 have the K on first before I can ask
-
 which because people don't need to pick
-
 a song even I'm actually going to be
-
 there
-
 but don't she have to on
-
 there if we don't know what to pick you
-
 don't
-
 need
-
 so maybe I can shoot that uh flag
-
 building when I enter that area I should
-
 pass through three pass three flag
-
 bford and then when I get to that
-
 area I might be able to shoot through
-
 the
-
 gate and hit the fly
-
 building such destruction who made who
-
 did
-
 this
-
 I'm going to be a safe set to take B
-
 more often
-
 gu I saying tank
-
 I'm tanking the
-
 car so this is the second flag
-
 building then it should be the third
-
 one
-
 when it run so quickly into
-
 the container that you bounce off
-
 it I
-
 know
-
 go yeah so I started going up here
-
 I'll continue oh hello
-
 Tower yeah so the idea was to get rid of
-
 this
-
 one basically see if I can reach the fly
-
 building yep I
-
 did okay this one is causing me issues
-
 actually let's not take any
-
 risks I to get lot of damage from that
-
 attack so better to go go home and rest
-
 the
-
 tank liing
-
 popcorn that's is a ppon each
-
 PopCorn by licking
-
 them putting a tongue on the popcorn so
-
 it sticks to the tongue and then
-
 bringing the popcorn into the
-
 mouth yes very happy with the
-
 popcorn
-
 just making more
-
 distraction
-
 [Music]
-
 7
-
 perfect so I got those two left those
-
 two are going to be annoying to
-
 reach oh the rest of my armor is out for
-
 deliver including the B
-
 get
-
 kid very
-
 good
-
 okay and might been finish very soon
-
 this
-
 is driving
-
 around and I really want to destroy
-
 those two remaining
-
 ones and I so I don't have to deal with
-
 the flank being in
-
 there let's see if I
-
 can
-
 the
-
 he passing through don't mind
-
 me thank you for not minding me oh w
-
 w yeah I got
-
 [Music]
-
 play I was going to say I was going to
-
 drown
-
 there
-
 but no I managed to
-
 survive no not another one one of these
-
 things can't see I'm very busy with
-
 being
-
 attacked no it's in
-
 here well that was
-
 awkward can this thing stop shooting
-
 I'm try trying to clear up the area for
-
 the say the area is pretty cleared up
-
 now and say could get in there without
-
 issue is
-
 maybe yeah I did should be to get in
-
 there that shouldn't be any
-
 ises please stop shooting the peaceful
-
 tag especially you like
-
 cring well I did not expect the flight
-
 to be in
-
 there
-
 it it show up quite
-
 early I wonder if these building
-
 contains a
-
 blank oh right there are Towers there um
-
 you know
-
 me
-
 think I need fuel
-
 but probably not fuel the Jeep
-
 anyway than a than if you love me Jeep
-
 Okay Jeep a
-
 Jeep anyway let's just me passing
-
 through here please don't shoot me I do
-
 not deserve
-
 that I'm a very peaceful
-
 Jeep
-
 because who that was close because even
-
 if I run out of fuel for on the Jeep the
-
 flag is still going to be closer so next
-
 Jeep should be able to bring it
-
 [Music]
-
 [Music]
-
 home getting
-
 [Music]
-
 stuck
-
 [Music]
-
 face bo bo bo
-
 Hello Panda nice to see you
-
 here slept well in the
-
 ears well I mean it
-
 worked I didn't mean to do that kind
-
 of I forgot where I was supposed to
-
 [Music]
-
 go
-
 that ref of the Jeep wasn't actually
-
 necessarily enough fuel to do that
-
 travel
-
 [Music]
-
 well oh I guess the panda wasn't dead
-
 after all now why would Panda be dead
-
 panda is just the panda the at
-
 [Music]
-
 moment
-
 and
-
 [Music]
-
 I'm selling me early I mean I can use
-
 for St player too
-
 maybe
-
 oh there we go now it's playing
-
 it 1 Hour 1 minute 34 second missiles
-
 and
-
 Mayhem there we go that's every 11 on
-
 this world moving on can I find one that
-
 takes like 1 hour to play what bacon
-
 grease okay let's go with bacon
-
 grease I'm starting all all the way
-
 North okay let's start with clearing off
-
 this island here
-
 start
-
 bacon
-
 can I the towers destroy themselves as
-
 SW is that going shoot Towers not feel
-
 like shooting each other a bit more
-
 there we
-
 go okay start we going back home repair
-
 refy stock yeah that's like more than
-
 half the island destroyed by
-
 that then way you said that was just
-
 perfect I don't know that's
-
 pretty you think I'm sitting bad yeah
-
 sitting
-
 bad
-
 okay I it's to no why is the flying
-
 roots in coming
-
 already
-
 for
-
 [Music]
-
 it says if your Tower is placed on the
-
 deep water you can drive on it just safe
-
 that is good to
-
 know answer over welcome
-
 to what's it called again something
-
 bacon was not called
-
 Megan who going to Dy more of this stuff
-
 that's a feel
-
 like I don't like you
-
 three
-
 I'm happy with
-
 that okay this is going to be very
-
 annoying the mine's intentional place
-
 there
-
 what
-
 finally I'm running out of munition but
-
 there's no way to fill
-
 up oh
-
 yeah two more munition
-
 shots
-
 one
-
 and I
-
 missed I
-
 win shouldn't be too hard to use the
-
 helicopter can I cleared off that's why
-
 I wanted to clear this
-
 off but really show them I destroyed
-
 every single piece
-
 of
-
 stuff yeah shouldn't be too hard to use
-
 a helicopter here
-
 I
-
 hope let to
-
 see i' got to think of
-
 them keep caring with me shooting them
-
 oops I shot the
-
 building no that wasn't close
-
 enough okay here we
-
 go
-
 no flag so
-
 [Music]
-
 far how many B on are in a row three
-
 three of them except on the edges so
-
 maybe I'm able to
-
 like
-
 shooting one after
-
 another without having to shoot down
-
 the
-
 towers well like this I can shoot them
-
 once and then I can move back and shoot
-
 them
-
 again
-
 running there you
-
 [Music]
-
 go
-
 [Music]
-
 there you
-
 go one line of bacon
-
 [Music]
-
 complete now it's time for the next
-
 blind
-
 of it was
-
 delicious have had bacon in a long time
-
 actually have bun eating bacon
-
 Bon
-
 Mo
-
 [Music]
-
 on I didn't miss one building or one
-
 shut it down
-
 once
-
 too far
-
 south no no come on come
-
 on can't think of it I haven't had b a
-
 long time wait didn't you have bacon
-
 like
-
 yesterday H disappointed
-
 fun
-
 oh yes there was meat bones
-
 okay that didn't go as
-
 planned wait too
-
 far still pork but not bacon
-
 okay bacon
-
 balls I guess pork bork pork bork pork
-
 pork pork balls could mean something
-
 else or maybe that's what why you call
-
 it pork instead of pig because you don't
-
 want to say pig
-
 balls what with in the peak
-
 balls
-
 [Music]
-
 that was that one
-
 okay no
-
 no no I hit
-
 it
-
 [Music]
-
 there we
-
 [Music]
-
 go still no
-
 flag and the flag could be
-
 anywhere someday I'll find the flag
-
 and I said bacon so many times that is g
-
 lost it
-
 meaning bacon bacon bacon bacon bacon
-
 bacon bacon that could be anywhere or
-
 it's
-
 nowhere is now
-
 here there's a lot of more places to
-
 check so I'll just
-
 [Music]
-
 continue bacon bacon bacon
-
 bacon
-
 [Music]
-
 I'm shooting misses on bacon
-
 buildings buildings on top of
-
 [Music]
-
 bacon this formation of island is known
-
 as bacon
-
 Islands
-
 I didn't mean to shoot
-
 you but I got hit by missile that's
-
 Chang the direction of the helicopter
-
 resulting in shooting the
-
 [Music]
-
 tower
-
 the flag could be just about anywhere
-
 it's so hard now not hard it's so
-
 annoying trying to find a Quantum flag
-
 that which position changes depending
-
 which order you destroy the
-
 building that's it flag bacon now okay
-
 I'm looking for I'm looking for
-
 bacon where is my
-
 beacon the flag is placed in a building
-
 designated holding a flag okay that
-
 makes sense these buildings are placed
-
 out of bacon what now you lost
-
 me okay let's
-
 see say the
-
 helicopter
-
 [Music]
-
 if it wasn't for a bon need to be cooked
-
 although maybe I can cook it at the same
-
 time like same length as the meat yeah
-
 having bacon on buret could be something
-
 I could
-
 try but really the on how long the Bacon
-
 needs to be cooked
-
 for at the same time I'm fine I guess I
-
 could do it
-
 [Music]
-
 something but I don't have any
-
 experience cooking
-
 [Music]
-
 bacon or as some people said when it
-
 appeared in seden B one cuz that's kind
-
 of how it could be really
-
 nice which doesn't really make sense
-
 because the SE before or should be
-
 hard I couldn't I can't understand
-
 pronunciation
-
 [Music]
-
 but yeah I think this one is the one I
-
 should go down next
-
 yes
-
 [Music]
-
 strike need a beacon to locate the
-
 beacon beacon
-
 beacon yeah I can't find bacon on this
-
 level there's so many bacon
-
 buildings
-
 but none of them contain what I'm
-
 looking
-
 for see
-
 [Music]
-
 nothing cooking bacon is easy you say so
-
 actually easy than because it's S size
-
 means it reaches to correct temperature
-
 faster oh no that doesn't sound good
-
 then my bacon will be cooked before the
-
 burger and then the bacon will reach
-
 critical
-
 mass
-
 boom I got it
-
 that believe me stats doesn't oh no
-
 that's no
-
 good oh I missed that
-
 too I did hit that one good good P you
-
 hit
-
 it
-
 okay so now I just need
-
 to those are next to each other those
-
 are spread
-
 out okay but this one I missed now I
-
 actually hit it
-
 okay but this one I completely missed I
-
 [Music]
-
 think yep now I ha
-
 it okay there's only one place left
-
 where where they can be back
-
 on well after it's properly cooked the
-
 only thing that happens is is it gets
-
 crer longer it cook
-
 and it will get to an
-
 infinite crispier and crispier until it
-
 get so crispy it's
-
 just piece of metal you can also use a
-
 lower heat if you want to cook burgers
-
 at the same time I could cook burgers
-
 and lowest heat currently
-
 so the lowest heat that is
-
 possible
-
 [Music]
-
 h
-
 no
-
 and bacon wasn't even in that building
-
 anyway see the bacon the bacon is going
-
 to be in the last building of this
-
 destroy or Le
-
 one no it's going to be in the last
-
 building actually two buildings
-
 left it's not going to be in the last
-
 buing but just because I said that it's
-
 going to be in this one okay it is in
-
 the last B thing I've said all this
-
 time there it
-
 is why am I trying to shoot a bit is not
-
 shooting
-
 me okay how do
-
 I oh
-
 no
-
 no
-
 h
-
 okay I need to clear way too deep to the
-
 flame always the last
-
 one yep R face and Pon P's face Oh
-
 faceing I thought you were a panda not a
-
 car
-
 what sound does the panda
-
 make
-
 know living with natural light only so I
-
 need
-
 to destroy everything on the diamond so
-
 I can get through with
-
 tank with a che and don't move you
-
 you're a phony bony you're justff
-
 phy why is pan
-
 phone that doesn't make sense to me I
-
 thought Panda was a
-
 panda
-
 but it is real exop
-
 Panda it's a real panda with an
-
 exoskeleton okay there we
-
 go
-
 they try to throw hand grenades at the
-
 helicopter okay I'm going to Mark the
-
 way for the je just P the line of
-
 Destruction that's how easy is just here
-
 I'll probably find
-
 it you know
-
 just in
-
 case anyway that should be
-
 enough I do there make noises I
-
 believe kind of gr since they're Bears
-
 can't they make different
-
 noises yeah bunny
-
 say okay it's quick if I go over
-
 here
-
 well what down here
-
 right
-
 yeah they do I
-
 think bunny
-
 say go go go go you found the flag now
-
 bring it
-
 home to your
-
 [Music]
-
 family took many buildings to destroy
-
 but I got the
-
 [Music]
-
 flank
-
 [Music]
-
 ur
-
 ur
-
 still okay the password to the penal
-
 World flower bear heart I'm
-
 PL wolf
-
 Spain let's go I would love to play the
-
 trumpet
-
 par what what what is this this orang
-
 sheld thing
-
 called it's called a parly oh wolf
-
 map oh my sure they are aggressive
-
 here well I'm sorry I'm
-
 sorry it is indeed a wolf
-
 map
-
 oh your pace is the
-
 butt
-
 yes
-
 this the
-
 literal place where you come out
-
 of
-
 and it is
-
 brown yes that is exactly what they have
-
 done what what in the butt yep it
-
 is it is brown and circular on the map
-
 even technically a square but
-
 whatever there's also an elephant map
-
 and I also think you came out like
-
 out of the
-
 P okay he's that me safe now
-
 definitely safer so I need to move over
-
 to over to the across the map to the
-
 other
-
 side I don't like how you try to shoot
-
 me it's a it's a weird feeling I
-
 have
-
 Gates you're curious about
-
 Gates oh a
-
 w i w I can actually get through there
-
 we go oh no
-
 Forest my biggest weakness
-
 weakness Tre
-
 everywhere okay it's getting
-
 destroyed time to move home
-
 again
-
 let cleaning up a bit up chunk
-
 here see the
-
 chunk so it's kind of cleared out there
-
 I think the W have some infections
-
 everywhere this part is fly
-
 functional a bit mechanical but then
-
 there's all all these green infections
-
 everywhere on the
-
 world some growing stuff on
-
 here oh no an exploding
-
 dis
-
 okay where's point with the gate in the
-
 middle of the basing you don't see a
-
 function you can go around the
-
 gates
-
 no oh
-
 nice time to move out of
-
 here time to speed across here whoop y
-
 did it no damage
-
 taken butt Spas
-
 whoop the joke of the
-
 butt
-
 I don't think removing the infections
-
 with missiles is the way to go when you
-
 want to heal our wolf
-
 but but that's how we do it here okay
-
 so there those location there I think
-
 there's location on T as one but I could
-
 be
-
 wrong
-
 but the question is is should which I
-
 should go with first
-
 because it's not really hard to hard to
-
 go across here with the
-
 Jeep but it is a bit annoying to clear
-
 out the T Maybe not maybe it
-
 isn't
-
 there we go there is one of the
-
 buildings yes shoot
-
 it thank
-
 you
-
 why are you shooting
-
 me what have I done to deserve
-
 that I'm a peaceful tank don't you
-
 remember okay I'm
-
 leing so it's not in one of
-
 those
-
 you have try to shoot me before so I'm
-
 going to destroy you whoops that more
-
 here you TR to shoot me before
-
 to making a bit
-
 safer okay
-
 so destroyed those two things that
-
 contain the flag and it didn't contain
-
 the
-
 flag so there's one left on this now and
-
 then there's on each paw it's on a
-
 three-legged
-
 wolf and then there's one on a
-
 t let's see if I can infiltrate the eye
-
 or this s snow
-
 snout that hopefully not be too
-
 tricky hope hopefully well shoot me
-
 already move
-
 up trying to shoot me from there
-
 instead
-
 okay
-
 so I don't need to care about this
-
 space so I can move right past
-
 it I do have to care about this this
-
 space
-
 why are you shooting me I'm not even
-
 attacking your
-
 base yeah there's the
-
 building does it container flank
-
 hopefully not it does
-
 not
-
 so then I can move
-
 home so then I only have to focus on the
-
 P next next focus is the pause
-
 pause this thing I
-
 have I guess guess I only have paws on
-
 my feet as my feet on my
-
 legs my arms still have hands fully
-
 functional
-
 hands so they s the model of P Pon have
-
 four or five
-
 fingers cuz the drawing all has four
-
 fingers and uh
-
 the model replacing coca has four
-
 fingers but you know I have four fingers
-
 in real life if it even can't track
-
 fingers because if it doesn't even track
-
 fing doesn't really matter although it's
-
 kind of annoying trying to get down
-
 there but I'll do my
-
 best if I try to use a helicopter it's
-
 going to be destroyed
-
 immediately don't even think I'm going
-
 to to get close to
-
 them I could clear off a bit and then if
-
 I need to go back home I could from
-
 theast
-
 helicopter just peacefully going around
-
 yes shoot it shoot your own
-
 Towers no I'm dying the wrong way I know
-
 have to tank
-
 control
-
 okay oh no not this
-
 thing oh no it's destroyed no thank you
-
 for your
-
 help
-
 oh
-
 no okay so far so good I should probably
-
 not take the helicopter yes
-
 yet probably need one more round
-
 basically not cleared out anything
-
 yet although if I go all the way down
-
 with this thing anyway I could just try
-
 destroy the fls like
-
 Bings
-
 don't shoot
-
 me
-
 please why you trying to shoot me you
-
 destroy your
-
 friend
-
 okay
-
 so wh to get around the corner
-
 there oh
-
 no R seeing something
-
 way
-
 go those the grenades at
-
 me
-
 okay I think I destroyed one of
-
 them so I should be able to like enter
-
 with a helicopter and shoot the other
-
 one without issue with less
-
 issue with so
-
 mey
-
 with that lot of
-
 isue okay what if I go for the Tail
-
 inste cuz it really doesn't matter which
-
 where the flag ends up being
-
 anyway and at this point I rather not
-
 have it spawn at the tail because I
-
 cleared up so much other
-
 stuff we
-
 [Music]
-
 go
-
 [Music]
-
 that's pretty
-
 simple I count every flag building that
-
 this is destroy let's see if I can
-
 destroy the
-
 other the the other pole on this three
-
 leged Fox
-
 I assume the two back hind legs as you
-
 call them back PS back legs are like
-
 layer on top of each
-
 other okay it's
-
 here
-
 it's
-
 here that that looks
-
 crazy
-
 I do have an
-
 idea I do have an
-
 idea
-
 excuse me what are you shooting
-
 at are you shooting at
-
 me okay excuse me infantry don't really
-
 care about
-
 you
-
 if' had an day to eat Caroline Reaper
-
 cheese PL if I had
-
 any
-
 when and I wish I had some cookies to
-
 eat
-
 okay okay oh no
-
 oops it's fine it was just the
-
 first I only lost one of these and one
-
 helicopter not doing that
-
 bad
-
 just cookies
-
 cookies with some chocolate
-
 on yeah I should remember like
-
 things which they are causing me some
-
 trouble
-
 and then take a shortcut through
-
 here you are annoying too that was
-
 pretty easy to
-
 destroy
-
 damn Nice pronunciation thank you
-
 peaceful tank makes it sound that wor
-
 rewards
-
 yep I think they should be enough to
-
 clear the way through for the
-
 team cuz all I then do then is
-
 I take the Jeep down
-
 here through
-
 here through
-
 here don't RK it running over
-
 my there we
-
 go through
-
 here you never
-
 know and then use across
-
 here o wrong
-
 way
-
 sorry didn't mean to interfere with you
-
 Towers okay I'm not doing so good at
-
 moment okay one more
-
 try
-
 should be this
-
 [Music]
-
 hard going through here completely save
-
 [Music]
-
 here down here go across
-
 here acoss
-
 here ATT this one quickly get out of
-
 [Music]
-
 here
-
 away doing some target
-
 [Music]
-
 practice
-
 right next to
-
 [Music]
-
 you go go go okay I got of one one so I
-
 mean I could probably sneak in with d
-
 but like snag the flag flag
-
 snag with before the tower man shoot
-
 me and if they manage to shoot me I do
-
 move the flag more towards West meaning
-
 that it might be even easier for me to
-
 snag it the second
-
 time although I will not R the
-
 30y
-
 [Music]
-
 probably could but why risk a Jeep when
-
 you can make it perfectly safe cuz it's
-
 a waste of
-
 time come on it's easy I can do it
-
 I'll show you I can do it I can at least
-
 try with one Jeep I got three of them
-
 I'll show you I can do
-
 it I am p
-
 p and if we
-
 don't say that something it's not
-
 possible I just want me to try it even
-
 harder
-
 well let's
-
 go oh is it
-
 here go
-
 go
-
 there
-
 no I got
-
 stuck that's not going to push good
-
 thing they had such bad
-
 aim have St encouragement see I got it
-
 now I just need to get home but that's
-
 not no problem I got here without any
-
 issue so no problem getting
-
 home yay
-
 [Music]
-
 you I should go here and drop it off in
-
 that
-
 [Music]
-
 building to
-
 Bo well see was no
-
 problem no problem at
-
 [Music]
-
 all I meia again it's only like 10
-
 minutes left 27 minutes so probably not
-
 be able to do a whole 11
-
 in in
-
 just like 20
-
 minutes
-
 but next one is this one and that one
-
 looks to be taking quite a while to
-
 complete Treasure
-
 Island let's take a close
-
 look mive
-
 celebration where are oh they're in the
-
 middle wait how am I supposed to get
-
 there you know what I'll take a
-
 look I'll take a
-
 look
-
 can oh
-
 no there a lot of
-
 tows prob placing Tower so close each
-
 other they shooting each
-
 other but then do I need to like find
-
 the PATH across the
-
 water
-
 yeah I complet this 11 one
-
 minutes
-
 is not disappointed I mean it's
-
 disappointed it's not
-
 amused by my
-
 failure I'm
-
 sorry
-
 my flying R thing is
-
 coming all right time to go
-
 home there
-
 go you all f for their favorite food but
-
 no one knows what it
-
 is it's a special kind of
-
 carrot maybe maybe it's that only I can
-
 feed FAL pom pon if anyone else tries
-
 she doesn't trust you doesn't know what
-
 kind of food you're give me
-
 her
-
 no no I can't get across here this is
-
 the wrong
-
 path okay this
-
 is okay time to go
-
 home oh
-
 no what you
-
 me
-
 survive me like one
-
 HP swim away peaceful
-
 tank swim
-
 away I should have analyzed the map
-
 which PA am I supposed to
-
 take
-
 like this this one but this one doesn't
-
 seem to lead anyway
-
 nope I get here and that's
-
 it
-
 and you Tower just keep shooting me and
-
 it's
-
 annoying
-
 is this the correct PA
-
 then now this okay wait it might
-
 be still again oh
-
 fly okay so go there go
-
 here getting stuck nope no I can't
-
 continue to
-
 here I'm not allowed on on that
-
 island tanks are not allowed on this
-
 island maybe I should go there with a
-
 helicop
-
 in
-
 B ring a cute but
-
 deadly
-
 hello socks yeah I don't want
-
 call that seems a B Rude yeah can
-
 probably do this with
-
 helicopter I don't think there are any
-
 Towers on the island you just need to
-
 clear away for the
-
 Jeep hello again hello hello nice to see
-
 you I am a very
-
 very this bunny is able to maneuver many
-
 types of
-
 vehicles watch
-
 out I think operate is the correct ter
-
 but
-
 whatever
-
 oh no
-
 I no land
-
 what and after all of that it ended up
-
 in the
-
 water
-
 hello how about not being
-
 stupid this time I should be less
-
 stupid that they asking a lot for me
-
 though
-
 wow okay
-
 goodbye
-
 s
-
 [Music]
-
 by the way bunnies can fly helicopters
-
 or helic Choppers if you want to like
-
 it get it but
-
 sure and let's just s the an has to
-
 play uh come on
-
 isn't it
-
 PL
-
 oh don't s
-
 here yeah
-
 know
-
 need learn to control
-
 the so I'm going to destroy
-
 these too
-
 far I'm out of
-
 ammo but this
-
 be weaker than tank
-
 shots for for these building normally
-
 for other type if you shoot a tank or
-
 shoot a tower or something there's just
-
 as
-
 strong is I might be wrong
-
 though the just as the ammunition ran
-
 out let's go pick it up
-
 let's go pick it
-
 up so I guess I completely
-
 listen less than one or more exactly one
-
 minut cuz it
-
 is 19 very
-
 soon
-
 indeed this is the most peaceful Jeep
-
 you ever
-
 seen it will go there pick up the flag
-
 with with without any form of
-
 Confrontation without without any form
-
 of
-
 offensive uh
-
 actions it's okay
-
 um I saw I had it but
-
 no even though I had a very safe and
-
 fast up
-
 north let's take out a few more Towers
-
 they have been asking for
-
 it
-
 all right there all way to
-
 destroy one more time this time it
-
 should be safer I removed three
-
 towers and
-
 some Tower remains
-
 wh can you go
-
 there I don't know if this is
-
 quickly do
-
 that
-
 because because it's stand still when
-
 you deflate
-
 It Anyway let's pick up the flag without
-
 doing
-
 any aggressive
-
 action throwing some
-
 hanger oh
-
 no
-
 annoying
-
 thing last
-
 de take 50 minutes or something
-
 then at least I does have to destroy the
-
 building
-
 don't no one more
-
 Jeep yeah I lost another
-
 Jeep another
-
 Jeep let's pick it up and move on I
-
 pretend like
-
 [Music]
-
 nothing
-
 [Music]
-
 [Music]
-
 encouragement that
-
 [Music]
-
 that took
-
 like 15
-
 minutes I my prev took 27
-
 minutes
-
 so 14 minutes and 29
-
 seconds about 50
-
 minutes and then for tomorrow it's
-
 strike nine I don't know how we would
-
 say pronounce that stret
-
 n so we'll see how that
-
 goes that's a good ending time for
-
 [Music]
-
 once is you never know with those
-
 levels so
-
 thank you everyone for being here it's
-
 been
-
 a
-
 [Music]
-
 h quite a cal
-
 lately so I think we should go visit
-
 Mishi because she's playing Minecraft
-
 and I have not Creed Mishi in a long
-
 time I feel like and plus I have also
-
 not watched Mishi in a long time cuz she
-
 kind of been streaming and not been able
-
 to watch so I think that's fad
-
 you have't read her in a one yeah looks
-
 like that but she's
-
 playing Minecraft and she is
-
 currently holding
-
 herself CU she has like a human version
-
 and feral is not more like semi anro
-
 version and very anro more human this
-
 probably a term for that probably a
-
 Japanese ter for
-
 that hold
-
 her her alterate alternate
-
 version
-
 anyway oh yeah you know what I
-
 completely forgot to send this to stream
-
 and I wanted to send this so I can see
-
 it on my big
-
 chat oh no I can't find
-
 it it is this this this yeah it seem
-
 very for
-
 me and when I open the browser to do the
-
 ra uh
-
 it's
-
 this and then go that's my funny message
-
 that want to send in chat look at that
-
 isn't that
-
 cute so this will be a CO R Sly alome
-
 egg isn't here with with all the con
-
 Co see oh B yeah see
-
 isn't that
-
 funny funny I
-
 time
-
