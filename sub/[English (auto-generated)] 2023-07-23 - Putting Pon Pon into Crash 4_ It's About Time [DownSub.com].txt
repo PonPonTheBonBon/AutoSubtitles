@@ -1,5222 +1,2611 @@
 hmm
-
 with him
-
 is the music Martinez it should be
-
 it's very very quiet music
-
 comes from pionics nice to see you
-
 yeah I'm pretty much so I appreciate
-
 every machine again
-
 the sound of the counter doesn't count
-
 over a thousand
-
 the 40 minutes since
-
 a thousands messages
-
 that's
-
 now
-
 we go now
-
 is for me too
-
 [Music]
-
 thank you
-
 what a bunny yeah we're starting off
-
 Italian right now what should we go for
-
 this one
-
 yeah that pixelated
-
 switch built-in emergency like subhead
-
 I do like sugar I actually had chocolate
-
 here already
-
 chocolate
-
 or or chocolate so let's go to Unreal
-
 editor
-
 so I have to start a new project
-
 a games project
-
 it's a little bit blank
-
 because
-
 I'm not actually going to make a proper
-
 anfield project I'm only going to use
-
 then we have to convert the files to the
-
 game format
-
 so this shouldn't matter but play Prince
-
 is the one that should work and then
-
 preferably I choose never started
-
 comments I don't have to bother about
-
 that and then I need an increase
-
 now
-
 this was what I was going to do last
-
 week but I only had the
-
 4.19 version installed which is for
-
 Spyro this is 4.24 which is slightly
-
 different if you used to be used
-
 but they do use the same I mean I can't
-
 change actually yeah like 0.24
-
 to ensure that they are separate from
-
 each other
-
 which which I'm really really should not
-
 understand but if they cut less
-
 I'll call this one
-
 or something but the finger really
-
 replace more effective I need to be more
-
 specific
-
 Coco
-
 or something
-
 or should it be Coco popular
-
 first all of them will be good to
-
 getting affected me to
-
 tell person create infinix
-
 okay today
-
 the loading window priming didn't count
-
 okay
-
 [Music]
-
 thank you
-
 so here we go here's our name
-
 what really matters
-
 because I'm only going to use this for
-
 the content of it that's only what I
-
 can't but now
-
 sounds good
-
 and outside
-
 happy
-
 birthday months
-
 like this one this one is so funny and
-
 it looks much nicer when it's me
-
 currency looks nice
-
 but it's easier to tell him to speak
-
 that's fluffy tea
-
 and then the details like on the ears I
-
 mean the refunding Rings
-
 so
-
 what I have to do here
-
 is to
-
 create the plugin which is I'm not
-
 editing
-
 so I have to do that
-
 but I don't need to add it yeah
-
 this phone is empty it's
-
 so I need the name of the wish I had the
-
 I have it
-
 the the plugin exported so I go to is
-
 this sugar properly
-
 it is no it doesn't show this many
-
 but it doesn't show this menu
-
 it doesn't matter too much I guess
-
 oh that's actually shows me nice
-
 so I insert the name
-
 I should put content only
-
 and then create
-
 don't need this no more
-
 yeah good
-
 then this button which I don't know why
-
 it's hidden because this is
-
 all the folders and plugins and
-
 everything created it seems like a very
-
 good scene to have
-
 so
-
 um because this is a toy survive game
-
 it's basically the same
-
 design as
-
 the same structure as inspired so it's
-
 name is mesh folder
-
 there is the textures folder
-
 but then
-
 the
-
 Armature what the old character is not
-
 going to go missing oh there is going to
-
 be something else
-
 foreign
-
 [Music]
-
 foreign
-
 this one is made for fortnite
-
 originally
-
 and then later added the balance but
-
 this works for any
-
 or basically any
-
 unreal game
-
 so I just need to add the game two
-
 this F minor
-
 and then as long as restarts
-
 and
-
 it does not want to show up
-
 [Music]
-
 maybe we show up when it's downloading
-
 nope
-
 mine
-
 I found it
-
 so I'll just load all the files I guess
-
 that seems pretty quick
-
 two six to 672 virtual class 11 exactly
-
 and then plugins and then we find
-
 character
-
 and then it's playing
-
 and then this one did I use
-
 okay
-
 the one that's called CP for character
-
 plane
-
 and then it was
-
 purple
-
 [Music]
-
 yes that was in the content
-
 and then what smile is the match
-
 and here goes a few files you should ask
-
 him pH which one get and the missing one
-
 is the scale skeleton I need to figure
-
 out where that was but here's one thing
-
 more seeing when it comes to replacing
-
 cocoa with planton cocoa which is now a
-
 more question to give people
-
 cocoa has a tablet I cannot simply just
-
 remove the tablet because all all the
-
 animations are assuming the tablet is
-
 there so I mean I'm gonna have a
-
 template that's the problem and but as
-
 seen here there's also the two shoes
-
 which for some reason are two separate
-
 models and stuff used invert and one of
-
 them
-
 which kind of means I guess
-
 um
-
 which
-
 um allowed me to do another month much
-
 funnier just can't happen again
-
 a tablet however Coco has two shoes
-
 that's like one crocodiles the two shoes
-
 fly up one
-
 without separate measures I think you
-
 just pass those two meshes as part of
-
 the animation
-
 but one Pawn doesn't have [ __ ] oh
-
 a rabbit field
-
 that's that's it
-
 do you want to do you want it to
-
 announce the cubes to you
-
 sorry sorry you
-
 there's no s at the end
-
 thank you
-
 GM
-
 and that's an abbreviation
-
 but welcome I'm happy I'm happy to see
-
 more habits here
-
 you got patapony
-
 we got
-
 a few
-
 morning it's
-
 um
-
 [Music]
-
 afternoon but
-
 it's saved
-
 I have had problems sleeping recently
-
 but I feel I'm getting back one two
-
 I bet it's extension now I said
-
 [Music]
-
 and I ain't saying
-
 so here we go here's the actual skeleton
-
 I'm looking for it should go in a plugin
-
 called character common no problem
-
 against coconut
-
 go back to unreal
-
 and the plugin which again won't show up
-
 on screen mirror
-
 it's a pretty simple
-
 because I have a custom plugin
-
 waiting for the beds to go close this
-
 and now we have a cat coming
-
 so rest of the past content no I didn't
-
 want to open that
-
 content is a foreign
-
 and then it's just animation and then
-
 it's called scale hero character
-
 yep and one more something
-
 or the First full episode
-
 clanging
-
 so this is oh that is needed
-
 so far so let's go back to blending
-
 and
-
 I just properly set up now
-
 this one doesn't have the
-
 Armature set
-
 interesting
-
 so anyway with these two now
-
 detection this is going to be with the
-
 mix
-
 foreign
-
 [Music]
-
 this one is used here
-
 and this one is this here I'm gonna take
-
 this little something
-
 this one is almost
-
 and spices there
-
 so
-
 wait where are the Texas missing
-
 oh yeah
-
 doing now
-
 all right
-
 [Music]
-
 I changed it open it takes it from the
-
 wrong
-
 oh dang that doesn't work that works
-
 so that's
-
 [Music]
-
 I think there's anything
-
 anyone wants to ask me it's
-
 I'm taking it
-
 if there's anything be curious about
-
 anything
-
 so there we go
-
 so much I'm curious about is
-
 we just need to Denise
-
 I guess that's fine
-
 so I take these two
-
 [Music]
-
 along with the Armature like this
-
 oh yeah I was supposed to put up the
-
 seconds because I could see what was
-
 going on when I was
-
 whatever
-
 [Music]
-
 and I guess it doesn't show up here but
-
 [Music]
-
 it's basically just in default export
-
 settings plastic standard communication
-
 you do for spray modes into the section
-
 here
-
 I'm hungry finally I hope to find
-
 something to eat
-
 so
-
 go back to
-
 when you saw this hearing and now I
-
 exported this one
-
 yeah if I had a second screen I could
-
 probably just capture the whole area so
-
 I don't think it's actually show
-
 everything I do
-
 prominence if
-
 something that I don't want to show
-
 shows up
-
 it would be like I'm more than working
-
 on it I'm not really too easy
-
 [Music]
-
 [Music]
-
 so importing
-
 oh no
-
 and
-
 [Music]
-
 following the bones are missing from the
-
 bite
-
 is this going to be an issue
-
 oh yeah I've got nothing
-
 else
-
 actually I think my name is
-
 [Music]
-
 [Music]
-
 foreign
-
 foreign
-
 names of stuff
-
 so this one is
-
 it's part of the name
-
 that's this one
-
 don't be with ph instead and finally
-
 this one
-
 [Music]
-
 is going to be moved to animation
-
 thank you
-
 and we need
-
 in this scale here okay
-
 oh nothing if you have no kids food
-
 and I think
-
 for time being this is all I need
-
 nope
-
 [Music]
-
 so
-
 I press cook
-
 [Music]
-
 [Music]
-
 and I might be playing that
-
 I can go back here
-
 and create the cocoa Fielding
-
 [Music]
-
 and the cocoa folding
-
 [Music]
-
 it's going to be called The Following
-
 EPC 704's on score
-
 welcome welcome
-
 the whole party is me
-
 [Music]
-
 foreign
-
 and now it has
-
 completely
-
 speaking process as technology
-
 in the show of day
-
 progress buttons
-
 [Music]
-
 add it to this folder now it's here so
-
 all all I need now
-
 and is to
-
 [Music]
-
 add these shortcuts which I use on the
-
 olive oil actually amongst the shortcut
-
 so this is the e-pack thing
-
 since we're going to have two changes
-
 which I'm not sure
-
 so it made me
-
 oh God would be a different name and
-
 instead of saying fast food lava
-
 and of course
-
 it's it's
-
 not just I don't know
-
 [Music]
-
 it is nuts
-
 your name
-
 not to treat me
-
 [Music]
-
 locked out the circuit
-
 but I'm pretty sure
-
 yes I forgot this shortcut
-
 it was always so have to be seen still
-
 it points towards
-
 the correct spot again
-
 [Music]
-
 so now I can open this one and it opens
-
 the
-
 trash bag could fly all day
-
 very nice shortcuts so since I put in
-
 the files I need I just run this one
-
 and then it will
-
 speed out that time
-
 and now I can only hope for the past
-
 so
-
 well this one says close by let's call
-
 it Flash
-
 and then I run this
-
 and hopefully in the game launches
-
 without any issue
-
 all right
-
 okay so I need to
-
 let me add
-
 crash four
-
 well
-
 that's not what I wanted
-
 [Music]
-
 crash four one more time
-
 and
-
 okay there you go wait what's
-
 this we're deciding
-
 I don't know what it's going to say
-
 oh
-
 so much for playing for the game on this
-
 [Music]
-
 well it was probably wants me to launch
-
 the
-
 nice
-
 and I'm gonna have shortcuts
-
 better.net
-
 oh welcome back to him in
-
 [Music]
-
 foreign
-
 yeah before
-
 for some reason
-
 well I guess that's a topic
-
 one at a time
-
 [Music]
-
 and why isn't the audio system shut up
-
 [Music]
-
 and then anything
-
 I don't need it keep background music
-
 anymore
-
 as you could probably do something about
-
 this
-
 so
-
 my question oh it's about time
-
 it's about time I test these mods
-
 no I've made action before
-
 regarding the tanky beans about time
-
 please wait for logging also that W said
-
 that there's nothing you need nothing
-
 private going on at the start here I
-
 don't know it's
-
 you never know what these games
-
 that was up on screen
-
 not for this is
-
 thank you I guess that's my username
-
 though
-
 and they have one same slot
-
 but they're not in any
-
 one ingredient
-
 my plan for today
-
 I'm
-
 very very
-
 funny at the moment
-
 it's too fine that that became a
-
 different way
-
 I don't want to start with everything
-
 with me I wanted to go to the menu
-
 connected to the menu or do you have to
-
 do the first level I can do the first
-
 level
-
 but I wanted to go to the menu
-
 let's keep it for now because it's not
-
 19. no I can't create this menu okay
-
 first off let's
-
 um
-
 set controller buttons
-
 I was
-
 because I'm
-
 here we go I think
-
 his name
-
 that's what specialist
-
 I'm using
-
 let me
-
 I think I said set it to something like
-
 that
-
 just now
-
 oh nice nice leg there
-
 okay let me just oh my this game next
-
 though in my opinion I didn't like no
-
 everything though
-
 oh is it is it running it's on it no it
-
 shouldn't
-
 nothing wrong with that card
-
 it might be
-
 yes because everything is not working
-
 like I wanted stuff to work
-
 is it because I'm running I've been
-
 attitude back then something
-
 found me
-
 bank there's some of the programs I
-
 don't need anymore
-
 and I think I need the pressure of
-
 obviously in the background I got I got
-
 blender I mean I can see everything's
-
 been a lot and then open up them then
-
 when I get back to working on the mods
-
 that's the problem
-
 hey
-
 [Music]
-
 [Music]
-
 we only want to be
-
 any day now
-
 give me
-
 um it's it's so slow at the moment
-
 and it's like no nothing around the
-
 stream is going to act like this
-
 is my audio uh being wet again
-
 like when I was playing Crash
-
 in Century
-
 or does it sound fine I press and then
-
 press open
-
 with no Samsung
-
 is this just going to be how crash
-
 gameplay is
-
 terrible audio
-
 terrible thing like it's like less than
-
 a frame per second
-
 oh no I die
-
 but I didn't die you must die
-
 yeah this is
-
 a beautiful gameplay here right now
-
 why is it so terrible at the moment
-
 let me restart the game
-
 and let me check
-
 this is a pet shop it would start to be
-
 my wife now it's just a yes tablet
-
 moment
-
 playing play Inspire just fine but trash
-
 yes
-
 why is everything stream is now at this
-
 moment now we close the game blender is
-
 closed already that interest because
-
 everything is closed
-
 then
-
 but it's still
-
 and not laughing but it was not working
-
 man
-
 I'm coming all the way from space
-
 it's just a mustache right now well it's
-
 it's currently it's more like trying to
-
 make the game Run but this set to use
-
 the bow
-
 graphics card anyway so that's not the
-
 problem
-
 and
-
 when my idea is a big new game that's
-
 what I'm flying on the computer
-
 [Music]
-
 so yeah I did add the Pom-Pom Coco tag
-
 fine
-
 um
-
 oh yeah I was supposed to remove the
-
 video files so it's good good enough
-
 just starting games without these
-
 loading speeds
-
 let me create a bow left work loading
-
 okay
-
 and it's all these bumpers that I put
-
 the bumpers in the film
-
 and then you didn't have to consume that
-
 it doesn't really matter because it does
-
 this building's been here anyway so that
-
 shows that the time but I don't know if
-
 it saves times loading
-
 that's not the progress bar that's just
-
 an animation
-
 you just finished up and then
-
 and then after all that
-
 nothing
-
 because it doesn't want to start up like
-
 that
-
 it has
-
 because it was the piano
-
 yes as I was going to say
-
 to just wait sometimes
-
 where's the Nets just like steam Shell
-
 City
-
 products to purchase
-
 it tells me here's the amplifier
-
 and
-
 okay I guess that was
-
 and then it tells me the game is rated M
-
 that's not a valid rating
-
 I'm from Europe
-
 and
-
 and panel.net is sent to Europe
-
 so I have no idea why the game is gives
-
 me the wrong or anything
-
 but I guess that shows kind of the
-
 quality
-
 I think the quality of battle battle.net
-
 can I
-
 yeah I wanted to move
-
 anyway
-
 it does run better now does it sound
-
 better
-
 yes 17 is not a valid rating
-
 does it doesn't matter it is an invalid
-
 ranking that's my point
-
 why couldn't why couldn't they give the
-
 correct 19 that's my question
-
 and then obviously they I mean that's
-
 the next question aren't they legally
-
 quite true because
-
 I guess not because
-
 I don't it's Sweden does not required
-
 everything to be used it's only like
-
 recognized
-
 it's commonly used anyway but it's it's
-
 not like required
-
 this is fine because basically every
-
 game is using it anyway I'm just a
-
 rushing soon it's never that moment
-
 I I will play through the game properly
-
 I really hope they
-
 audio for my me sounds fine
-
 and then I'm
-
 pick up masks so I don't live stem
-
 anime
-
 what
-
 it's speed running
-
 or a bonus but that's you know that
-
 oh wait
-
 there you go
-
 Elon Musk and shot the gameplay
-
 gameplay
-
 no come out all right
-
 that was bad Timmy
-
 okay there we go
-
 now I can go back to
-
 one linked foreign
-
 skins yes that's quite useful or
-
 so I can have different skins but no I
-
 don't want to play next level
-
 it sounds fine right now that's good
-
 doing quite much for the first time
-
 playing this game I'm not playing the
-
 game for the first time
-
 I can't play this before
-
 but yeah the game is not performing well
-
 at the moment
-
 is there a good level okay
-
 I guess I'm just
-
 yeah I need that mask apparently
-
 but
-
 and also you don't get to keep your
-
 masks to the next level
-
 so getting a triple mask in this game is
-
 a bit tricky because I basically have to
-
 restart
-
 oh that's like that it's meaningless but
-
 anyway because I'm not
-
 doing fine team
-
 only is there plenty of checkpoints I
-
 can use
-
 wow
-
 that timing wasn't between
-
 okay
-
 at the same time
-
 and these cutscenes are in Game except
-
 they will respond for some reason but
-
 this isn't for now
-
 even though you can't replace you this
-
 physical family
-
 and I guess I mean I can I think I can
-
 after I get to 11's next screen
-
 so
-
 I I uh I could keep this save
-
 for only
-
 so I can do these levels properly next
-
 and when I actually play the game for
-
 again
-
 but yeah the game does not shine
-
 smoothly but I can probably do something
-
 about that
-
 run crash run again
-
 so
-
 I never complete so it's two levels
-
 and then maybe go to
-
 yeah and then this this is in this is
-
 pre-rounded
-
 yes it is
-
 and even the premium cutscenes are like
-
 so the very first cutting you get when
-
 you start a new game or when you start
-
 at the first level and then they got
-
 seen at the end of the second level it
-
 also prevented then there is one
-
 somewhere in the middle of the game
-
 it doesn't get it why do why aren't it
-
 premium did I get like
-
 party at like
-
 when they play the game first time
-
 you're going to have default crash
-
 and you're not going to have a crash
-
 with a different outfit
-
 but
-
 anyway
-
 well
-
 the mod is clear not working
-
 so anyway but I got them this far so now
-
 I can't quit gaming as soon
-
 so now next time I start the game I will
-
 I would have access to that
-
 immediately
-
 but okay now the next question now I
-
 have to start
-
 [Music]
-
 now the question is why do you need to
-
 replace cocoa
-
 fantastic question now
-
 [Music]
-
 all right
-
 however
-
 hopefully I might be able to get access
-
 to um
-
 so now it's everything 20 testing
-
 I might be able to get access to high
-
 performance in Computing meaning that I
-
 can play the game smoothly before I
-
 start playing the game guys
-
 so so I have a focus on other question
-
 before that
-
 um because it might still take time to
-
 complete the more anyway
-
 and I do want to complete it with my
-
 planning
-
 [Music]
-
 is it a different Nursery from the
-
 default coconut it I mean um okay and
-
 that's me
-
 and I am replacing the uh
-
 default okay I mean I guess it's kind of
-
 hard to tell them what's going on here
-
 but
-
 the only way I could make sense is if
-
 [Music]
-
 it is not CP connect being a place and
-
 it's actually the cim exactly
-
 but that doesn't make sense because the
-
 cin which I would assume is the
-
 character
-
 in
-
 interactive movie and I I at first I
-
 thought that I am that student when I am
-
 [Music]
-
 and the interactive cuttings
-
 I feel interacting makes sense to me but
-
 I did not instantly
-
 [Music]
-
 however
-
 that's not the version used in game the
-
 last version you think because looking
-
 or closer at the cim model it does not
-
 have for example people's games it does
-
 just have
-
 [Music]
-
 it doesn't have the unified skeleton and
-
 instead spawn and that's not how the
-
 game works
-
 so
-
 can I
-
 please absolutely yeah the name of the
-
 flash should correct didn't do the
-
 package working inside it
-
 [Music]
-
 wait wait
-
 because he did make his patch it has
-
 file content but
-
 did it package correcting
-
 that's a good question
-
 I could check that and
-
 I can do it I was starting
-
 a engine and basically just
-
 loading the content of the files as far
-
 as you can tell yeah it has specific
-
 uh like I can confirm that it has done
-
 that quickly
-
 [Music]
-
 so next I guess is to check that my plot
-
 display
-
 and plugins yes characters especially
-
 now it's quite expensive
-
 [Music]
-
 player
-
 and and then it's
-
 like me
-
 I'm stupid
-
 obviously doesn't it
-
 should be a Content folder because I I
-
 didn't even create a content for all day
-
 and then I had to specify where I only
-
 found this one and she's going to match
-
 for their completes we got that part
-
 time it's silly now we should go in here
-
 no wonder it doesn't work yes I had this
-
 suspicion that it wasn't
-
 replacing Define this because I played
-
 the fans in the wrong place
-
 now
-
 it should work
-
 so back to the question
-
 and hopefully now I don't have to play
-
 the levels anymore so now I should hope
-
 you not have to close I'm going to edits
-
 anymore
-
 to save me some time
-
 please wait for loving
-
 I think you don't have to do diamonds
-
 I guess
-
 I mean
-
 it probably does some kind of
-
 DRM check it's just more seamless
-
 yeah yeah let's go straight to the map
-
 oh there we go this is working
-
 obviously the texture is you're wrong
-
 but
-
 unfortunately everything you said your
-
 Snapchat of my head I did not understand
-
 well
-
 Owen
-
 but as you can see the mesh is working
-
 and I said I have not done any texture
-
 works so the texture is just deep of
-
 cocoa but incorrectly map it's about on
-
 the body
-
 and of course says can be seen
-
 foreign
-
 but the for some reason the eye breaks
-
 and
-
 I have this outfits
-
 which is this electric skeleton I would
-
 I will make one of those for a cocoa
-
 Coco
-
 that's one will also be available so you
-
 can play a skeleton
-
 yes
-
 looks like she's running around me with
-
 no choices
-
 yeah she got the sleeveless top and
-
 bandaged legs not sure what's going on
-
 the back side
-
 and then just
-
 gloves maybe maybe she has this bright
-
 hands
-
 and then some short sleeves that I've
-
 completed my wrist
-
 foreign
-
 but yeah so it's working it's working
-
 I would say we can
-
 go into the level and just look at some
-
 animations
-
 and leggings
-
 for their arms
-
 okay let's eat this
-
 now the animations aren't working
-
 so yeah
-
 perfect
-
 so what's next
-
 okay
-
 um
-
 I should start a planting again I think
-
 the game was running smooth and in the
-
 show why it was trading so much last
-
 time I started
-
 so
-
 I need to add a tape I do want to make
-
 the upper body a bit wider and lower
-
 body like the hips beat my deep relax
-
 and if you like this part should be
-
 eat out yeah I feel like the upper body
-
 is a big mouth
-
 um
-
 foreign
-
 but that's me
-
 I can't
-
 so
-
 I could
-
 because I wanted to make the upper body
-
 including shoulders a bit whining
-
 but I need to find that
-
 hey
-
 good amounts
-
 all right
-
 y'all never put anything here
-
 and I'll say it as I haven't started the
-
 message thank you
-
 again
-
 foreign
-
 music
-
 [Music]
-
 which keeps on getting flagged on Twitch
-
 for being
-
 uh
-
 dumb song called unknown Title by and
-
 practice known as unknown artists
-
 [Music]
-
 and every time that happens
-
 I just find one of those which is so
-
 much nicer onto it
-
 that is on my video doesn't contain that
-
 song
-
 and then they want you to fill out all
-
 these big old stuff
-
 I do just fill out my name and then and
-
 then you have to a bunch of hot stuff
-
 you have to fill out today don't fill
-
 out any of their stuff stuff because my
-
 good eye because I don't use that thing
-
 I mean like
-
 um all right sorry about this let's play
-
 request
-
 These are nice statue because if they
-
 make a claim it's an automatic claim
-
 there's nothing someone maliciously
-
 what if someone is a claim like
-
 [Music]
-
 you are using this that you are not
-
 legally allowed to use
-
 and I'm not using it
-
 obviously I don't have to go through the
-
 whole legal processor I can't say I
-
 don't I don't use it you have to prove
-
 that I'm actually missing
-
 [Music]
-
 and luckily
-
 as far as for me Twitch has been pretty
-
 good about that kind of stuff
-
 and and release the the honestly
-
 the fastest thing I've ever kissed
-
 [Music]
-
 which is nice
-
 foreign
-
 [Music]
-
 what's the fancy word for arms because
-
 decapitation other than
-
 cut the head off which would be I'm one
-
 of our friends
-
 apparently I can't spend the capitation
-
 wait
-
 our respect the captivation of
-
 decapitation
-
 thanks pinky I can't spend it apparently
-
 okay there is there is the term which
-
 team if you look at if you look up
-
 decapitation of dictionary the first
-
 word
-
 is in Swedish business and decapitiating
-
 which would be the same origin of the
-
 English word
-
 however I don't know if that's an actual
-
 word used in Swedish I have an
-
 activities the other one is house
-
 spooning
-
 which is a combination of
-
 the word for throat and to cut basic is
-
 basically cutting this out
-
 [Music]
-
 of course then there is the English word
-
 to be hands which is a more literal
-
 meaning of
-
 based on what it
-
 it's more clear what it means
-
 foreign
-
 [Music]
-
 English that has been one of my
-
 struggles
-
 so many words doesn't really explain
-
 what they are
-
 [Music]
-
 which I probably mentioned before but
-
 yeah
-
 my life growing up blood is English
-
 one of the things
-
 which I guess was taught a bit for a
-
 Dance Movement
-
 I got the concept eventually watch the
-
 whole is the marking
-
 how when
-
 [Music]
-
 and yeah it was
-
 it was weird to me
-
 for some reason that's a thing I
-
 remember that I just found it it
-
 obviously isn't weird to me now
-
 but
-
 at the time I didn't know any other
-
 handsome Swedish so
-
 I didn't have any other frame of
-
 reference
-
 [Music]
-
 if that's a great time
-
 and so
-
 um yeah and they've seen how fun went
-
 over it which I guess is the Swedish
-
 nationality
-
 is that in Swedish
-
 you use a suffix to Mark the definite
-
 one
-
 foreign
-
 thank you
-
 I would like to make like an English
-
 equivalent of that
-
 yes but it takes the word the reverse
-
 the water and change the swing so you
-
 get ease but make it s so it flows
-
 better as suffix and then you do that
-
 instead of saying the rabbit you say
-
 rabbit death and there you go that's
-
 [Music]
-
 that would be the equivalent series
-
 and of course it doesn't sound very
-
 strange when there's no tasty but
-
 but that's what our place Swedish does
-
 I have already looked at uh languages
-
 more in general
-
 yeah
-
 sounds like
-
 what happened
-
 [Music]
-
 well yeah I assume it's the
-
 second person signal
-
 platform
-
 [Music]
-
 Janice runs
-
 [Music]
-
 which of course would be a better form
-
 that's been out of use because the
-
 second person fell out of his
-
 [Music]
-
 which of course makes sense
-
 [Music]
-
 um
-
 and then English decides to
-
 invent a new
-
 a second
-
 second person plural
-
 I had no idea if that second or second
-
 knows me
-
 English is decided to drop second person
-
 singing
-
 yeah first person's yourself second
-
 person is but the first person is you
-
 and everyone who is with you second
-
 person is
-
 everyone you're speaking to and sad
-
 person is everyone not involved in the
-
 conversation
-
 [Music]
-
 and then there's ideas of a fourth
-
 person but there's not a
-
 an agreed upon the way of considering
-
 what a fourth person is
-
 [Music]
-
 for example it could be that you're
-
 speaking about a third person who was
-
 speaking about another person then that
-
 person becomes the first person I've
-
 also read about the language
-
 and it had what they considered a fourth
-
 person pronoun
-
 which is when you're speaking about
-
 a third person which includes objects
-
 they answer third person
-
 I mean unless you're speaking to that
-
 okay but normally normally you speak
-
 about the object so they become the
-
 third person
-
 and
-
 if you're sentenced then includes
-
 third person doings an action and a
-
 third person receiving an action
-
 so
-
 and the dog
-
 the more song and let's say see the dog
-
 sees the rabbit
-
 third person is doing the action and
-
 this side person is switching action
-
 in this specific language and I'm gonna
-
 have lost the track yeah okay and you
-
 therefore have this third person pronoun
-
 which can refer back to the dog
-
 but the fourth person pronoun would
-
 refer to the rabbit and that's a quite a
-
 useful feature
-
 [Music]
-
 and something I still have questions
-
 but as I also said there's no agreed
-
 upon is not agreed upon what a fourth
-
 person is though there are different
-
 ways of seeing
-
 so it's basically just the additional
-
 way of referring to something because
-
 yeah
-
 but I think the definition is different
-
 but not good yeah okay
-
 there are different it is basically
-
 a force type of a pronoun more than a
-
 person
-
 which is not covered by the indefinite
-
 or the other
-
 variance of indefinite
-
 [Music]
-
 because indefinitely sad person's thing
-
 [Music]
-
 foreign
-
 [Music]
-
 language like German
-
 I can also use nice a similar system
-
 because
-
 I like English where you say dog and
-
 rabbit
-
 if you want to refer to back to them
-
 usually would use them for around it
-
 if I said verb then I might see that had
-
 nothing to do with it
-
 but in German dog is masculine and as
-
 you really want to specify it as a
-
 female dog
-
 and rabbit is neuter
-
 therefore
-
 when you say the dog seems the rabbit
-
 [Music]
-
 whatever that is in German
-
 and
-
 yeah
-
 speed and
-
 that's
-
 something like that Mickey
-
 thanks thank you
-
 [Music]
-
 therefore you can use the
-
 masculine key to refer to the dog
-
 and the neuter it to refer to the rabbit
-
 it will be grammatically incorrect to
-
 use it to refer to the dog because the
-
 dog is not an
-
 it's it's
-
 and me which
-
 doesn't make sense in an English
-
 sentence there we go
-
 and that's just how the language works
-
 laughs
-
 the gendered pronoun doesn't look like
-
 grammation
-
 it's just that the grammatical gender in
-
 our lines with it biological gender in
-
 many cases
-
 it's been a while associated
-
 they're just different
-
 classes of verbs verbs words
-
 foreign
-
 [Music]
-
 [Music]
-
 yeah let's see I think I made the hips
-
 like too wide when I look back at this
-
 after
-
 done with the sourcing I felt like you
-
 know I'd probably do white like me
-
 hey again
-
 like in Polish referring to water of
-
 Water he is family pronouns so if you
-
 want to say I see it you're referring to
-
 what will disturbance when you say
-
 yeah yeah
-
 because
-
 yeah
-
 [Music]
-
 because her doesn't mean it's a female
-
 scene it just means that it has the
-
 grammatical gender
-
 of
-
 acting
-
 it's just that that's it
-
 just grammatically Acts the same way as
-
 the words for a woman mother and so on
-
 it's important thing it is not a woman
-
 [Music]
-
 yes and that's important just because
-
 someone is acting like a woman doesn't
-
 make them a woman
-
 is this particular should I make it more
-
 defined
-
 present because I really want the uh
-
 [Music]
-
 one interesting word
-
 is
-
 Magic
-
 it's part of the female Jews regarding
-
 reflection
-
 is
-
 [Music]
-
 it might be the case of
-
 it kind of being a feminine
-
 feminine words that people are using
-
 masculine
-
 [Music]
-
 words surrounding
-
 [Music]
-
 I don't know how far German goes with it
-
 but the word for a girl in German
-
 has become the diminutive of a previous
-
 word
-
 and all diminutives in German are
-
 Newton
-
 and not feminine
-
 yeah so
-
 they were for girl in Germany is
-
 neutered as a very common example of why
-
 the American General biology doesn't
-
 like
-
 and
-
 so you when you're referring back to a
-
 girl you should grammatically speak in
-
 use the program it
-
 however people might still choose to use
-
 the word she because
-
 the biological Association
-
 and I don't know how far this goes if
-
 people when they use adjectives
-
 if they use the neuter version of the
-
 family version
-
 if Germans choose to use the feminine
-
 version of addictive teams I can see a
-
 similar thing there because
-
 the word I isolated is I need to learn
-
 but
-
 [Music]
-
 it is referred to as feminine
-
 because of the biological
-
 Association if that makes sense
-
 a lot of people do say thus which team
-
 did use new trackers
-
 so bisoki
-
 the town man
-
 bisoka
-
 would be
-
 don't know incorrective people can't
-
 accept it
-
 let me get back to me
-
 if you keep deleting it and adding it
-
 back all the time
-
 [Music]
-
 look at my workflow here
-
 [Music]
-
 yeah
-
 [Music]
-
 we speak of languages
-
 [Music]
-
 and very
-
 Broad
-
 and public and another product
-
 me
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 laughs
-
 sometimes even humans just
-
 say that it should be like this even
-
 though it makes no sense
-
 [Music]
-
 [Music]
-
 like how I like how some people argue
-
 that the plural of cactus should be
-
 cacti because that's how it generally
-
 works in the language's origin okay but
-
 why specifically that word why not
-
 why not be clear enough everywhere like
-
 that that's gonna be such a mess in
-
 English
-
 [Music]
-
 I I need a random word
-
 like the word restaurants that's a good
-
 word it's got from French
-
 restaurant
-
 and the French word for plural is
-
 [Music]
-
 yeah so so you should not say
-
 restaurants in English that's incorrect
-
 they should be restaurant
-
 yeah
-
 restaurant
-
 we don't
-
 keep following this
-
 at logic people trying to come with me
-
 and
-
 she won't be
-
 like
-
 what's the word for a man Italy is
-
 actually probably at the birth of the
-
 region Union
-
 [Music]
-
 at least Russian is easy to read and
-
 polish
-
 [Music]
-
 message
-
 it's just polish is better off like that
-
 it has abused the Latin script
-
 and it's not it's not allowed to use it
-
 anymore
-
 it is interesting to see ways people
-
 come up with using this really script
-
 for different languages
-
 and then apologies for me to read the
-
 Russian
-
 what you used to
-
 wait I hope I said that I can read
-
 Russian instrument polish I think I said
-
 that
-
 [Music]
-
 nope
-
 [Music]
-
 although I can't imply that only
-
 spelling is bad but
-
 yeah is it hot I'll see that
-
 some spellings are just
-
 it has the interesting pronunciation too
-
 but the spelling is now
-
 [Music]
-
 you've got the personal pronoun then
-
 all right
-
 Maybe
-
 maybe I didn't say I
-
 or something like that
-
 well I meant it there we go here it's
-
 about
-
 but she will always have clothing
-
 covering him but I meant for me I speak
-
 of my own experience
-
 and though I'm not one to talk about
-
 vomiting the person setting up all the
-
 time yeah it happens
-
 [Music]
-
 I think that's important I think people
-
 struggle with
-
 um
-
 and I think maybe we should say sorry
-
 new things
-
 if someone gives uh something that's
-
 more of an opinion like easy and harder
-
 the one it should be seen as the
-
 person's own experience
-
 [Music]
-
 like yeah Russian is easier to learn
-
 because it aligns more with my
-
 that's an example
-
 yeah doesn't mean that direction is
-
 easier to learn for everyone just this
-
 person in particular
-
 [Music]
-
 [Music]
-
 there's an idea but I cannot say this
-
 can hurt you inch probably if you use
-
 substance in such a short time
-
 ago experience when you say that
-
 okay something is
-
 something
-
 and you specify it myself
-
 I know someone says that's not true
-
 only you don't know how
-
 I find that easier well that's not true
-
 um
-
 though it's generally stated that
-
 Russian is even a Polish
-
 even almost like people but it's about
-
 the most difficult level is
-
 far as I've seen it does have kind of
-
 bit of an odd
-
 combination of consonants
-
 so I could see that being uh is more
-
 pronunciation Wise air polish a bit
-
 tricky
-
 certainly that should be a way to kind
-
 of measure that thing objectively a
-
 language with more
-
 or should I say a language with less
-
 different sounds
-
 would be objectively easier to pronounce
-
 than one with more sounds
-
 easier doesn't mean better of course a
-
 benefit of having more sounds is that
-
 you can have
-
 shorter words and more unambiguous yeah
-
 communication
-
 it's like my favorite words
-
 it's 20 letters or so
-
 which is
-
 is
-
 the name of a 16th and I think it's
-
 [Music]
-
 [Music]
-
 well
-
 foreign
-
 thank you
-
 something like that
-
 kids little feet
-
 or a cute little rabbit
-
 imagine making the main shoulder or
-
 something
-
 I wasn't experimenting here
-
 [Music]
-
 maybe that is bad
-
 [Music]
-
 maybe that's more feet
-
 [Music]
-
 so
-
 that's a long time for this watch me
-
 so this is the pumpkin bunny
-
 buddy
-
 [Music]
-
 so an entertain
-
 this stain
-
 detail of the detain
-
 so you might have just
-
 characters in
-
 I'm trying to think like
-
 jump started the daily creating process
-
 by importing an existing tape
-
 those
-
 the SEC
-
 might be curious if
-
 other kitten another that's an idea
-
 another collection
-
 it makes me wonder if
-
 no that's not this one
-
 import
-
 psk yeah it might be wonder if a
-
 character like Bianca has a
-
 [Music]
-
 great time it's Bianca is of course I'm
-
 gonna PC not playing I wish Bianca was a
-
 player
-
 uh
-
 let's compare the size of Bianca too
-
 okay
-
 no more sportswear and fluffy Canyons
-
 once but she didn't have a rabbit stain
-
 it doesn't even looks like it
-
 no
-
 another lady
-
 nope
-
 I don't know if it's a stupid thing
-
 anyway
-
 there you go no more
-
 Cape ish is that rope they call it the
-
 cape it was a cape in original just had
-
 a dress and a key look at this
-
 I don't know she likes capes
-
 but there's clearly no tail here
-
 oh well
-
 which other character has a tail
-
 [Music]
-
 turn to sink a hunter has a long tail
-
 that's not the style I'm looking for
-
 the palace have spherical things
-
 um
-
 [Music]
-
 well who doesn't like capes well aside
-
 from England
-
 Moon from The Incredibles
-
 no
-
 Apes
-
 she was not a fan of capes
-
 [Music]
-
 a rabbit monster
-
 does that contain anything
-
 probably left over from the ramen
-
 monster that appears in the cutscene
-
 that they made pre-rendered
-
 sadly
-
 well
-
 looks like I have to invent that hit
-
 no shortcuts here foreign
-
 I see
-
 I keep I keep missing your estins
-
 I'm being silly
-
 yeah let's let's switch to this one
-
 she says there's a liability at least a
-
 bunch of capes who caves left in their
-
 minds guy got escapes nine on a rocket
-
 and thin and blew up
-
 and I got the Cape Cod in a running jet
-
 engine
-
 Etc
-
 what are you here
-
 you should totally made those stories up
-
 it was because she doesn't spend escapes
-
 to look
-
 now
-
 I guess it makes sense
-
 I'm trying to be so nice how the tail
-
 looks in 3D
-
 because it's just all I have is this to
-
 the truck
-
 thank you
-
 that's all I have
-
 I'm currently I struggle I'm visualizing
-
 it which is why I wanted that shorter
-
 before I still want to remember that it
-
 is a character inspired that's actually
-
 hasn't
-
 pale and the characters called ellora
-
 now
-
 and Laura
-
 and Laura come here I want to import you
-
 to have it
-
 wasn't
-
 Elora
-
 there you go here's the tail
-
 no expecting half for some reason
-
 [Music]
-
 select emerge
-
 delete everything else
-
 they have to have connected to the body
-
 our turn
-
 team
-
 [Music]
-
 so delete that
-
 and it
-
 overflow
-
 versus let me show my split in half by
-
 the way
-
 [Music]
-
 the real reason is they couldn't get
-
 cash before problem CD radio animation
-
 I know I was scared to subscribe
-
 now that's totally how I would Rescue It
-
 well they did try to do some
-
 [Music]
-
 some crazy stuff in that film
-
 did you just cut off a Laura's tail in
-
 order to listen to Fun Fun well
-
 no
-
 I don't know what you're talking about
-
 [Music]
-
 it's everything
-
 [Music]
-
 what are you talking about obviously not
-
 how big is the tail
-
 [Music]
-
 I mean in that sad too I I still had any
-
 plans of change it's entertained so
-
 foreign
-
 Frankenstein
-
 by me that's kind of my morning
-
 when I make I'll make the tail in
-
 whatever size it becomes that I'm
-
 defining
-
 adjustments as needed
-
 take care
-
 thank you
-
 again about a dfl
-
 I'm going to do this shape
-
 without this head just copying
-
 and on the strength of
-
 like that
-
 [Music]
-
 once it's stuck now the same with
-
 clipping
-
 and there's t7 merging
-
 resistance like
-
 this makes no sense what's going on
-
 um
-
 what's going on
-
 oh I see I see let's see what's going on
-
 the mirror editing thing was enabled
-
 which will
-
 this enabled mesh symmetry index axis
-
 which is a weird name because it's it's
-
 only for editing
-
 and it will therefore when you do an
-
 edit to
-
 a Vertex or something called one side we
-
 do it it would find the vertex in the
-
 exact same position other side and apply
-
 every same modification you do but the
-
 opposite way around
-
 which means that if you have a vertex in
-
 the exact middle
-
 it will therefore Target itself
-
 and apply changes both ways so
-
 it won't move away from The Middle
-
 [Music]
-
 foreign
-
 [Music]
-
 I have a lot of random stuff to say
-
 find it against this is good
-
 I mean
-
 hydrate
-
 [Music]
-
 thank you
-
 [Music]
-
 hanging they have an odd number of
-
 characters
-
 how did you end up with that
-
 must be one of those predictions you did
-
 foreign
-
 oh yeah no it's the uh it's the first
-
 first redeems
-
 [Music]
-
 what do you want
-
 I I've seen a redeemed to waste your
-
 points on
-
 I have a certain one you don't like yes
-
 it's really in this one so you get rid
-
 of a pocket
-
 [Music]
-
 get nothing at it
-
 the first one yeah
-
 it does that I do wish
-
 more points giving up wasn't so
-
 you get like okay
-
 you get 10.75 minutes
-
 and then get 50 points every 15 minutes
-
 if you're active
-
 and
-
 then if you watch multiple streams in a
-
 row you get like 300 for the
-
 and points if you follow along on a raid
-
 is like 250 points or something so all
-
 the points you get is multiplied by a
-
 factor of 10 of some sort unless you
-
 have like the one
-
 the tier one
-
 multiply but guess you get 12 points
-
 every 10 minutes then I'm from inside
-
 [Music]
-
 but it would be nice if they had more
-
 the more stuff to give you how
-
 um
-
 [Music]
-
 yeah he's the redeemed to cost my coin
-
 for the soft personal balance
-
 balancing your balance
-
 thank you
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 how am I thinking of doing this
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 laptop
-
 [Music]
-
 foreign
-
 [Music]
-
 of course not because I have to apply in
-
 the mirror
-
 okay I'll delete it
-
 [Music]
-
 where it is
-
 [Music]
-
 at the same in the marriage
-
 [Music]
-
 thank you
-
 okay smooth vertices
-
 um
-
 [Music]
-
 [Music]
-
 then
-
 there's like two of them
-
 it doesn't get me to scare me you'd
-
 imagine to have them merge together
-
 which will give this
-
 back there
-
 obviously I can and it is a big nice
-
 [Music]
-
 and then underneath everything there's a
-
 very tiny one
-
 foreign
-
 [Music]
-
 foreign
-
 [Music]
-
 foreign
-
 [Music]
-
 foreign
-
 thank you
-
 now
-
 oh
-
 [Music]
-
 I don't see
-
 [Music]
-
 [Music]
-
 that's very kind of you I mean
-
 really because it's they're really
-
 falling behind in 1925 shop cool
-
 closest one like 20 now it's dark
-
 dancing
-
 I hope rocket man enjoys that's
-
 access to the cute bunny image
-
 that I guess that's basically what you
-
 get from it
-
 and add free viewing
-
 if you if you get ads
-
 there are many ways of not watching it
-
 but
-
 whichever way you choose is fine
-
 subscribing is obviously
-
 the message I prefer you do but
-
 there we go
-
 and random subscription
-
 out of that way
-
 I'm totally unfortunate
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 oh it helps
-
 I think
-
 uh a thousand beats that's amazing
-
 uh
-
 you can't just know what to say
-
 it about two minutes and that gives me
-
 access to this special I think let's see
-
 that
-
 yeah
-
 the funny one which is this one
-
 [Music]
-
 application expression of them
-
 [Music]
-
 yeah I don't have any
-
 special
-
 and sister happy when YouTube channel
-
 yourself sadly just generic messages
-
 [Music]
-
 I don't know what else what else to do
-
 there you go
-
 [Music]
-
 well you can post and you should have
-
 access to that forever while unless I
-
 change
-
 I don't think I will change this
-
 [Music]
-
 they are good I say hi there it is
-
 that's what I wanted to get
-
 well you did give an additional 245
-
 since you have shared that before
-
 now
-
 755 should have been enough
-
 this way
-
 I love you
-
 [Music]
-
 [Music]
-
 okay I do like the post that's funny I
-
 mean when I watch things
-
 [Music]
-
 and then I see the facial expression is
-
 just amazing
-
 Mr blank stay
-
 um
-
 [Music]
-
 four of them we are multiplying
-
 oh
-
 no he does them
-
 a whole lot of them
-
 I've seen 16.
-
 [Music]
-
 [Music]
-
 wait too many at the moment
-
 [Music]
-
 they're taking away
-
 [Music]
-
 [Music]
-
 actually
-
 I was supposed to leaked girls
-
 silly of me
-
 [Music]
-
 I'm telling my jam allowed to send 64.
-
 what is it about it oh
-
 this is one two four eight sixteen
-
 thirty two
-
 that sounds very mathematical
-
 [Music]
-
 [Music]
-
 there's a lot of them
-
 yeah
-
 they are doubling every time
-
 [Music]
-
 it does take time left to prefix
-
 the one that has the shorter number left
-
 is shy and gray
-
 [Music]
-
 and was there any other yeah here you
-
 are inside the street
-
 [Music]
-
 [Music]
-
 so with this one you can actually fit
-
 [Music]
-
 it's more
-
 [Music]
-
 Rocket Man yay
-
 now YouTube
-
 when you order the headaches too but yay
-
 [Music]
-
 [Music]
-
 that can't really see exactly in which
-
 months
-
 are generally meets this one is
-
 vulnerable because there's a first one
-
 is I don't remember which one I said
-
 that's the only way
-
 they don't keep the community
-
 [Music]
-
 efficient gift like midnight
-
 no yeah
-
 it is a very nice gift
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 laughs
-
 now
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 thank you
-
 how is it coming up yes
-
 um
-
 as
-
 this I'm building a tail at the moment
-
 I've done the whole body and I just
-
 notes Here
-
 I tried to make the upper body I think I
-
 got this correct and I'm a hips stop
-
 this night's Legends I think I think
-
 this shape is good
-
 so we know these notes are currently
-
 adding retain now
-
 hello navis
-
 welcome welcome
-
 to this
-
 and also welcome back
-
 as well you've been here before
-
 fingers
-
 and welcome back
-
 how are you doing
-
 um I didn't really
-
 and
-
 and you know
-
 dancing
-
 I did feel I don't know
-
 [Music]
-
 yeah I don't know how this job how I'm
-
 doing but you know yeah
-
 let's see really good
-
 I'm not pregnant that's always not the
-
 one you're replying to I get that but it
-
 looks funny
-
 okay no problem making anything good
-
 [Music]
-
 yeah
-
 foreign
-
 yes it should be
-
 [Music]
-
 all of these
-
 so there's quite a lot of emails
-
 but then it gets this for
-
 one thousand Beats
-
 five thousand beats everybody very rich
-
 ones
-
 okay
-
 seven thousand ten thousand
-
 [Music]
-
 and of course and they how do you say
-
 stacks
-
 or not stacks
-
 and so if you get the one from first
-
 that's a bit you do get the one for a
-
 month so we said the same thing
-
 yeah that was hurt yeah and and
-
 according to Twitch oh hello welcome
-
 welcome
-
 according to Twitch uh you it's you
-
 really cheap that's not something
-
 now it doesn't matter when you spend the
-
 Beats as long as you have spent a total
-
 of The Quiet amount
-
 you'll get the emails
-
 [Music]
-
 technically you don't keep the email to
-
 get these slots and that's an important
-
 distinction
-
 could change I will not try to avoid
-
 shaking the notes
-
 and if I were wanting to do that I would
-
 try to contact those who have made that
-
 much to see what they think
-
 foreign
-
 [Music]
-
 I got access to the follower emails
-
 basically adding five more slots
-
 so there's actually quite a few words
-
 from there
-
 and if yes I don't know that's it
-
 [Music]
-
 but if I understood it correctly that
-
 means that
-
 you should have access to them so let's
-
 see
-
 and you can have fun with them
-
 [Music]
-
 happy
-
 I will use them every message oh
-
 oh my
-
 he's the one eye did the one I like to
-
 use in every Master just like this one
-
 it's just a facial expression it's just
-
 the
-
 I guess that pen the expression of it
-
 I just
-
 [Music]
-
 it wasn't what I wanted to go for I
-
 wanted to like have a neutral expression
-
 or something
-
 laughs
-
 [Music]
-
 a bit
-
 [Music]
-
 thanks
-
 yeah my rabbit what about it
-
 foreign
-
 [Music]
-
 [Music]
-
 at on the 27th
-
 at
-
 at
-
 15 o'clock UTC so just apply your time
-
 Stone difference there I also know the
-
 European time zones in my head
-
 which is 16 UK question
-
 70 Central 18 is 17th Far East
-
 but
-
 outside of Europe
-
 that um
-
 those I don't know
-
 I don't remember is like
-
 Eastern United States Canada is like
-
 minus fine
-
 during summer
-
 am I right
-
 what is it minus four
-
 but yeah
-
 on 27th I win on the 27th oh so and some
-
 spaghetti before
-
 that it's kind of kids actually
-
 [Music]
-
 so it's only 27th I will switch I think
-
 the singing one is uh subscription
-
 remote but I will switch it out for
-
 whatever I use for that thing
-
 for the karaoke itself
-
 yes because of course you need to see me
-
 more for example
-
 but then I would swap them back I don't
-
 know which one thanks because I can't
-
 remember which one of the following ones
-
 because twitch doesn't really say it
-
 when you are a subscriber and I am
-
 technically a subscriber according to
-
 Twitch
-
 so it's on to my own channel
-
 at tr3 subscribing
-
 scene
-
 because it would be kind of silly if you
-
 had to pay for subscribe to your own
-
 channel
-
 twitch is a bad community
-
 but almost
-
 yeah I don't think
-
 yeah I don't know this is good enough
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 all right
-
 [Music]
-
 [Music]
-
 this is good because I love the
-
 performance
-
 it's because there is every Falcon goes
-
 into a single point
-
 I don't know what's yeah I think this
-
 effect here
-
 10 minutes
-
 hopefully it's nothing that shows up to
-
 me
-
 more than anything means
-
 flip over to the green thing science
-
 [Music]
-
 [Music]
-
 thank you
-
 [Music]
-
 and the Sun
-
 [Music]
-
 again
-
 thank you
-
 okay
-
 perfect
-
 results
-
 Thursday and yet this tourism is it
-
 executive bad thing if the rabbit does a
-
 good thing
-
 would a rabbit consider it a compliment
-
 or a insult to say that the rabbit has a
-
 big thing
-
 at least
-
 along this side of nowhere staying here
-
 these edges should go
-
 follow me
-
 like that
-
 oh yeah
-
 when it seemed in and he looks big okay
-
 yeah yeah he gets that depends on how
-
 the favorite people okay
-
 [Music]
-
 smoking it can I live in the situation
-
 it's just fun fun and then turn into a
-
 rabbits and fun fun turning around which
-
 is very indifferent about the
-
 opportunity
-
 like I guess I'm a rabbit though
-
 um
-
 [Music]
-
 [Music]
-
 okay first off I'll scale it down to
-
 attempts the size
-
 foreign
-
 [Music]
-
 [Music]
-
 in another way
-
 but I don't need this one anyway
-
 now
-
 foreign
-
 [Music]
-
 [Music]
-
 laughs yeah I give another word I didn't
-
 steal it from her
-
 I used to scientific
-
 function of cooking
-
 biological copying let's see Laura made
-
 me take damage when I tried my
-
 notification oh wait are you already
-
 playing
-
 I thought you were going on Monday
-
 or did you like try it wait how did that
-
 Laura make you take damage that doesn't
-
 make sense in the world isn't
-
 [Music]
-
 what
-
 that was a favorite
-
 it
-
 I am confused
-
 I need a replay of that
-
 let's see one
-
 all right I'm doing this
-
 because you
-
 no I don't think you ever
-
 yesterday but she hit me so I had to try
-
 again today
-
 but what delivery doesn't hit you she's
-
 not an enemy she doesn't cause damage
-
 but who's talking
-
 to confusing me
-
 I guess I guess
-
 bomb characters does put spiral in like
-
 uh the same hurt animation as he does
-
 when he gets damaged but it does not
-
 cause damage
-
 and which obviously you don't take that
-
 much from such a thing you'll probably
-
 should not get this damage
-
 one of those examples is
-
 inspired to let you plants
-
 the seeds so like you're a flower
-
 if that's not the spoiling no that that
-
 [ __ ] right obvious and when you do
-
 that instead too close the way it will
-
 grow up so it is and grow happy plant is
-
 growing up and it will cause knockback
-
 on spiral like he has taking damage from
-
 an enemy but you actually don't don't
-
 lose else
-
 so it's fine
-
 yeah I really need to play on that
-
 industry did you stream that or was were
-
 you playing offline
-
 it was online offline in the key sign
-
 I don't think I've been able to
-
 see your stream if you did streaming
-
 [Music]
-
 because I am confused
-
 I'm trying to think of other situation
-
 like
-
 Ace on my page as I was only made it
-
 about okay
-
 okay
-
 you know what
-
 oh no
-
 I've learned her because she wants me to
-
 get the words entrance and oh
-
 so she didn't actually cost me to
-
 take them and she's possessed to you
-
 [Music]
-
 yeah I think I I don't know if I said
-
 that but but what I enjoy about
-
 by I probably have said that my one is
-
 my favorite game and that the aspect of
-
 that I mean I don't understand yeah but
-
 one of the aspects is just that you all
-
 all at levels six of people in the world
-
 are optional
-
 and you have nothing to do you need to
-
 do a certain amounts
-
 but none of the levels are
-
 required
-
 except for hormones of course
-
 there are going to be an easy science
-
 exceptions like that but starting from
-
 spider 2 all levels except the Speedways
-
 which they are called now are obligatory
-
 and I don't like that
-
 makes doesn't make the game lucky
-
 if you're going for 100 Brown it doesn't
-
 really matter but if you go for like a
-
 challenge run it's it ruins
-
 experience it
-
 ah
-
 time two
-
 seconds into this morning
-
 [Music]
-
 and for uh and therefore a no damage run
-
 Inspire one allows you to determine
-
 which levels you really want to do
-
 except not Street tops
-
 oh
-
 no no this one
-
 Box by one and it actually did three
-
 tops
-
 while I'm doing that everyone said that
-
 I I really don't want to do Tree Tops
-
 and then at the end well I do have to do
-
 one more level maybe I should do three
-
 tips just
-
 supposed
-
 yesterday that was
-
 when pumpkin leaves
-
 [Music]
-
 okay what happens if I liked
-
 that's my vertex Smooths
-
 [Music]
-
 yeah that's
-
 when I get I need to apply them in their
-
 face
-
 yeah that's not that bad idea
-
 but
-
 thank you
-
 I don't know even mixing those two let's
-
 make a difference
-
 this is different from doing
-
 one and two
-
 better
-
 Maybe
-
 thank you
-
 foreign
-
 [Music]
-
 because it should look nice
-
 and as I guess
-
 nothing that way
-
 except Saigon because someone decided to
-
 see she should not have Pleasanton
-
 foreign
-
 [Music]
-
 right now
-
 I mean
-
 on their body
-
 you have the outline there
-
 [Music]
-
 I guess I'll keep the tail as a separate
-
 model unless I can modify the position
-
 of it afterwards
-
 without
-
 [Music]
-
 yeah the references here
-
 I mean yeah
-
 and then the question is is
-
 she doesn't have a small number
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 you basically see this perspective so
-
 maybe that's good
-
 [Music]
-
 it's foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 thank you
-
 foreign
-
 [Music]
-
 [Music]
-
 thank you
-
 okay invite me ahead on that is the old
-
 thing
-
 is it like greens
-
 this is
-
 part of the food that I deleted
-
 and if it's another
-
 place
-
 foreign
-
 [Music]
-
 [Music]
-
 because I think
-
 because I think the shape of the head is
-
 gonna
-
 [Music]
-
 it's a bit more oval sideways than
-
 mountains so I could probably squish the
-
 hands again in a slightly to him a bit
-
 more of a component
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 oh
-
 [Music]
-
 my God
-
 [Music]
-
 [Music]
-
 now I added a theme
-
 so
-
 I guess no one hurts but this is a head
-
 shape
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 thank you
-
 [Music]
-
 so just about enough chairman this is
-
 [Music]
-
 and then
-
 [Music]
-
 same old as
-
 previous as
-
 that's off the hand off
-
 [Music]
-
 so I can apply a mirror to this
-
 [Music]
-
 [Music]
-
 [Music]
-
 actually I should probably not
-
 I spent falling in this part
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 I'll cook a skin
-
 let's see if this one that speaks what
-
 I'm looking for the best
-
 foreign
-
 it's certainly an idea
-
 [Music]
-
 [Music]
-
 so
-
 [Music]
-
 unless this is nice
-
 I don't know
-
 that's three pin printer sounds like an
-
 expensive thing
-
 I never heard that before I say princess
-
 would only print out like make the mold
-
 foreign
-
 thank you
-
 there's another step when looking at
-
 this it was me simile
-
 [Music]
-
 thank you
-
 isn't it
-
 foreign
-
 [Music]
-
 model nothing fancy
-
 but yeah I think it's about something
-
 [Music]
-
 enough
-
 [Music]
-
 so
-
 now
-
 you're a sleeping thing I like the one
-
 thing
-
 EQ
-
 to be one of those
-
 Japanese figurines when it puts
-
 another 18 in very important
-
 parts
-
 [Music]
-
 okay that was very weird way of saying
-
 it but basically
-
 those figures they even adds like to
-
 have
-
 a dress and then they also have
-
 underwear and stuff
-
 [Music]
-
 hey let's see coming out with the bunny
-
 around
-
 it's a cute black bunny with rainbow
-
 it's HD RGB gamer rabbit bunny
-
 no if these parts
-
 thank you
-
 I thought sauce for amplished at first
-
 well only as far as I know
-
 Umbreon is space on a rabbit partly
-
 [Music]
-
 foreign
-
 [Music]
-
 thank you
-
 so base wise I think I think we've been
-
 fine to have it like that but maybe
-
 maybe one has a flattering nose
-
 I haven't really considered how I'm
-
 probably looking 3D
-
 they bow on the head I can import from
-
 dancing just like I did put it Inspire
-
 replacement
-
 Okay so
-
 these are the teams and they and the
-
 creepy face let's let's hide the cheap
-
 face
-
 [Music]
-
 ah do you make your face in your lane
-
 that's true it's a
-
 it's Bianca's face actually
-
 and that's basically eat
-
 [Music]
-
 Beyond yeah that's me I guess
-
 yes
-
 I don't know how to say that names
-
 [Music]
-
 [Music]
-
 [Music]
-
 I'm gonna have a nice messages
-
 it was just a bit like my feelings
-
 [Music]
-
 [Music]
-
 this one seems that makes
-
 to look less
-
 I don't think that's stupid
-
 [Music]
-
 that's funny actually [ __ ] too
-
 [Music]
-
 twos
-
 people
-
 wish that might go up when she speaks
-
 hopefully
-
 [Music]
-
 foreign
-
 [Music]
-
 ties but
-
 [Music]
-
 really depends on how she sent me
-
 but fine because they might in their
-
 animations they might actually know my
-
 Clips to each other
-
 [Music]
-
 all that stuff I can tweak from thing
-
 too
-
 [Music]
-
 so anything get rid of the ears
-
 okay what is this
-
 I mean until like the part of my team
-
 but it is
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 closing this might be
-
 cheeky
-
 if I wanted to see if
-
 you prefer perhaps someone can extract a
-
 mother's room
-
 and press team Rumble that would be nice
-
 so maybe someone else I want to do that
-
 if a question remember this is running
-
 in Unreal Engine we don't need this is
-
 PC ports and I can do that
-
 cine could be used for the little stuff
-
 oh yeah
-
 yeah let's see what you mean got bit
-
 back to work
-
 all right
-
 [Music]
-
 foreign
-
 [Music]
-
 I think I don't think this will make
-
 even though my ears around me
-
 foreign
-
 [Music]
-
 [Music]
-
 windshield pain
-
 attacks I need some headphones in my
-
 life
-
 [Music]
-
 [Music]
-
 expect killing things
-
 [Music]
-
 like
-
 that that's followed by that stuff like
-
 that
-
 but
-
 thank you
-
 [Music]
-
 [Music]
-
 first and perfect
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 and there's a
-
 all right
-
 [Music]
-
 like people get tired in different ways
-
 [Music]
-
 yeah but I feel like when I it's not
-
 like I'm more than anything
-
 [Music]
-
 because I'm actually excited for this
-
 stuff
-
 foreign
-
 [Music]
-
 unexpected
-
 like that
-
 it seems there's a lot of stockings in
-
 my life
-
 [Music]
-
 I'm still here I just don't know what to
-
 talk about yeah I know
-
 you never see
-
 that's one of the dishes
-
 [Music]
-
 [Music]
-
 I said obviously but
-
 [Music]
-
 I guess my only chance here is 19.
-
 what no that takes me
-
 [Music]
-
 foreign
-
 foreign
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 13 person
-
 eight years of practice and and then
-
 it's like
-
 solution
-
 [Music]
-
 solving
-
 [Music]
-
 because you basically need to figure out
-
 what's to do to achieve something
-
 [Music]
-
 [Music]
-
 [Music]
-
 that's facing enough stuff mixed
-
 all right
-
 [Music]
-
 I guess so
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 this doesn't look good
-
 that means
-
 yes second attempt
-
 this could be the part that actually
-
 needs
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 oh it's probably good
-
 but I need this one
-
 not only do you think for you to make up
-
 the pumpkin
-
 that's why I probably took me a week
-
 but I am
-
 it's awesome
-
 your he always said you had he has a
-
 practice have you made other mods before
-
 well I mean well
-
 me before ignated
-
 [Music]
-
 okay in that case I mostly made random
-
 speaking of this
-
 I'm gonna try to do stiff stuff
-
 [Music]
-
 so nothing
-
 modern related
-
 but create dance studio model is
-
 same practice
-
 same process
-
 [Music]
-
 I've only done minor months every night
-
 was very big
-
 first game actually did
-
 [Music]
-
 large performance
-
 [Music]
-
 foreign
-
 [Music]
-
 basically
-
 and I did like
-
 [Music]
-
 existing modeling some games
-
 [Music]
-
 making games and then I
-
 [Music]
-
 modifications to those but it's to
-
 anything because I didn't know how to
-
 [Music]
-
 now
-
 [Music]
-
 highly score has like a circle this is
-
 triangles
-
 [Music]
-
 so this question actually made up of
-
 things
-
 [Music]
-
 Maybe
-
 yeah if you look carefully you can see
-
 that
-
 is actually teaching us
-
 but
-
 [Music]
-
 because polygons only works in dragons
-
 maybe they have a square like this it's
-
 still a triangle two dragons but
-
 during having
-
 the software itself see them as squash
-
 and we work with squares and that's just
-
 Institute
-
 however I'm really tired about
-
 responsible
-
 and I did notice that someone is
-
 actually
-
 playing
-
 Witcher 3.
-
 let's see
-
 minus a g
-
 uh he's still playing so that's
-
 this straight
-
 [Music]
-
 because he is she's just a Dutch
-
 with a landing accent a cat can
-
 isn't that nice
-
 he liked mixture right
-
 you can comment on the gameplay
-
 it would be fun
-
 [ __ ]
-
 and then I will
-
 oh I don't know I'm so tired I don't
-
 know why of course request
-
 and that's here on
-
 me which uh
-
 wait wait yes
-
 thank you all for being here
-
 and yeah
-
 [Music]
-
 karaoke streaming set Simmons
-
 they've got all these whatever time
-
 seeing
-
 in a lot of places around
-
 so many times
-
 so
-
 bye bye thank you for being here to
-
 schedule this on my twitch page anyways
-
 foreign
-
