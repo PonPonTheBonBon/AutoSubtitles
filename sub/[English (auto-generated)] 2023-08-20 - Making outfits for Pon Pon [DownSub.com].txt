@@ -1,9972 +1,4986 @@
 let's go let's
-
 welcome here another fun fun stream
-
 please
-
 [Music]
-
 but a lot of
-
 pump and abundant and
-
 hello Robin
-
 how are you today well
-
 still had trouble sleeping but I got
-
 more sleep I think
-
 so that's good I think
-
 let's um
-
 adjust the size of the window because it
-
 always resets because why not
-
 because
-
 look at this
-
 [Music]
-
 I still have I still need to find
-
 something I need to come up with
-
 something about the thing because I
-
 don't like your lips but it's like
-
 not terrible I guess but
-
 yeah prefer over yeah
-
 yeah I guess I guess that rugby would
-
 just be a reference to being repeat
-
 that doesn't like
-
 yeah I prefer over Bonbon even though
-
 Bonbon is still kinda
-
 more specific to me anyway because it's
-
 not funny
-
 that kiss
-
 it's a name accused
-
 I'm
-
 I'm just talking about random stuff here
-
 that kind of kind of my stream
-
 so that's it for today all right I'm
-
 making licking Pizza okay I don't even
-
 know how I would I would even do it
-
 anymore like an eating emails that you
-
 could put next to another image
-
 anyway so today I will add the pattern
-
 to this black suit like a couple hits
-
 it's honest a few things so it's not
-
 much much to do and then I was planning
-
 on actually testing this power up in the
-
 game I will not test out the powerapps
-
 because you actually have to go and
-
 unlock them yes so and this one I should
-
 already have access to in the game
-
 so that's why I'm going to test it
-
 but yeah not the other outfits and I
-
 will just assume they will be working
-
 I guess that's that's the uh
-
 he's going to be the trickiest part of
-
 this this mod that
-
 I I don't have my I have played through
-
 the game before but I don't have to say
-
 fun anymore
-
 well it's on the other computer and I
-
 could actually go and get it but
-
 but it's
-
 assume it will be working
-
 what's the worst that can happen
-
 and today I'm playing completely new
-
 music and stream I think I said yeah
-
 you can
-
 um
-
 [Music]
-
 [Music]
-
 thank you
-
 foreign
-
 suggested using
-
 different source for music
-
 I I really only want music that I can
-
 include on the votes afterwards which is
-
 the case for
-
 the two the two sources I'm using at the
-
 moment
-
 anyway I still have
-
 uh 1.4 meters of sausage life I've got
-
 plenty to eat
-
 yeah I ran out of Pancakes
-
 that's the worst that could happen
-
 there's a gonna be a nice voice I've
-
 seen before we even and
-
 hopefully there's not an end to you
-
 so
-
 you will leave it forever
-
 you will never please take this
-
 the whole wide
-
 uh yeah I wish I had two screens and you
-
 have two screens but if I plug in the
-
 other screen screen it just doesn't work
-
 properly
-
 so I wish I had two skins so here's the
-
 picture
-
 here's my
-
 baked texture from cocoa which is why it
-
 looks so weird
-
 [Music]
-
 that's what I only covered at the moment
-
 are these parts
-
 [Music]
-
 so let me quickly
-
 gather the UV mapping
-
 I don't have any system that
-
 automatically switches between three I'm
-
 using and as they realized I haven't
-
 named will be here
-
 uh Piggy
-
 there you go now I can see what I'm
-
 seeing all right and it's almost about
-
 there we go
-
 now I can see what do you see
-
 that one here they are
-
 so I would export this with export you
-
 layout
-
 or pop that doesn't show up on the
-
 stream which might be when you know
-
 privacy stuff and
-
 perfect stuff
-
 and then when is the switches that means
-
 it done
-
 it takes a bit for you to export again
-
 that's it
-
 I usually say say them before doing
-
 anything dangerous so it's just a matter
-
 of statistics
-
 I guess
-
 I'll text you so much to me I yeah I can
-
 understand that I mean this
-
 this is
-
 this is something
-
 so
-
 if you're not you're not the only one
-
 you find them where the key
-
 anyway
-
 because they are so dark yeah now they
-
 respond
-
 so here are the person I need to focus
-
 on
-
 so
-
 I guess I'll
-
 I don't know where I will start
-
 okay
-
 I'll use this
-
 copy this off that
-
 and only have this
-
 as a picture like that
-
 are now saying this as a shirt for the
-
 body
-
 on as a reference
-
 and then if I go to
-
 right click close on the stream and
-
 visit usme before I close it so I could
-
 and not close it
-
 that would have been awkward
-
 anyway
-
 so now I've been uh in Europe here and
-
 now I can look at this as my reference
-
 yeah there's any picture of the other
-
 part I consider if I shouldn't move this
-
 but now it makes sense that they are
-
 located in this position
-
 this position
-
 this position is where they are on Coco
-
 it's fine
-
 yeah but now I can look at this
-
 like that and as a reference then I'll
-
 switch to this and back to the texture
-
 but that won't show up on screen because
-
 I have to manually switch which used
-
 shown on stream
-
 because that's just how it worked
-
 [Music]
-
 it's not it's not oh yeah yeah
-
 it's not like I'm planning on it yeah I
-
 hope not looking electricity I see
-
 yeah
-
 good goodness watch where should I
-
 enable the other outfit you know the
-
 special one
-
 because it's a art streaming yes
-
 I have tested like
-
 having it and not having it I don't know
-
 special about you and
-
 everything else because I started on the
-
 way because the special outfit is
-
 underway if that's to
-
 to risque for
-
 a stream
-
 if I mean even pun pun in underwear is
-
 still more covered than some
-
 models on Twitch
-
 and people
-
 but yeah
-
 so for this I will basically just give
-
 it shapes I guess
-
 it's so lovely
-
 so this should be the front this is the
-
 chest
-
 whenever you get away with me nothing at
-
 all right I mean technically and foreign
-
 at the moment
-
 the the clothes are just lay it on top
-
 of Pom-Pom
-
 so I could technically
-
 just disable the clothes falling I won't
-
 do that because that's not
-
 nothing I am
-
 interested in this okay
-
 foreign
-
 ers
-
 [Music]
-
 I recognize that
-
 [Music]
-
 so there you go that's a DOT
-
 oh
-
 hello what's up funny welcome
-
 that's exactly the reference I was
-
 seeking stuff
-
 hi thank you well it's nice to see what
-
 that bunny
-
 oh
-
 switch back here well it's nice to see
-
 every one of you
-
 [Music]
-
 hello
-
 how are you I'm feeling much better now
-
 than what bunnies here
-
 oh I'm listening here
-
 [Music]
-
 okay but yeah I was very busy yesterday
-
 yeah you're very very busy making a lot
-
 of stuff
-
 Mr holdstream
-
 [Music]
-
 but it must be like
-
 making these sounds for 10 years
-
 we don't make this
-
 and maybe I should make this as shapes
-
 instead
-
 [Music]
-
 the benefits of the shapes
-
 is that I can change the shape
-
 afterwards oops like it was okay
-
 now I want
-
 oh my
-
 like
-
 I don't know I want to show something on
-
 the string but this cursor is definitely
-
 on top of this marking but haircut
-
 movies
-
 I can go quite far down this this is
-
 like more than halfway down like
-
 thing
-
 but here I have to move it a strange
-
 Mission scene
-
 I need to make it like that
-
 sometimes developers has changed ideas
-
 can I
-
 like that
-
 I like that
-
 when I was here for the first quarter of
-
 the stream yeah yeah all right so so
-
 long as I was doing for one that I was
-
 doing for seven hours actually
-
 six hours study still one hour and a
-
 half an hour
-
 one and a half hours
-
 Franklin
-
 we left early a bit maybe
-
 [Music]
-
 [Music]
-
 but then I had to go to the store and
-
 buy a bunch of pork in order to make
-
 sausages
-
 poor kid says that was hard to see
-
 porkages
-
 so if I make it like that
-
 same
-
 and now
-
 taking a look so I'm back to planning
-
 so this is the old one of the update
-
 this is nearer
-
 I mean it's a bit wobbly because of
-
 their own
-
 it's actually not being straight
-
 but sadly this now
-
 but for here
-
 there's no smooth there's a proportional
-
 editing but that's a different thing and
-
 the original smooth suction for some
-
 reason
-
 foreign
-
 spicy
-
 [Music]
-
 but only to a certain degree
-
 laughs
-
 my friend didn't died
-
 your eyes a bit better now
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 looking this one is a bit wide now
-
 that I can adjust
-
 easily
-
 what companies
-
 near
-
 [Music]
-
 like that's my dude
-
 [Music]
-
 so let's see
-
 [Music]
-
 that wrong
-
 I mean if you look at from a distance
-
 it's fine
-
 I can
-
 make it
-
 tomorrow there is one
-
 you have that next
-
 there
-
 is your first shut corn
-
 [Music]
-
 ER of our fleship I do like spices
-
 depends on what I'm eating
-
 for extreme spice because it's too beer
-
 but it's Chili Peppers if you want to
-
 add some more spice while eating
-
 retraining the flavor of the fruits
-
 right here
-
 I mean maybe you're right about that
-
 [Music]
-
 oops no just one step too much
-
 same this and see how it like some
-
 animal
-
 that's better I think
-
 I said this one is too much one
-
 [Music]
-
 so I can't see any slime I have to save
-
 the file I'm going to make sense
-
 take out as much shade
-
 this one has a bit of a wrong shape got
-
 too much about that I mean I can't try
-
 to
-
 [Music]
-
 foreign
-
 [Music]
-
 yeah and
-
 I normally use write it like that but
-
 I mean
-
 it can implies
-
 then the Meat part
-
 so
-
 [Music]
-
 anyway moving on to the next part which
-
 I guess I'll do
-
 the D standing
-
 might be too tricky at home
-
 that would make those stats and that
-
 part and that part okay yes it's wrapped
-
 around
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 like that
-
 foreign
-
 thank you for stopping by
-
 I do appreciate that
-
 yeah
-
 a nice
-
 it has been nice seeing you
-
 around
-
 I don't know I was sick
-
 I mean
-
 yeah it's been it's been fun and it made
-
 me feel better too so that's
-
 and this one goes on the other side
-
 like that
-
 changer and there's no add option
-
 so sometimes there's no add option
-
 I prefer not having a slave for
-
 everything
-
 hmm
-
 grab it
-
 rabbit rabbit
-
 repeat repeat
-
 foreign
-
 but it does not work
-
 because the fair rabbit does not amuse
-
 foreign
-
 thank you
-
 foreign
-
 [Music]
-
 okay and then there's trying to make the
-
 fair average react which is to Stubborn
-
 I kiss
-
 is the word
-
 yeah I guess stubborn would be
-
 it's it's almost like the fair rabbit is
-
 just a pharaoh rabbit
-
 all right
-
 and it's not entertained by
-
 an answer rabbit
-
 in English
-
 [Music]
-
 there we go there's some smart parts
-
 foreign
-
 see how it goes
-
 okay do you want to do it no
-
 do you want noodles no
-
 maybe maybe different rabbit once
-
 she reminds me active someone picked her
-
 up I had a rabbit when I was kid and
-
 they would kick and scratch it would be
-
 tread on them
-
 a rabbit
-
 but that we didn't
-
 mind being picked up I guess as long as
-
 game it's
-
 okay thank you but
-
 I wasn't always hiding
-
 it was a very shy bunny
-
 [Music]
-
 [Music]
-
 good
-
 and now I'm adjusting each dot so now
-
 they're a good thing
-
 foreign
-
 I think this start is not located in the
-
 middle but I guess it doesn't do that I
-
 can check
-
 no it's not located in the middle
-
 and then yes this is corrected
-
 now you just need to adjust the
-
 shape of it
-
 and upside down
-
 foreign
-
 I guess
-
 I guess it is
-
 [Music]
-
 but it's one thing missing
-
 and that is the line okay
-
 [Music]
-
 moment
-
 [Music]
-
 so I don't can share it on screen
-
 in just a moment
-
 again I copied it over and let's see how
-
 it looks now seeming
-
 for my tattoo
-
 with small adjustment but hopefully a
-
 lot here we go no it works perfect
-
 [Music]
-
 it is
-
 perfect
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 oh oh
-
 I shall ask you time
-
 let me first
-
 that's
-
 sing
-
 sorry to join Let It Go
-
 10 10 ways
-
 yeah this sack is way too white
-
 foreign
-
 [Music]
-
 [Music]
-
 well
-
 [Music]
-
 foreign
-
 do you think
-
 we call it HF for horizontal of me I see
-
 with via for vertical flip
-
 [Music]
-
 food okay
-
 and I'm just messing around a little bit
-
 so this one
-
 foreign
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 something's coming down series
-
 21 pixels
-
 excuse me
-
 that is very odds but
-
 saying some sugar to your everything
-
 heavy doesn't care
-
 after it's interior
-
 she may be reminded about them
-
 no problem
-
 that's an easy fix at least
-
 do it very quickly here
-
 and sometimes I just want to do a very
-
 quick edit the texture I don't want to
-
 switch back my voice back sometimes my
-
 quick ends are it's monkey a bit
-
 um
-
 Maybe
-
 snack anymore
-
 [Music]
-
 librarian hello hydration I can do that
-
 nothing
-
 [Music]
-
 I'm deleting my app only use
-
 [Music]
-
 there we go
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 thank you
-
 so let's attached that one let's see if
-
 I can
-
 attach this is probably another question
-
 I'm here
-
 [Music]
-
 thank you
-
 nowadays that I
-
 [Music]
-
 get very close
-
 this is exclusive
-
 so
-
 [Music]
-
 definitely
-
 looks uneven that's
-
 and that's just how it should be I guess
-
 we're going to take the constructed here
-
 oh
-
 oh
-
 didn't align that for me
-
 [Music]
-
 [Music]
-
 foreign
-
 wow cool you can turn into different
-
 colors
-
 I can't do that
-
 such an amazing Community but certainly
-
 will come in handy
-
 [Music]
-
 [Music]
-
 thank you I need to find the
-
 am I supposed to be impressed
-
 okay
-
 [Music]
-
 and then I don't expect it to be
-
 impressed I just want you to say
-
 thank you
-
 perfect
-
 and then this will barely show up in the
-
 game anime because it's a pumpkin
-
 thank you
-
 I mean then they start other spots there
-
 is a bit too stretch out
-
 and see if I can adjust that one
-
 there you go
-
 still a bit stretched out
-
 feet
-
 s
-
 okay that's better that's definitely
-
 very
-
 I think it explains
-
 he'll feature disagree
-
 and that's yeah I'm doing you
-
 send it to be stretched out
-
 perfect
-
 nice and spicy chips to eat you mean
-
 like in real life or
-
 as a joke
-
 some spicy computer chips
-
 near in real life
-
 maybe they had some
-
 chips with
-
 not too long again
-
 but just a small badge
-
 and it's too quickly
-
 typically me
-
 [Music]
-
 in this line might need to be a little
-
 bit
-
 in their way
-
 [Music]
-
 [Music]
-
 I did not alert me about the overcoming
-
 and it just
-
 it's a plane now
-
 [Music]
-
 good luck everyone
-
 okay let's see
-
 but this starts looks a bit too large
-
 so
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 thank you
-
 [Music]
-
 [Music]
-
 if you're only that should look evenly
-
 sized
-
 most people wouldn't even care about
-
 such details but but even if even if
-
 someone can't really point out what
-
 looks odds some of the certain age
-
 that makes sense okay let's see
-
 it's one of your strength is once you're
-
 in large
-
 thank you yes they did
-
 I'd say this is much better
-
 it is really nice
-
 okay I'll say those are good and I
-
 believe that
-
 so let's move over to the next thing I
-
 should end
-
 so update back to this and what I would
-
 do I also cook us things girls there and
-
 these guys here but I think it's fine
-
 I think it is fine okay so I would hide
-
 this and see what's going on behind and
-
 that'll be doing the game
-
 but they are actually probably decent
-
 just goes down here and then as far as I
-
 know these parts cut out some okay but
-
 I don't know what's going on here
-
 or what like where I got that shape from
-
 and what they've gotten from here
-
 underneath the arms
-
 what
-
 maybe a bit of glitchy Graphics but
-
 I said I don't know anyway I'm I was
-
 watching beans since now
-
 where are they they're up here okay but
-
 that shouldn't be a problem
-
 that should be no problem
-
 let's see if I can do it he looks
-
 exposed without the armor
-
 which I guess makes sense
-
 whenever you make this a new
-
 I'm gonna refer back to
-
 you you have a shape like this this
-
 should appear
-
 round-ish
-
 oh I think that participle is just super
-
 cool it doesn't exist on curriculum
-
 like
-
 the chicken cocoa
-
 find on him and that anyway
-
 yeah if we remove this part we just
-
 behold it so that's exactly I think it's
-
 reading from these
-
 and map this there because it try to
-
 find closest thing or something like
-
 that thing
-
 and just gets me in
-
 since it's trying to project the
-
 existing texture onto
-
 or two
-
 it'll be under the breastplate them
-
 exactly I'm not gonna think like that
-
 foreign
-
 [Music]
-
 I think that would be a good way of
-
 doing it
-
 since absolutely
-
 I'm just going to take take a quick look
-
 at
-
 yeah definitely girlfriend because it is
-
 located right now
-
 foreign
-
 but it's more like a face like that
-
 [Music]
-
 okay let's see here let's see how that
-
 thing looks it's an antenna antennae
-
 same
-
 and then more things I will do then is
-
 that it should be a slight shading here
-
 before it goes into the dots and then
-
 the whole scene should have a glow but
-
 that's that's later
-
 yeah that's definitely what it is
-
 that's always different when I'm done
-
 update
-
 oh
-
 no
-
 it does not look I mean Darkly scared
-
 this part is not good
-
 yeah maybe I should just
-
 follow the shape or accurately I'll
-
 treat that
-
 it's a strange shape but
-
 it's strangely saved for everything
-
 [Music]
-
 maybe I can have you have a better
-
 reference
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 thank you
-
 [Music]
-
 [Music]
-
 and then
-
 like that I guess
-
 so that's step one
-
 [Music]
-
 another
-
 and pumpkin should put on her dress for
-
 a long time again
-
 you like 10 minutes again
-
 oh fun fun you need to put on your dress
-
 sometimes you can't just
-
 go around without your dress on
-
 [Music]
-
 no dress is back oh no
-
 put on the race once again a secret
-
 even though he did see material reminder
-
 thanks and it's definitely not a secret
-
 I should have a camera and then when he
-
 redeemed outfits I'll change my real
-
 life out of it
-
 [Music]
-
 well I well known Secrets oh blush blush
-
 yeah I think otherwise should not be an
-
 option in that case
-
 the camera doesn't really show the full
-
 body anyway so
-
 foreign
-
 so now it has these weird shape
-
 it remained
-
 but the switch shape should make it look
-
 better on them all
-
 I think it's very weird shape
-
 hopefully it looks good enough
-
 this is the old shape and this is new
-
 shape it is
-
 greens
-
 someone better at the same time
-
 foreign
-
 could go through and like just step by
-
 step
-
 so in this case it goes too much in
-
 and move it out slightly as a first step
-
 to see
-
 how much it moves
-
 [Music]
-
 update
-
 yeah yeah yeah that's good
-
 so I'm a little bit more
-
 yeah that's
-
 that's what I want
-
 and then we have this part it feels kind
-
 of like
-
 it's nice in there and down too much
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 but I guess I could like show both teams
-
 at the same thing
-
 so that's very
-
 [Music]
-
 so
-
 [Music]
-
 uh
-
 safer do you like
-
 and let me test this
-
 some
-
 string anything on stream
-
 [Music]
-
 thanks
-
 for the first magic display yeah I don't
-
 like how it places the new
-
 at the top
-
 but oh well
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 thank you
-
 this cute girl be quick here a bit
-
 [Music]
-
 foreign
-
 [Music]
-
 now I can edit here
-
 and show the previews here
-
 at the same time
-
 I don't know if this is good or not
-
 so
-
 now it's this part
-
 which is we should be dispatch let's see
-
 if this didn't work
-
 [Music]
-
 which like
-
 there's a bit too much in here so I can
-
 move out slightly
-
 [Music]
-
 but here
-
 instead it goes too much out
-
 to start with that medication
-
 and hopefully it doesn't look as
-
 spiky
-
 date yeah now it's moving here now let's
-
 move back here
-
 you're gonna be fine
-
 so and then I need
-
 to adjust that perch
-
 [Music]
-
 I was like that might do it
-
 [Music]
-
 but it's like
-
 too much
-
 [Music]
-
 I think
-
 [Music]
-
 um
-
 I do think
-
 Maybe
-
 maybe both a reaction
-
 [Music]
-
 but that's nice
-
 no it's not splits 50 but
-
 but yeah
-
 it's it's
-
 more even I guess
-
 now
-
 in this part that is way too high
-
 to more even in the available space to
-
 the left
-
 and like logo blending but yeah
-
 one side is text you got the same
-
 [Music]
-
 oh that was a big too much I think
-
 [Music]
-
 I think this one might need one
-
 no it's not the same if you remember I
-
 think
-
 don't want that to show up
-
 [Music]
-
 now
-
 trying to explain it that way
-
 [Music]
-
 it's definitely uh
-
 [Music]
-
 lying across like Beats
-
 [Music]
-
 so
-
 as can be seen here it's smooth too far
-
 down
-
 you found it up
-
 under the compensate point
-
 some of this will be hidden behind
-
 [Music]
-
 there you go that's that's more like it
-
 [Music]
-
 once again I'm doing cute why not what
-
 will it be hopefully nothing
-
 that will make it awesome
-
 this has been a topic for a phds now
-
 hydrates yes I can also take a drink
-
 foreign
-
 [Music]
-
 [Music]
-
 up anyway but not everything so
-
 they want it to be good
-
 before coming up
-
 so this part
-
 we should be this part here
-
 isn't perfect delivery
-
 and a bit too much in him
-
 [Music]
-
 is back from Olympic range
-
 or maybe there was no drink
-
 [Music]
-
 they're here that's more lucky
-
 that's more like it
-
 and then just a slight adjustment here
-
 foreign
-
 okay
-
 never enough
-
 foreign
-
 [Music]
-
 there we go
-
 oh no
-
 it is not perfectly aligned
-
 oh that's a bit annoying
-
 [Music]
-
 let's switch back to normal enemy for
-
 now
-
 what's up
-
 foreign
-
 [Music]
-
 just make sure that these are aligned
-
 properly
-
 stay tuned Lots
-
 a lot of them do but not Amazon
-
 since summer vacation this week I'm
-
 taking a break from cooking while I'm
-
 still have stuff to cook it's just sort
-
 of labor intensive
-
 there I mean
-
 if I were to take a break from cooking I
-
 wouldn't have anything to eat
-
 I guess we live in different situations
-
 which is the whole topic too which I
-
 think of some weird like
-
 because first off there's this
-
 um
-
 hair type that cooking is for women only
-
 but that that really makes me wonder
-
 and there are some men who didn't have
-
 this attitude which is have an attitude
-
 really makes me think when this man
-
 go and live alone maybe they never do
-
 that maybe that's the tricky uh who's
-
 going to make food for them but again
-
 going to restaurants and fast food
-
 places every day
-
 I also read a YouTube comment from some
-
 one claimed to be a woman
-
 I would assume that please and she said
-
 that you're a woman her her mother
-
 told her that she should learn to
-
 cook to impress a man
-
 and then she said that she knows how to
-
 cook now
-
 but she has not
-
 gotten a founder even a boyfriend yet
-
 so that was a waste of time but like
-
 what no you can cook your own food
-
 like
-
 who is going to cook your food it's
-
 still a good thing to know even if it's
-
 not too impressed or not on a man
-
 we've had like you're going to cook for
-
 yourself right
-
 and I found the whole
-
 [Music]
-
 normally the stuff I make requires you
-
 to actually obtain the stove an entire
-
 time starting in Philippines at this
-
 studies this is a seat definition yeah
-
 yeah kind of kind of
-
 [Music]
-
 and yeah it's it's just a singer I think
-
 I noticed I'm keeping around there that
-
 people just seem to think
-
 cooking as some
-
 skill that
-
 most people don't know or something like
-
 that
-
 I don't know
-
 [Music]
-
 it's weird
-
 taking cooking like it is
-
 fixing a car or something
-
 good thing to know but that means like
-
 fixing cars a bit
-
 different because you don't have to do
-
 that every day most people don't believe
-
 [Music]
-
 so
-
 maybe I know at work say they do not
-
 know how to cook and are only surprised
-
 that I do know how to yeah is that like
-
 [Music]
-
 that's so strange to me who's who's
-
 again I mean maybe they have
-
 living
-
 with maybe they do
-
 assuming they are all men and living
-
 with women who cooks for them maybe I
-
 don't know maybe that's how they get
-
 around
-
 [Music]
-
 [Music]
-
 [Music]
-
 what do you know how to cook yeah I also
-
 know how to cook is the toilet
-
 [Music]
-
 and sleep in a bed
-
 [Music]
-
 foreign
-
 [Music]
-
 and brush my teeth
-
 and strengthening it more everyday stuff
-
 that
-
 there we go there's on both sides and it
-
 should be identical
-
 by then tickle
-
 there we go
-
 Focus
-
 do you know how to use a toilet I never
-
 learned how I mean to be fair it is
-
 probably people don't know how they just
-
 they just give it to their paste
-
 actually honestly there's probably a lot
-
 of things you do every day like like
-
 using the toilet and brushing your teeth
-
 and taking a shower and stuff and there
-
 are like
-
 proper efficient ways of doing certain
-
 steps in the in each of those that
-
 aren't really thoughts you use years to
-
 supposed to discourage yourself or
-
 something
-
 I mean who's going to teach you how to
-
 like properly
-
 I mean I guess I guess your parents
-
 teach you how to use the toilet but
-
 that's when you're very young and you
-
 might not
-
 remember all the details and stuff and
-
 then you try and then base basically
-
 self-discovery
-
 okay
-
 [Music]
-
 sounds about right
-
 that's
-
 it's the easiest method
-
 [Music]
-
 so am I doing one of those that one I'm
-
 not no sorry sorry
-
 and back right here so I made all of
-
 these
-
 which I don't it's a bit hard to see but
-
 yeah some ideas
-
 that was bought in blue here this one is
-
 covered by the armor and something's
-
 supposed to be there
-
 the the ones remaining are these now
-
 so I guess I'll start with these because
-
 these are
-
 on the arm
-
 annoyingly one of them is just right the
-
 edge in a clip
-
 instead but I could I could like move it
-
 up slightly so it doesn't do that
-
 move it up up
-
 [Music]
-
 it was and they said dates
-
 yeah
-
 the hand is supposed to be a bit
-
 purplish but the ingredients and have
-
 them
-
 go over to the next right it's very
-
 tricky
-
 having solid colors Crossing two
-
 different seams is much easier
-
 but having radius does make it look
-
 noisy
-
 so
-
 if that's uh the earrings it doesn't
-
 look as like
-
 solid and
-
 boring I just
-
 [Music]
-
 so yeah it's every song that plays today
-
 it's a completely new song I have not
-
 played on stream before
-
 in the next uh next week
-
 was afternoon Sunday I'll go I will add
-
 mix this song with all the previous
-
 songs we get
-
 old memorable songs and
-
 because I've played it so many times
-
 mix with
-
 lesser songs
-
 listen to these songs on your own
-
 foreign
-
 [Music]
-
 yesterday
-
 or or something like
-
 I want yochi but that's weird
-
 thank you
-
 [Music]
-
 oh and that's that
-
 [Music]
-
 kind of difference and now export this
-
 to the mesh
-
 and let's see how it is
-
 okay how about
-
 I put this moments split me
-
 suit from
-
 [Music]
-
 you can't split this off like this I
-
 call this one
-
 suits iconic bodysuit so it's some group
-
 with it
-
 and then I can try to cry that maybe
-
 showing another things and showing here
-
 anyway now I can be here without the
-
 ears getting in the way
-
 so well it doesn't look that bad but
-
 it's time for adjustments so let's go go
-
 over to
-
 foreign
-
 the first off
-
 these are the upper ones of this one
-
 is so off
-
 must be this one
-
 [Music]
-
 and then
-
 okay let's see
-
 how this looks
-
 come on there we go
-
 and
-
 I certain state
-
 I often indentative with The Apprentice
-
 yeah this computer really gets hot
-
 tomorrow
-
 it is working
-
 anyway and let's see that's it
-
 there we go
-
 thank you
-
 foreign
-
 [Music]
-
 [Music]
-
 is
-
 I think this one is the normalized I
-
 don't remember what if the other suits
-
 have this as well
-
 and if they do have I hope they were in
-
 similar locations but you know at least
-
 one of it does not fit
-
 thank you
-
 and you want to make it a bit smaller
-
 spread apart because the
-
 it's very short
-
 yes it looks a bit nine seconds
-
 [Music]
-
 but
-
 and let's see
-
 if this is what I'm looking for
-
 yes so much better number four
-
 I like this because
-
 the arms are mirrored so they would
-
 be the same on both sides now let's see
-
 if I can do it makes
-
 something it's clipping here
-
 but this one has to be
-
 made narrower anyway so
-
 [Music]
-
 hope it's gonna look really cool
-
 I'm happy since it is of course
-
 based on the original artifices
-
 from the games it's not an original
-
 outfit paint might be
-
 [Music]
-
 but
-
 I do appreciate that you still think
-
 that I am able to
-
 make it to look good
-
 [Music]
-
 foreign
-
 [Music]
-
 not much Nancy
-
 [Music]
-
 rotating this circle
-
 [Music]
-
 [Music]
-
 yeah anyway
-
 slowly getting there
-
 thank you
-
 yeah yeah
-
 I think that's good
-
 I think that's pretty good
-
 maybe I'll squeeze it a bit a bit more
-
 together
-
 yeah yeah
-
 that's good
-
 [Music]
-
 [Music]
-
 so
-
 with that done
-
 [Music]
-
 thank you
-
 let's switch back and single me again
-
 it's only the legs left and hopefully
-
 those are quick to make
-
 drop back to regular stuff
-
 preview previously
-
 and the legs are separate on this and
-
 normally the legs are the same but since
-
 the legs have different patterns on them
-
 I need to separate them
-
 now we'll be done for this outfit
-
 making this outfit a bit more special
-
 than me the other
-
 I'm still here
-
 well
-
 [Music]
-
 hello still here nice to see you
-
 [Music]
-
 so yeah so I'll just do this
-
 dot line dot line dot line dot nine
-
 nothing lines
-
 [Music]
-
 that's step one
-
 step one dots the lights
-
 I see
-
 nice to see you too
-
 [Music]
-
 nice to see you three
-
 [Music]
-
 step one network on dots and now this
-
 one is
-
 um let me just I'll check on the mesh
-
 my waist
-
 oh
-
 the other part is here
-
 well we'll see if I need it after
-
 squishing it together
-
 [Music]
-
 since this often needs to be changed
-
 there shouldn't be an apartment
-
 hopefully
-
 oh oh
-
 [Music]
-
 this is whatever comes in here just
-
 makes me
-
 oh what the
-
 eleven
-
 oh oh
-
 what if I can do your stream in this
-
 Stone your suit
-
 I'm going to start your name
-
 okay still wait still waiting on that
-
 routine
-
 we'll lose the air so the idea what to
-
 for me to expand the most outfit options
-
 but there is the other idea of of
-
 Affair you
-
 creating
-
 the outfits
-
 by choosing which
-
 tops and bottoms pumping everywhere
-
 of course yeah so you can't like
-
 research today a main stress it will
-
 just replace hers
-
 without my stress but then if you're
-
 wearing like this wash brown skirt you
-
 can replace the skirt with like
-
 shorts if you want
-
 when
-
 we'll read The View SUNY new model
-
 another model already wait when since
-
 when did Potter
-
 that was the
-
 2D model I mean
-
 3D model
-
 depending on like different situations
-
 sometimes next months
-
 exciting
-
 I will probably
-
 miss it because it's too nice
-
 but I
-
 if you just let me know
-
 when you start streaming you can only
-
 send me a message about that
-
 and I'll try to
-
 show up maybe
-
 but it depends on what it is
-
 yeah a few Lessons Learned oh oh I see
-
 it's a little bit over here
-
 Okay so
-
 I mean I guess that's kinda
-
 I mean reason for like a whole model
-
 design
-
 yes
-
 [Music]
-
 [Music]
-
 current model
-
 the current model is too cute he wants
-
 something
-
 more
-
 [Music]
-
 what what is the way to adorable
-
 because he wants to be a tough bunny
-
 but everyone thinks he's a sweet sweet
-
 thing soft bunny
-
 people think you're hot dog uh yeah
-
 um
-
 that's
-
 right yeah
-
 I mean
-
 I guess I guess what is a bit dark like
-
 I don't know
-
 [Music]
-
 even with the name water bunny because
-
 the name like what the bunny he's stuck
-
 yeah what what kind of bunny this is a
-
 dog
-
 obviously
-
 it's the nose yeah I think I think
-
 analysis
-
 I could see I need to look at what bunny
-
 again
-
 for that
-
 oh there we go please
-
 [Music]
-
 do we have your model on Twitch like
-
 about the pages though oh yeah we got
-
 one picture
-
 but not that it wasn't that bad page
-
 that was new to me
-
 and
-
 now you don't have your
-
 model on
-
 but you have a low quality and increase
-
 quantity
-
 there we go
-
 don't really distracted
-
 me I'm almost distracted by something
-
 okay
-
 um
-
 I want which
-
 there you go
-
 okay let's start taking
-
 and then I will
-
 save these guys
-
 what the bunny
-
 that's not how you spell water bunny
-
 I spelled it with an agent bunny with
-
 one in
-
 that's how we spending with the bunny
-
 right
-
 so
-
 I need to make sure
-
 interior no I said what about this thing
-
 oh this airplane
-
 I think you are what good thing is
-
 giving the wings oh absence do you see
-
 the water teasing knees
-
 is taking away
-
 I mean I guess
-
 yeah I guess I can't I guess I you could
-
 say that thing else is dog-like because
-
 that's not what a bunny nurse looks like
-
 but I mean if you look at ponpon that's
-
 not a funny nose anyway and there is
-
 some similarities I guess between
-
 I don't see it down when you know it's a
-
 rabbit
-
 I mean if you if you're coming to the
-
 stream no idea who what that bunny is
-
 and then you look at I think I think
-
 maybe maybe it's like the nose and ears
-
 together I'm trying to point the screen
-
 I can't do that because I don't hear now
-
 I had a point thing so again this you
-
 got the nose and the way the ears are
-
 kind of on the side of the head that's
-
 more
-
 more dog like
-
 I want rabbits more behind but like it
-
 would look at rabbits I surroundings I
-
 think so yeah
-
 I could I I guess those are still I
-
 still think it looks like a bunny you're
-
 a bunny it looks like a bunny people say
-
 stop behind me and
-
 not the kids it's the Earth but
-
 because those attitude qualities that
-
 could yeah it's not a private nose in it
-
 yes yeah yeah
-
 [Music]
-
 I think it rtb The Institute
-
 most people are
-
 I used to banished up and
-
 when I mean one point has them behind
-
 but no one has said that I think no I I
-
 don't think anyone has said that answer
-
 is a dog but in here
-
 the apparel on-pon made for spider
-
 and people have said it's a dog
-
 people also said that feral Pom-Pom
-
 inspired in looks weird for having four
-
 legs and that's a very weird statement
-
 nights
-
 with the what shape of the body but I
-
 guess I guess the face actually is more
-
 more closer closer to what water looks
-
 like than font one
-
 the ears looking almost like they're on
-
 the side of the head
-
 I didn't know I have the else to get in
-
 here
-
 but yeah I do think I do think having
-
 the ears down is good for a model on
-
 stream because otherwise the news will
-
 take up so much of the screen space
-
 [Music]
-
 so now I added all of these two
-
 oh yeah I need to bring out pretty much
-
 anything
-
 let's see what I'm looking at we'll see
-
 about them yeah I can see what I'm
-
 looking at this can't see what's shown
-
 on screen
-
 on
-
 so this just ends here but that's just
-
 because this just goes down to the hand
-
 and this part is covered up
-
 I'll say this for now and then I'll
-
 check out the excitement
-
 and then I'll move over to
-
 to
-
 blend it and look at how it looks then
-
 it's blending
-
 and this is the
-
 um what I
-
 baked from
-
 cocoa cocoa and this is what I know
-
 gender generated which I've drawn
-
 so it's um adjustment like this one
-
 really needs adjustment
-
 the smok the new time
-
 so let's go
-
 and first off let's see what the road
-
 I like you or it's just not seeing
-
 someone's thought I was just a kick
-
 you also gets some more
-
 and you keep it showing up
-
 I haven't had money need people to show
-
 up
-
 so I guess this that year I haven't
-
 gotten as many opportunities for people
-
 to think about donkey
-
 my name is I'm a bunny because it's bon
-
 bon that isn't
-
 people think of
-
 confectioners stuff action
-
 sweets
-
 the only reference to
-
 you
-
 it is combined
-
 that's what it's meant to me
-
 don't worry I'm not I never considered
-
 it to be a dog what a doggy
-
 [Music]
-
 thank you
-
 anyway
-
 [Music]
-
 [Music]
-
 yeah
-
 foreign
-
 water is uh so it's more like a
-
 not exactly scavada
-
 [Music]
-
 but that's the word
-
 again I can show not
-
 it's a Swedish Thing
-
 I hope this one is with the key
-
 anyway oh
-
 download it anyway
-
 and share with us on stream
-
 and
-
 [Music]
-
 why is the picture so big don't fit
-
 [Music]
-
 okay here we go
-
 here's the warning sign for us it is a
-
 rabbit
-
 and what is a very weird rabbit we have
-
 the legs and
-
 black feet
-
 and in years but like
-
 the face the head is very heavily shaped
-
 I'm not sure why
-
 yeah he's doing it yeah he's
-
 our wings so
-
 [Music]
-
 um
-
 but it's more like
-
 it's uh it's a rabbit with bird wings
-
 and a birthday
-
 [Music]
-
 as far as I know you don't have a bird
-
 team
-
 [Music]
-
 I was thinking about making him like
-
 jacking off one of these moments
-
 I think it's
-
 yeah I think
-
 you can't have a
-
 you can't you can have like fake horns
-
 fake antlers on your
-
 feet on your head
-
 [Music]
-
 [Music]
-
 although I guess Pokemon could have it
-
 too like
-
 yeah yeah and
-
 I I outfit for Pon Pond that is
-
 with wings and antlers
-
 maybe it's an outfit with one but that
-
 is based on
-
 Water Valley
-
 wetsuits and wings fake wings of course
-
 [Music]
-
 and I should make the wings so they
-
 actually look like fake treats really
-
 so what the
-
 would you be okay if I made
-
 an outfit for this month it looked like
-
 looking like what about me
-
 not looking like water bunny it will be
-
 it would of course still be
-
 but it will be
-
 The Outfits this suit and
-
 seat suit
-
 s sweet
-
 potato
-
 and so dirt and fake wings
-
 and is there anything else I guess the
-
 tops have hair on that they want the
-
 pumpkin has can be turned black
-
 yes
-
 I guess so piercings too
-
 do that for you
-
 when I need to look at the
-
 look at watermelon again so yeah there
-
 you go
-
 your suit
-
 the whole outfit
-
 then they're like fake Wings in black or
-
 of course you do have a quite Light
-
 Beige so I think it's like it's close
-
 enough to watch I think it'll work fine
-
 but then you have the black hair so if I
-
 just make this part black is that
-
 obviously the same star in the bed
-
 they are real wings no I mean
-
 poor
-
 wore an outfit option for the Pom-Pom
-
 mode
-
 Deputy Point
-
 Define the point was still me because
-
 the
-
 because pump one doesn't have wings so
-
 it's all so it must be fake wings and
-
 in this outfit option so and it should
-
 be clean it will be fun that is clear
-
 that it is fake Wings because it would
-
 be an outfit
-
 when she dies and of course the person
-
 ever said that they have yeah
-
 and then these dark spots and I guess
-
 but probably I said large eyes so I
-
 guess a little tricky to add anyway
-
 it is makeup it can be added
-
 really
-
 good point across that is based on the
-
 water if the outfit and everything
-
 wasn't obvious enough
-
 I think it will be fun but only if
-
 you're okay with it
-
 I didn't want to make an outfit based on
-
 Lolly deal as well
-
 I haven't asked for that yet
-
 I haven't taken my opportunity
-
 but I do want to show
-
 more like
-
 but all the other outfits would be like
-
 uh you know so so
-
 she knows for like
-
 what what is it will be grouped together
-
 [Music]
-
 all right
-
 I just want some movies
-
 there's up
-
 his team is out of me
-
 one more
-
 right
-
 there you go
-
 now that should get rid of
-
 this Gap that is visible here
-
 foreign
-
 [Music]
-
 I'm working on still working on that one
-
 month
-
 doing one of the power up textures like
-
 uh outfits at the moment during the last
-
 parts of it
-
 and when I'm done with this I'm I do
-
 want to test it in game
-
 so now it goes on the way
-
 so how is this start looking
-
 it might need to be a
-
 Tony
-
 [Music]
-
 and then do you see it on a mesh I need
-
 to save it
-
 saving
-
 yes
-
 and they loved it
-
 yeah now the Gap is gone but
-
 do you need that adjust it though
-
 so
-
 position myself
-
 there we go
-
 I'll be doing it panda
-
 I do like pandas
-
 and you have a
-
 Panda plushie of my own
-
 and the first thing I did
-
 I got the panda
-
 with a skirt on my pants
-
 I'm
-
 I'm seeing me
-
 um thank you thanks for asking how about
-
 you I'm I'm feeling better seeing all
-
 this
-
 dirty people
-
 showing up here
-
 but that's that's really nice
-
 foreign
-
 except you
-
 you are really good but you're such a
-
 good you're
-
 you're such a good good bunny here I
-
 have some headbands
-
 it didn't feel about me
-
 that one's pretty brownish
-
 it is pretty and round
-
 made us feel a bit small
-
 measured and large Chestnut
-
 and now let's see
-
 there we go now it looks very
-
 of course then there's this thing here
-
 looks a bit near The Cross
-
 with this line
-
 nothing I
-
 just
-
 saw which direction should go in
-
 towards
-
 everyone
-
 it is maybe two steps how much
-
 does dash machines
-
 I love heart
-
 I I wish I could see more if you stream
-
 smart now but
-
 why is a bit hard
-
 but such is life
-
 there are many streamers I like to see
-
 but they're streaming it
-
 times when I can't watch them
-
 there's a lot of steam I haven't seen in
-
 a way it's also because I'm quite quite
-
 busy busy with streaming myself as well
-
 it's a shame and you you didn't want to
-
 see them
-
 can I show up and like hey they're fun
-
 fun I haven't seen you in a while yeah
-
 it's kind of
-
 can I end something like that sometimes
-
 there you go I think I'm waiting for a
-
 step too much that's one step less
-
 [Music]
-
 [Music]
-
 there you go that's nice
-
 that's very nice
-
 okay I should try to adjust this movie
-
 [Music]
-
 so if I
-
 don't
-
 foreign
-
 [Music]
-
 this works though let's see
-
 oh no too much
-
 five steps wasn't way too much
-
 [Music]
-
 thank you
-
 maybe I should just removed in one step
-
 foreign
-
 [Music]
-
 [Music]
-
 was too much now
-
 when I'm only two steps
-
 and someone just one step now which is
-
 two steps into
-
 yeah it's not perfect but um
-
 I can't move it in like that
-
 oh my remediation no that's a that's a
-
 Stephanie Rarity Nation
-
 the fair pom-poms are coming you seek
-
 shelter
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 will come and
-
 cardinality
-
 yeah I don't think I could be better
-
 than that
-
 [Music]
-
 thank you
-
 as
-
 um
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 all right let's see
-
 this works
-
 [Music]
-
 why is it not
-
 [Music]
-
 okay
-
 what's the difference planning anything
-
 [Music]
-
 other than something
-
 right the difference was very small but
-
 I expect to see something on the
-
 [Music]
-
 yeah okay the difference is really
-
 amazing
-
 [Music]
-
 a pink line and a purple line
-
 my twist
-
 [Music]
-
 are you looking yeah yeah the left skin
-
 is where I'm out of my texture dry skin
-
 is where I look at the texture
-
 and I guess you could call once I think
-
 that's like that one
-
 is based on the shading
-
 ah
-
 yeah I'm trying to do your nose
-
 anointing
-
 so
-
 I would I would say that this thing when
-
 it's not perfect it's a bit more plain
-
 but
-
 do you need perfection
-
 verification
-
 because I'm still standing
-
 anything it
-
 party fun fun in rgbing
-
 oops infp
-
 V texture on
-
 shouldn't have done that
-
 was gone
-
 but it wants them more
-
 and let's see
-
 stretch twitch
-
 back pain
-
 yeah they like this much better
-
 it isn't perfect but it's very good
-
 [Music]
-
 it should take someone easy like it
-
 means
-
 yeah there's more business here makes it
-
 look nice so
-
 [Music]
-
 I assume this is one
-
 American
-
 where did they decide to do that but I
-
 wanted to signature
-
 [Music]
-
 I love it
-
 yeah it's coming
-
 [Music]
-
 but I ain't going to throw it all the
-
 way down anyway because
-
 and pumpkin
-
 honestly
-
 [Music]
-
 and
-
 working on links now I've been working
-
 on this
-
 the police work like the previous
-
 daughter I was I wasn't amazed this is
-
 the only legs yeah
-
 still working on the legs and that
-
 should be the last part
-
 [Music]
-
 maybe it's sideways like that to
-
 compensate
-
 [Music]
-
 I thought you were doing the Pharmacy
-
 Front oh yeah that was before that
-
 yep
-
 and then I'm gonna dab it to the Lakes
-
 there we go so much to eat
-
 since that looks a bit uneven
-
 very sexual mind
-
 [Music]
-
 but I can release it by one step and see
-
 how it looks
-
 that's that's the
-
 first
-
 and it you see how much it affects it
-
 that's good
-
 I'm gonna small man
-
 this Moon
-
 [Music]
-
 someone enlarge it in every direction
-
 but shouldn't this link be an exact copy
-
 of the other one so I shouldn't I be
-
 able to use
-
 the other one is looking the engine that
-
 basically the exact same
-
 [Music]
-
 just watching the selection
-
 [Music]
-
 [Music]
-
 [Music]
-
 so
-
 I'm gonna just move this a minute
-
 inverted or anything
-
 thank you
-
 foreign
-
 things and
-
 disable this and now
-
 time to see how it looks
-
 hopefully it's fine hopefully
-
 yeah I need some sugar
-
 give me some sugar
-
 there we go
-
 [Music]
-
 so and
-
 next part I guess I'll try this one
-
 which should be
-
 this one
-
 [Music]
-
 this one is modifying this one is way
-
 too white
-
 [Music]
-
 so I'll scan it down first which does
-
 cause the line to know no longer connect
-
 but
-
 that I can adjust afterwards
-
 [Music]
-
 it's a bit blocked by the chat thank you
-
 [Music]
-
 thank you
-
 [Music]
-
 [Music]
-
 it is still the
-
 account
-
 outside there shouldn't be any problem I
-
 hope
-
 uh because he's sleeping outside there
-
 man should be able to
-
 add the second one always meets up
-
 yeah yeah that looks fine
-
 it's really very
-
 if there's nothing else anyway
-
 I can just keeps stretching this
-
 that's more likely
-
 [Music]
-
 yeah another show
-
 [Music]
-
 [Music]
-
 like that
-
 eating chicken eating popcorn eating
-
 popcorn which you get on
-
 dish
-
 [Music]
-
 yep
-
 Asian has salt and popcorn but I haven't
-
 had parkour for a long time this burger
-
 looks very young over there
-
 why
-
 is
-
 burn away
-
 I think this Pokemon looks strange in
-
 here
-
 [Music]
-
 those things that don't aren't match up
-
 in
-
 in
-
 media and real life
-
 basically
-
 foreign
-
 foreign
-
 [Music]
-
 I don't think I put any sugar in it
-
 [Music]
-
 I want to have popcorn with
-
 I was going to say mushroom but salt
-
 but what's the difference in mushroom
-
 salted enemy
-
 foreign
-
 mushroom
-
 oh yeah that one off
-
 quite that beat
-
 the mushroom and salt maybe mushroom and
-
 salt will work together
-
 about those mushrooms again so it's not
-
 lots of
-
 so I guess
-
 so I could imagine mushroom and salt
-
 making
-
 it on on top
-
 a coin I wish
-
 I meant the sea salt but I accidentally
-
 see mushroom but what's the difference
-
 between salt and mushroom
-
 everything you can have salt done you
-
 can have mushrooms on
-
 trust me I'm a culinary expert
-
 [Music]
-
 thank you
-
 [Music]
-
 again it lights there
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 did you have to lift that up or
-
 did you know that
-
 I thought it doesn't tell me how well
-
 you need to pronunciation there
-
 [Music]
-
 I already knew that you are very clever
-
 [Music]
-
 I didn't know anymore
-
 you have to learn so much Swedish even
-
 though more than me
-
 which would be
-
 something
-
 mushroom fluid thumb that's
-
 the flying mushroom the the toadstone
-
 whatever it is called
-
 [Music]
-
 [Music]
-
 thank you
-
 [Music]
-
 what do you do it means
-
 in my mushroom
-
 to have questions about
-
 [Music]
-
 here means ramp intake
-
 thank you
-
 there was too much skewing
-
 you can't be skipping too much
-
 um okay
-
 um okay you're so fine laughs
-
 I see pink icy or is white uh companies
-
 white I see black yeah there's a lot of
-
 blackheads I see a bunny he has
-
 definitely
-
 not a dog I see a stream I know it is
-
 fun quality princess bonbon
-
 it is indeed this is fun fun streaming
-
 welcome Ike
-
 you are
-
 very oh
-
 okay
-
 he gives the dressing in
-
 Mickey comes in Odin and steals
-
 complementaries
-
 [Music]
-
 and it fits the reference better okay I
-
 mean the dress was pretty
-
 and there is back and you like that
-
 right
-
 I mean I could keep down the way I was
-
 17 if you want to
-
 I wanted to test it and see what if I'm
-
 seeing what happened
-
 like I got more rates by not having the
-
 underground
-
 I don't know
-
 I could be wrong
-
 what are you doing in my swamp
-
 ah you want it swamped not swamp
-
 and that's what you want to say Savannah
-
 reminds me of swamp but I decided to
-
 translate stretch lines in Swedish books
-
 I didn't change
-
 from the Swedish word or swamp of course
-
 I don't know it
-
 I would assume it is maybe I should
-
 watch straight in Swedish
-
 I think that's a good way to like learn
-
 the language to watch like
-
 language
-
 foreign
-
 films with large
-
 you're familiar with and so
-
 yeah anyway I think
-
 I'm happy with this one
-
 because obviously you're uh you're very
-
 familiar with Shrek you're a short
-
 expert
-
 laughs
-
 I am just swamping around I'm actually
-
 getting interested in watching Shrek
-
 again I did watch through the whole
-
 quadrullity that's the totally the term
-
 is it forfeit
-
 and
-
 yeah I guess it's entertaining
-
 thank you
-
 enter entertaining
-
 okay now to move on to this part
-
 which should be uh
-
 [Music]
-
 this part which looks very odd at the
-
 moment
-
 but that's what I'm going to adjust
-
 to make it less hot
-
 I don't know the lyrics to make a man of
-
 the year from Mulan are a bit different
-
 between English and polish
-
 I mean yeah
-
 and welcome to songs they tend to be
-
 quite different because if you're going
-
 to keep the syllable count as well as
-
 rhyming you have to be quite creative
-
 while in regular speech there's no
-
 rhyming to keep track of yeah but you
-
 should prefer this try to keep up like
-
 buildable count
-
 and set and then also they try to like
-
 match up Mouse movements and stuff but
-
 they're still there
-
 we don't always
-
 with our creative or lazy they are
-
 so yeah so I didn't mean like oh you
-
 should
-
 be you should watch it because you know
-
 all the lines therefore know what
-
 they're saying
-
 because yeah
-
 translations might not actually reflect
-
 what they're saying in
-
 like
-
 I think it's because I mean that's what
-
 you're saying in the translation but I
-
 went like
-
 that's media you can watch and then you
-
 can go through next
-
 sentence by sentence
-
 yes here here
-
 your goal is to learn the language not
-
 watch the film or kiss
-
 your foxy
-
 welcome
-
 welcome
-
 [Music]
-
 you it's very nice to see you here
-
 did you know if you do
-
 if you do the redeem that highlights
-
 your message you were mentioned would
-
 have probably highlighted in green
-
 it is a feature that's better than uses
-
 so I guess this is good
-
 this is Ninja
-
 just this weirdness here
-
 hey how are you this Sunday oh it's
-
 Sunday
-
 I am doing fine
-
 being a lot of great people
-
 sharing up the Stream
-
 making me happy
-
 that people can
-
 foreign
-
 [Music]
-
 [Music]
-
 but it is great seeing people show up
-
 even if it's just a few something like
-
 this
-
 [Music]
-
 oh yeah yeah this is getting bad
-
 [Music]
-
 still working on this mod
-
 [Music]
-
 making
-
 um
-
 freaky
-
 yeah maybe I shouldn't move it all the
-
 way like this
-
 oh
-
 attach a refreshold chat for that
-
 message apparently
-
 polish
-
 very very cool
-
 [Music]
-
 but that's too much for me to read
-
 I thought that about maybe it's too much
-
 points for me to it
-
 [Music]
-
 hey good good I'm editing and uploading
-
 the co-op stream of Donkey Kong Country
-
 I did with cheese earlier this week oh
-
 [Music]
-
 nice I need a
-
 uh
-
 a co-op
-
 and I wanted to
-
 like edit
-
 so it's yeah I upload the
-
 my words to YouTube but I just cut down
-
 the intro counter that's all that I
-
 posted that's it but do you do any
-
 do you do like a highlight dream
-
 highlight video of the
-
 one or possibly multiple streams I think
-
 I've seen some people do that I wouldn't
-
 mind having that
-
 I just can't participating in myself
-
 that seems like a lot of work
-
 I mean I guess I should like try
-
 one of the students only
-
 translations
-
 even if I were to read this message I
-
 didn't even know what the original names
-
 are so
-
 it's only time to get to work to defeat
-
 the enemy and see a bunch of old ladies
-
 that remain around here no one would
-
 fear
-
 uh ads
-
 normal via social groups to listen to
-
 the sound of this one are like men
-
 out of you myself
-
 should I have a separate ad for manages
-
 for artificial
-
 oh you did
-
 [Music]
-
 I mean you did
-
 foxy came in
-
 I thought it was fun not help and our
-
 hands like in
-
 hands hu and
-
 maybe because
-
 the hands were like
-
 I guess they're defeating the hands
-
 let's go
-
 I'm not guarantee
-
 I did not see yesterday
-
 what I do I think it would be like an
-
 advertisement for both kids and myself
-
 more or less more fish kind of yeah that
-
 that's kinda where so every video I post
-
 on YouTube
-
 which
-
 isn't it hey I just uploaded so I
-
 downloaded the stream from twitch I use
-
 ffmpeg
-
 which is a tool that can losslessly
-
 compare remove the intro
-
 and then I upload the file as is to
-
 YouTube which then will compress more
-
 but that's on YouTube
-
 and then
-
 that's it
-
 exactly
-
 I need to make this yeah
-
 [Music]
-
 thank you
-
 and that's
-
 memory he did say hun but I don't recall
-
 the Han empire ever been in China no but
-
 they were invading China
-
 [Music]
-
 is Eclipse champ is a Microsoft twin I
-
 think yeah I think like yeah there's
-
 many tools for that but it is and the
-
 reason why I have chosen to use ffmpeg
-
 is a bus that we only
-
 um
-
 [Music]
-
 it is in correct direction now we do not
-
 and and that is because when you use
-
 most video editing software that would
-
 re-encode the video
-
 and that's a loss of quality
-
 obviously would it be much of a lot of
-
 quality by exporting high quality and
-
 but
-
 and then YouTube is going to compress
-
 its furniture
-
 probably not going to be noticeable but
-
 there is a second benefit
-
 by just removing the intro of the video
-
 it's it's a much faster process
-
 [Music]
-
 so much faster because it doesn't have
-
 to encode this encoding if I mean this
-
 version
-
 so it does not it's very very fast
-
 message
-
 [Music]
-
 but
-
 I guess it's also
-
 quite a nerdy message
-
 of course it does not allow me to do any
-
 form of editing though
-
 [Music]
-
 so no end screens nothing like that it's
-
 Justified
-
 the pure function itself
-
 but I don't bother doing any form of
-
 editing anyways
-
 if I were to edit my clips and upload
-
 them as like a a full gameplay but cut
-
 down I will then upload it on my regular
-
 channel that's it
-
 because that's why I upload the edited
-
 videos
-
 [Music]
-
 and I already did that let's play
-
 offspire which was before I
-
 started streaming
-
 and I was so bad
-
 not that the game but it's at the
-
 individual and speaking and everything
-
 oh licking you have Fox oh I'm getting
-
 leaked
-
 yes you're getting double it
-
 [Music]
-
 Force the health the no
-
 that's not help
-
 the variable but the deferral bunny is
-
 indifference to the whole situation
-
 she's looks on the like
-
 you guys are weird
-
 I know it was
-
 it's a tongue touching
-
 foreign
-
 anyone want to touch tongues with me I
-
 mean
-
 no that would be weird
-
 then clicking front punching get someone
-
 embarrassed
-
 a fun fun is it if one Pawn is trying to
-
 leak away the blushing put the blush on
-
 top
-
 okay so I need to
-
 see if I can adjust the slide
-
 development is that part
-
 I also want to especially we know the
-
 most hair seriously
-
 shopping between us
-
 [Music]
-
 anyway
-
 time touching between two is that fun
-
 fun looking it has
-
 one point looking in the mirror
-
 a nation went back to Spirit of two
-
 steps
-
 but there you go that's the mirror
-
 oh they're both leaking uh
-
 line
-
 no point when you're doing it wrong
-
 you're not supposed to lick the line
-
 [Music]
-
 in the mirror yeah all right
-
 I mean that was the first thing you said
-
 yeah I got I got I just wanted to
-
 foreign
-
 [Music]
-
 [Music]
-
 this one needs to be a bit windy
-
 if I'm married
-
 one step
-
 and I guess what they're trying to show
-
 is off of this game there we go
-
 this part
-
 okay let's
-
 go
-
 okay that's too much way too much
-
 she ate Candy that's supposed to change
-
 the color of your tongue and she's
-
 sticking if it worked
-
 yeah
-
 what candy she eat something blue
-
 yellow
-
 yeah I believe in yellow candy
-
 is there any candy in here
-
 all right no no
-
 but
-
 as long as you should consider
-
 uploading her
-
 little tweet as an emote
-
 if there's stuff
-
 you might not have enough image Flats
-
 available
-
 is orange
-
 thank you
-
 okay let's see if this works
-
 and growing up Jojo
-
 yeah that's bad
-
 it's a perfect place babe
-
 we can't seek Perfection as I go and
-
 edit more
-
 I think that was even very
-
 should we start beat Tony
-
 this can enlarge them
-
 let's let's make it so a bit smaller
-
 is that all of them I think
-
 primary flies I've been working on this
-
 for a long time yeah I think that's one
-
 of them
-
 well
-
 it is done
-
 let's compare to coconut
-
 yeah
-
 don't you put one of them
-
 so
-
 [Music]
-
 okay of course then there is this placed
-
 on top of that so someone does that yes
-
 ends nowhere they ends
-
 yeah like this
-
 yay
-
 [Music]
-
 not [ __ ]
-
 yeah
-
 [Music]
-
 yeah because it's not done yet
-
 done yet because there's one more thing
-
 which can be seen
-
 on something it's not all of these I
-
 think it's clearest here there's shadow
-
 [Music]
-
 very very light shadow
-
 so I will add that
-
 oh I like this song I don't know what
-
 song it is so
-
 [Music]
-
 but I'm glad you like it because it's
-
 one of the new songs that I'm talking
-
 about
-
 [Music]
-
 [Music]
-
 [Music]
-
 that's that song
-
 hope you enjoyed it
-
 yeah the shadow should be Softly
-
 [Music]
-
 thank you
-
 [Music]
-
 yes just like this stuff there wanna
-
 compare care which is bigger and more
-
 tastier
-
 and do you like carrots
-
 I actually don't have a chance
-
 but I guess I could go to the store and
-
 buy a really big carrot
-
 [Music]
-
 okay the next thing here is that somehow
-
 it feels like there's a globe at the
-
 same time
-
 yeah there's some kind of down here
-
 okay let's see if I can do it again
-
 to take these
-
 put them in a group
-
 under this shadow that might actually
-
 effectively
-
 thick carrots you got a lot of chance
-
 but did you get all this from
-
 is that why I don't have any carrots and
-
 you hate chip them
-
 Thief
-
 yeah I just like a blue glow to it
-
 [Music]
-
 but not this strong but until the glow
-
 strong first just to see if it appears
-
 correctly on the mesh
-
 and if so
-
 I'll set it to its intended value
-
 update there we go
-
 yeah look at this
-
 yeah it's like here anyway
-
 why doesn't that one have a big Bell
-
 oh
-
 you can see we can do something about
-
 that
-
 foreign
-
 [Music]
-
 [Music]
-
 connection there
-
 and now update
-
 yeah it's perfect
-
 but
-
 yeah that's good stuff joining that
-
 recipe tricky
-
 thank you
-
 okay basically
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 so let's see how
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 so let's see how it looks now
-
 and sorry for you know my comments again
-
 sometimes I get
-
 kindly missed it
-
 I bought them I mean actually I got them
-
 for free from the yard the eager carrots
-
 are you going cats for me
-
 I'm Gonna Catch before and they were
-
 yellow
-
 Stone
-
 [Music]
-
 carrots
-
 it means the yellow wheat
-
 because it's yellow and is there
-
 a root fruit
-
 yep
-
 thank you
-
 foreign
-
 for each
-
 if I just do that
-
 now it's just just a hint of it though
-
 that's it didn't work
-
 but now
-
 I need to add this stuff to
-
 all of the other things
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 stuff it's
-
 quite slow
-
 okay
-
 so here's the original thing on Cocoa
-
 here
-
 so on the emission there's nothing on
-
 the all Dimension is nothing
-
 but here you go this one
-
 is the
-
 SE yeah
-
 [Music]
-
 like in the united dose but this one is
-
 the one
-
 and also
-
 came back like this and move it
-
 as far as you can have there's no glue
-
 showing that
-
 I should also have it
-
 this one has such share there
-
 and I was gonna give it get bit weird
-
 like that there but let me see what I
-
 can do
-
 let's go
-
 [Music]
-
 [Music]
-
 I can't remember the clown like I said
-
 in that hot tea
-
 don't do it
-
 production properly so that we mix this
-
 now
-
 next part is
-
 and this one doesn't have the shadow
-
 that's nice
-
 so which color is it then
-
 60.
-
 [Music]
-
 60
-
 foreign
-
 [Music]
-
 and then the metallic the suit has to be
-
 certain metallic effect but these does
-
 not
-
 so these should appear on the lip like
-
 like that
-
 [Music]
-
 I tell this one I can preview in blender
-
 I don't know how to set up the FW and FC
-
 at night
-
 [Music]
-
 so I'm saying metallic
-
 then we move on to
-
 this one is interesting because
-
 these are indented
-
 something I can't do
-
 [Music]
-
 but let's look at roughness first
-
 126.
-
 [Music]
-
 so copy all these roughness
-
 [Music]
-
 there you go
-
 and roughness is another one I can
-
 Premiere in blender so I'll save that
-
 [Music]
-
 so the only one left is the normal map
-
 [Music]
-
 thank you
-
 so
-
 [Music]
-
 the way I will do this is by
-
 meshing the values
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 thank you
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 that
-
 so the other one will be adding
-
 there we go that's that's one
-
 [Music]
-
 I see a dirty image what
-
 it's very hard to see at the moment but
-
 foreign
-
 like that
-
 thank you
-
 but this one she needs to be green
-
 so now it's starting to look like this
-
 thing here
-
 I also need to figure out how much it
-
 suits
-
 foreign
-
 Ty
-
 create more groups
-
 okay
-
 [Music]
-
 and these rooms should be changed
-
 further
-
 but I said this would be a big forgive
-
 the video wasn't so slow
-
 uh
-
 [Music]
-
 of course I do think I need to make it
-
 to
-
 [Music]
-
 [Music]
-
 all right
-
 the image I want one too wait what what
-
 do you want for 30 minutes
-
 foreign
-
 [Music]
-
 I guess I need something that
-
 cools it down and it needs additional
-
 Cooling
-
 because it does perform better before it
-
 gets so hot
-
 this is a captain right there is a line
-
 um
-
 I'm trying to work out the
-
 another American point
-
 which is a
-
 the process
-
 [Music]
-
 but um
-
 [Music]
-
 musician is separate
-
 makes this
-
 here we go
-
 [Music]
-
 because this looks like what they do
-
 or cocoa
-
 let's take a look
-
 [Music]
-
 does this look like this I guess this
-
 one is much stronger
-
 [Music]
-
 um
-
 thank you
-
 I guess I can set it back
-
 that should reflect it
-
 on that no
-
 [Music]
-
 [Music]
-
 come on yeah
-
 [Music]
-
 oh yeah
-
 that that's the right thing
-
 to me
-
 I feel like I've said something else do
-
 you know I've seen again
-
 um
-
 I'd like your banana please can't give
-
 me a banana
-
 let's talk with this computer
-
 [Music]
-
 [Music]
-
 because that's not what I can expect it
-
 to look like
-
 then he said okay that's it's fine
-
 that's me
-
 the ISD that I'm gonna support today
-
 and let's try that
-
 [Music]
-
 yeah it's not going to any quite effect
-
 this is
-
 this is a bit tricky and I thought
-
 you guys ignore this
-
 I'll do the
-
 the old way
-
 the old classic way
-
 the reliable way
-
 [Music]
-
 the oldest reliable way
-
 this is white
-
 and the lines are my car
-
 okay
-
 and then I just send this in to that
-
 website that's generated normal for me I
-
 should have done it from the start I
-
 shouldn't have tried
-
 I shouldn't even about it
-
 foreign
-
 [Music]
-
 default settings
-
 copy
-
 and paste
-
 yeah this is what I'm looking for we
-
 should paint a little bits
-
 attack
-
 exactly the same
-
 but you can have close enough
-
 [Music]
-
 yeah I got a lot of
-
 other stuff included
-
 yeah let me
-
 [Music]
-
 is it okay she never spotted bully me
-
 again
-
 let me try again
-
 [Music]
-
 [Music]
-
 now yeah this is more like it
-
 [Music]
-
 now I can just add this
-
 like they are over there but yeah
-
 this is not a map
-
 all right
-
 there we go
-
 now
-
 export this
-
 and now I can rest and see how it works
-
 [Music]
-
 photography existence
-
 yes that is Let's Be distract my death
-
 and bodies don't eat bananas one is to
-
 eat bananas but it's not the biggest
-
 source Coffee Company
-
 can
-
 rabbits eat banana
-
 should not be getting more than it says
-
 two tablespoons but that doesn't really
-
 tell me how much it is could you please
-
 like these real units of banana okay
-
 five pounds is the body weights what did
-
 I say about using real units
-
 33 times a week
-
 as a generational narrative and regular
-
 piece of banana with larger the size of
-
 your thumb with my sump
-
 has different size depending on who I am
-
 but
-
 rabbitcairtips.com
-
 units in that website
-
 anyway
-
 my company is an answer that would say
-
 it's okay
-
 yeah if they
-
 um
-
 make them very hard at the elite
-
 okay after
-
 now it's a bit not botanic after eating
-
 roughness
-
 they go now that's shiny
-
 and then after this might see an effect
-
 now
-
 there you go
-
 okay something easy to tell see but
-
 whoa
-
 it's shiny I guess that's that
-
 it's gonna ask this
-
 what are you saying I should peel the
-
 banana and not give give up a banana
-
 with tea return rabbit okay yeah
-
 yeah it's probably best to not give
-
 banana I don't want to grab it then used
-
 to be on the safe side
-
 [Music]
-
 [Music]
-
 any joke for anyone here listening or
-
 eating Swedish day is because unripe
-
 Mugen is ripe uh
-
 a bit unripe is this like ripened unripe
-
 is the same term in Swedish as mature
-
 and immature
-
 [Music]
-
 because if you give it an immature
-
 banana the rabbit will be immature here
-
 we go
-
 [Music]
-
 now I explain the joke so now we can all
-
 laugh at it
-
 laugh at my jokes
-
 so
-
 thank you for the
-
 love heart is that for my explanation of
-
 the jokes
-
 I wasn't here for this year well let's
-
 see our problem
-
 sounds like a year problem
-
 anyway
-
 nah
-
 but I'll explain jokes no you get it
-
 anyway
-
 it looks weird without the there's a gap
-
 that would have to go and stick out with
-
 a character
-
 I guess you're cute but
-
 the whole thing should still have
-
 it's soft this part actually like these
-
 parts
-
 and this part might not actually be
-
 properly
-
 assigned follow the body propane
-
 so let me
-
 [Music]
-
 that's the next step now
-
 switch to solids
-
 check the white paint
-
 and then let's see
-
 okay so these are made to
-
 stop and I also these things as hard
-
 things
-
 yeah 22
-
 how little like if you want something to
-
 look solid on an animation you make sure
-
 that the weight means is the same across
-
 the whole thing
-
 and better
-
 than this needs that means that I should
-
 copy the
-
 prevent data transfer them used it
-
 and because I realized butter species
-
 anyway let's see your daughter transfer
-
 and I can use this one to pick
-
 vertex vertex groups
-
 changed facing interpolated against
-
 and generally
-
 and I'm sorry
-
 so now
-
 this should basically the same but it
-
 should be more accurative well because
-
 in the parts are removed let's see
-
 uh
-
 wait clean remove on
-
 on yeast
-
 as many there's a lot of these groups
-
 which one is those are decimal I could
-
 probably remove them as one
-
 and then we normalize all
-
 don't look active
-
 yeah here we go
-
 is this is this outfit done should I
-
 create a new connection for this outfit
-
 yeah let's create a collection which no
-
 no
-
 let's create a collection in the Pom-Pom
-
 connection which I call
-
 outfits and in this one I will call this
-
 one a quality what's supposed to be
-
 calling game let me check that is it
-
 because we called
-
 cocoa face ships but every outfit is
-
 called Corpus I just can't complacency
-
 so what I mean
-
 okay shift
-
 and then I'll just
-
 this other crown
-
 that he has backup kind of
-
 drop the everything here
-
 I like it
-
 I like it anyway
-
 um
-
 that was a reference to where
-
 foreign
-
 [Music]
-
 [Music]
-
 amateur amateur this one is insected
-
 correct amateur
-
 this one is
-
 [Music]
-
 good perfect
-
 here we go
-
 select all of these including Armature
-
 export
-
 as fbx and now I will export this as one
-
 base shift
-
 then select targets
-
 export
-
 and it's exporting
-
 [Music]
-
 [Music]
-
 then it's done
-
 so
-
 I don't think I need blender anymore
-
 or photoshop
-
 because it's going to take a lot of
-
 performance and it is running in the
-
 background
-
 so
-
 probably close blender now since I
-
 should be done with it
-
 however I do still need to export these
-
 textures
-
 well done with that
-
 because I'm going to open Android and
-
 to take a bunch of performance
-
 but it is closed plan I can start a
-
 editor for now so it can launch in the
-
 background
-
 while I export these it extra textures
-
 commission one emission two
-
 [Music]
-
 you are here
-
 and I'm happy you're here and I'm going
-
 to uh I'm exporting textures I've
-
 exported the mod mesh I'm going to put
-
 this stuff in Android editor now
-
 it is currently launching in the
-
 background
-
 this computer is not the fastest
-
 so
-
 especially not when I'm running like
-
 blender let's say
-
 [Music]
-
 I think you're exporting is already
-
 I don't even remember if there is a t
-
 texture for
-
 export exported exporting t as well I
-
 don't know which is a tea texture or
-
 face but I guess I'll see
-
 [Music]
-
 foreign
-
 foreign
-
 [Music]
-
 can I show it
-
 up
-
 not that one
-
 apparently selecting the invalid on
-
 selects are the first battle foreign
-
 there was no privacy she's just
-
 standing and launching it up
-
 but yeah the computer's gotten quite
-
 I probably need some some
-
 cooling uh plate thing that I can place
-
 so I can put the computer on
-
 and basically like uh
-
 fridge
-
 which is taking the Heat and moving it
-
 that way
-
 I think you call it a heat sink
-
 because it's like a cinch for heat
-
 just like you have a water sink in the
-
 kitchen
-
 heatsink is a heat
-
 Reservoir that can absorb an arbitrary
-
 amount of heat without significantly
-
 changing temperature
-
 yeah it's probably not that specifically
-
 it's a heat scene when I looked it up
-
 there's a specifically the same but it
-
 would act as I hate seeking it yeah
-
 yeah maybe I hate Sage
-
 yeah basically but uh fridge starts but
-
 moving away anyway Android editor
-
 might compensated
-
 [Music]
-
 so
-
 let's see I should open X model
-
 bye
-
 okay
-
 and stop playing for those who are not
-
 subscribers more terrible users
-
 so
-
 I should have left yet
-
 yes
-
 there's a lot of files when it comes to
-
 crash four
-
 I don't know why they have so many files
-
 which one is more
-
 but compared to Spyro which has three
-
 fights
-
 nothing exactly sure why attached to be
-
 fine so you would assume that these
-
 three files would be one for each game
-
 but that's not the case
-
 Coco
-
 so here's the content so
-
 um so as you see here it's called skins
-
 thank you
-
 so uh so skins is straight in the
-
 content folder which I can show but
-
 anyways skins in the content folder
-
 that's what I will create here
-
 skins and then in skins we need to find
-
 the one that's called face it's called
-
 Coco finish it
-
 so I will create that number
-
 cocoa face shift I hope that's correctly
-
 let's pass the account no
-
 no cancel
-
 yes thank you
-
 uh there is no copy there is copy
-
 director part which I could do
-
 but then I get everything but then I can
-
 copy that but I think basically
-
 or something
-
 is
-
 under handle exception occurred RPF
-
 reference not sets to an instance one of
-
 it
-
 okay
-
 that was weird
-
 it's receptors okay
-
 that's fine
-
 edit again
-
 and
-
 okay
-
 all right that was an unexpected error
-
 that's kind of what
-
 it was unexpected
-
 go to the
-
 4.4.3.2 release of f modem these have a
-
 fixed company with fortnite and a prop
-
 sources
-
 that's nice
-
 yes
-
 um
-
 F model is the fortnite model viewer I
-
 think it stands for but it works for a
-
 lot of stuff and it's really
-
 useful and there's one of the questions
-
 of course
-
 um
-
 you know that's probably because I
-
 accidentally pressed the wrong thing
-
 before
-
 and so what uh I'll be looking at now
-
 I'm going to create the full instruction
-
 that's what we're going to do now
-
 so
-
 so in the face shifts in here it's going
-
 to be once called materials
-
 one that's called a mesh and once that's
-
 called
-
 textures
-
 so in the mesh folder the meshow
-
 we can look at the packages so yeah so
-
 this is what it's supposed to be called
-
 so I'll put the machine here if you get
-
 it
-
 and
-
 let me go to just bring It Forward there
-
 also I should have put it I exported it
-
 straight into the base folder I should
-
 put in the spaceships only to keep my
-
 everything
-
 so I will import it
-
 do the pop-up you can see
-
 and
-
 I'll do how to select the existence
-
 skeleton because it will use the
-
 existence I think
-
 secret pop-up
-
 and then
-
 of disable search material because
-
 by default it's kind of this it only
-
 search locally anyway but I changed it
-
 previously so now I change it back
-
 so now it's importing no smoothing group
-
 information was found yes that is great
-
 so here it is
-
 oh
-
 since then I should give it these names
-
 so this is the SK which you can
-
 determine by this pop-up that doesn't
-
 show up this pop-up which says skeleton
-
 match SK stands for scaffold
-
 and not super confused with the the
-
 short and the term
-
 s-t-e-l or scale which is the stands for
-
 skeleton
-
 assume scatteredness
-
 SK could also stand for skeleton why
-
 they didn't call it SM for skeletal mesh
-
 shiny now
-
 and then just s for skeleton used like
-
 they have t for textures
-
 it is twice for Bob who decided for
-
 these names this is not the 100 is the
-
 default
-
 just for a second anyway back to naming
-
 SK underscore CP for for character
-
 player
-
 3704 which is just a random number Coco
-
 which is
-
 face shift which is the
-
 outfits
-
 in the files could have check could
-
 I could name it whatever they want but
-
 they decided to follow this pattern to
-
 keep organized
-
 those too far
-
 now
-
 they are and they faint I guess Fame
-
 doesn't show up on the string there
-
 yeah
-
 the error message
-
 crashed
-
 again quite a crash over sudden it was
-
 more stable before
-
 I need to live in making
-
 [Music]
-
 correct trash fine
-
 at
-
 the girl
-
 again
-
 it's an updated should I or close the
-
 same the settings open it up again
-
 you will keep my settings now
-
 yes
-
 um
-
 acceptance
-
 wait what does it say
-
 update mode stable okay
-
 yes
-
 let's let's change the version
-
 one two
-
 I'm sorry sorry that okay that was all
-
 the girls and I had to refresh
-
 that's weird I mean certainly because
-
 I'm streaming from my computer and if
-
 the computer does something it might
-
 affect the Stream
-
 but at the same time it shouldn't
-
 anyway back to where I was
-
 basic shift
-
 so let's check the pictures where are
-
 the textures
-
 and it almost changed the scene so
-
 I do have two textures here but yeah I
-
 can move things here
-
 [Music]
-
 saying this to a pop-ups doesn't show up
-
 um
-
 her hair is still pictures but I would
-
 add
-
 all of the pictures I'm gonna I'll
-
 replace those as well because those came
-
 from blender I want to make sure
-
 [Music]
-
 I get everything as they should be now
-
 it's important yes
-
 the import progress bar has shown up
-
 and if there's anything you're curious
-
 about what I'm doing is to ask
-
 so it is still importing
-
 the texture and how simple it doesn't
-
 know that that is correct
-
 yeah
-
 and now
-
 we have to check
-
 say he
-
 yeah his texture group character it's
-
 not exactly important if it's left all
-
 of things
-
 and go to
-
 and put anywhere from The Matrix
-
 can I
-
 bring that up yes
-
 there you go
-
 so as it's kind of hard to see here
-
 because of me
-
 the way it takes overlap is beautiful
-
 uh here
-
 this is very useful to to get so you
-
 want the settings for all of the
-
 textures are
-
 we need to see which textures are so
-
 [Music]
-
 this one should be character
-
 now I do know it says character yeah it
-
 says texture
-
 extra group
-
 but every order
-
 if it's saying that character specular
-
 specular
-
 this character
-
 retrospective okay
-
 [Music]
-
 so for these
-
 [Music]
-
 and you can use this side panel here to
-
 [Music]
-
 it's easy to just type here make sure
-
 you know
-
 practice
-
 this one character and I see this should
-
 also eat
-
 foreign
-
 this one is of course normal map
-
 character specular and I do see that
-
 there is no uh deep in here
-
 and also one more important thing
-
 uh srgb which are constantly in this
-
 list
-
 hundreds I mean hydrated
-
 quite much quite a lot trying to find
-
 [Music]
-
 but yeah it also says PF dxt1
-
 and I guess that's what it says here too
-
 there we go oh there's a lot of
-
 [Music]
-
 foreign
-
 what I try to find which I didn't find
-
 srgb mythology what's what's that
-
 meaning code
-
 [Music]
-
 oh there we go there you go it's RGB
-
 false
-
 and
-
 you have to set srgb to false
-
 or
-
 every spec Knight
-
 and because otherwise it will read it in
-
 practice
-
 and now not that I had simple last one
-
 but and now I can save these
-
 this means that they are unsaint
-
 the
-
 that's disappear as soon as it's done
-
 foreign close and now I need to just
-
 there we go yeah and switch back
-
 because I don't need the tea because tea
-
 didn't exist
-
 these are the ones that actually exist
-
 so
-
 this back here
-
 somewhere
-
 any materials
-
 that too but that doesn't matter what
-
 matters is that this one is expecting
-
 what I think because if I go back in
-
 here
-
 foreign
-
 [Music]
-
 why is that
-
 I think it's trying to
-
 [Music]
-
 seek his trying to download the
-
 [Music]
-
 free investment only periods
-
 there we go
-
 yeah plus it would be required to if the
-
 computer was so slow but I'm doing my
-
 best
-
 everyone has left the stream now when I
-
 think
-
 I wonder if that's three freeze if it
-
 throws Downstream and then
-
 cheats everyone else kinda
-
 unless you refresh which they did
-
 but yeah yeah but you said you refreshed
-
 can I open the mesh this time because I
-
 need to open yeah now it says completed
-
 instead of failed good good
-
 so
-
 yeah it must be something we'd really
-
 try to do there
-
 so there's a lot of stuff here which is
-
 even buying it yet but
-
 there's a bones and stuff
-
 and there's the asset which is
-
 in the same folder as
-
 scene and here we go here's the
-
 name of the material
-
 which again is behind this set
-
 but yeah
-
 so
-
 if we
-
 go to materials no no here it is
-
 it should remove the materials
-
 and I assume it already got the correct
-
 name
-
 so uh what you don't have to do
-
 is set up the textures however and you
-
 don't have to do that but you can do
-
 that if you want to see how it looks
-
 in editor
-
 thank you
-
 and
-
 I think that's for now
-
 so you can set up
-
 and
-
 at least actually I know what to do it
-
 which is
-
 my tummy
-
 [Music]
-
 I'm just normal
-
 it's what is
-
 roughness
-
 oh
-
 okay and then they should be
-
 beautiful thing
-
 there should be one more way
-
 which is the emission
-
 yeah I probably doesn't matter what day
-
 [Music]
-
 all right here we go uh in the
-
 if you bring up that again I should have
-
 should I checked this before
-
 [Music]
-
 here we go here's here's FC and it says
-
 bus color and then it is FW which is
-
 what what's with
-
 that's what it stands for and T stands
-
 for translucency map
-
 and the Apparently using the default
-
 character transmission select
-
 and then MSC map is number two so
-
 like a big number it doesn't matter what
-
 you said it's up to but
-
 this is I just want to see what it
-
 looks like
-
 probably applied
-
 it's insane
-
 [Music]
-
 and this isn't exactly how it's set up
-
 in the original game but doesn't matter
-
 I'm not going to use this material it's
-
 going to use me for my hair
-
 from the game itself
-
 but you still need to name have a
-
 material like a dummy material in the
-
 end store
-
 and this is for
-
 the
-
 for the mesh itself to know where it
-
 should look for the files in the game
-
 here we go
-
 [Music]
-
 and it's the
-
 next
-
 and here's the wish
-
 in there this way
-
 but there is like those parts are white
-
 it shouldn't be this strong but
-
 um they are glowing
-
 in the game
-
 so
-
 you don't know additional settings I
-
 need to do in here so let's see if I can
-
 find those
-
 in here
-
 which I can't find for some reason
-
 it's so weird it doesn't show up anymore
-
 this makes sense to me
-
 like
-
 [Music]
-
 that's weird
-
 because as far as I know you're supposed
-
 to call this one
-
 in your body
-
 and body body and because otherwise
-
 because that's what it reads it reads
-
 the slot name body
-
 um
-
 [Music]
-
 let's share
-
 for some reason yeah it doesn't show up
-
 anymore on the list and I don't know why
-
 so yeah
-
 [Music]
-
 but I think that's that's what I think
-
 so I would cook it
-
 and then I will copy all the files
-
 um make equipped files to the mod Vines
-
 do I have uh
-
 [Music]
-
 I do here
-
 folder here with Pom-Pom mode
-
 and here is where this stuff should go
-
 [Music]
-
 so I need to recreate the full
-
 instruction here while
-
 I could just copy it away from click
-
 finds us
-
 that's almost more convenient
-
 my name is Dr King
-
 and then I'll test it in game
-
 [Music]
-
 so it will be I will navigate it in the
-
 secret folder in actions
-
 it has been a test completed it's
-
 cooking
-
 here
-
 there you go but there are things I
-
 don't need in this folder I don't need
-
 materials because it can use a different
-
 material and I don't need the
-
 th5 these are going it's going to use
-
 the original pH part but it's going to
-
 replace textures and it's going to
-
 replace the image and that should be it
-
 foreign
-
 [Music]
-
 so let's generate the pack
-
 so many
-
 Secrets candles yeah yeah
-
 I don't know if it's
-
 it's so much larger because I
-
 wanted it so much louder but anyway
-
 let's put it in here
-
 and I guess uh
-
 launchpad.net.exe
-
 and
-
 don't need unreal anymore
-
 [Music]
-
 and I don't need that but I'll enable
-
 crash four
-
 I can plug in a controller as well
-
 convenience
-
 testing
-
 [Music]
-
 and then
-
 your login section expired oh come on
-
 I don't know my password
-
 you know because I don't
-
 keep that around
-
 and I need to go and get the password
-
 that's
-
 certainly can it be
-
 minions
-
 copy password
-
 remember the password
-
 if
-
 I mean I find if it's like clear stick
-
 cooking or something but
-
 and
-
 every second let me but you keep saying
-
 the password on the client it's my own
-
 computer
-
 and then
-
 um oh yes you close
-
 F minus one
-
 the only information given here crash
-
 four nothing else
-
 launching game
-
 Which languages is it to by the way I
-
 tested different languages before
-
 um
-
 answer to English no not that in
-
 marriage but
-
 it would be quite surprised if it
-
 shouldn't languages
-
 it is translated to polish
-
 foreign
-
 there we go
-
 it is slowly learning
-
 wherever they
-
 oh yeah it is reality
-
 yeah
-
 we don't need the background music now
-
 we got the game usage the game is
-
 we don't need only from the game anymore
-
 no
-
 but the description has polishes
-
 available it's weighted a lot of games
-
 don't have because there's a lot of
-
 Polish speakers
-
 now it's loaded but that's not true
-
 because that loading is just uh
-
 a video playing
-
 it's not actually loading uh a learning
-
 bar so
-
 when it's computer is so slow
-
 an athletes for working like doing the
-
 modeling and texturing personal it kind
-
 of makes it warm and slow
-
 there you go
-
 let's see if I can start it without it
-
 crashing
-
 this is still part of the arting
-
 yeah
-
 this is also
-
 uh the reason why I don't want to test
-
 you know I did I never picked it
-
 I didn't update the regular purple skin
-
 I should probably done that
-
 anyway
-
 moving on
-
 yeah I should be able to
-
 test the
-
 the mask
-
 that one is at least updated
-
 yeah yeah I should have taken
-
 and I still got very much
-
 yeah it's only been four and a half
-
 hours I could I could also uh
-
 I can just update it said it's ready for
-
 future I guess
-
 yeah
-
 it's completely slow
-
 it's really slow computer
-
 time Wireless loading it's not loading
-
 now we have to load more
-
 coffee so this is the mask we can
-
 so yeah
-
 but now with the mask enabled look at
-
 this Earth which has three cameras
-
 something
-
 computer yes
-
 in game
-
 then you can switch and it also switches
-
 on quantum
-
 [Music]
-
 and if you stand inside it and switch
-
 each dish destroying
-
 that's fancy I guess
-
 yeah where I said
-
 I guess
-
 yeah problem is that the mask is
-
 clipping through the thing
-
 and I see the position of the mass is
-
 kind of we had this one I wish I could
-
 get a closer view
-
 this is the best es camera but the game
-
 is running quite fine
-
 because the camera pulls back when
-
 you're facing the camera which makes
-
 sense that's like good good design but
-
 it does make it harder to get a good
-
 look
-
 it's the same thing when you're facing
-
 to the student
-
 right and left to octopus together back
-
 that's not allows you to see more
-
 more to the science when but when I'm
-
 waiting for it it puts format
-
 as that's irrelevant
-
 looking in
-
 15.
-
 I guess there's nothing here to look at
-
 that so
-
 dude
-
 I don't find a bit weird after this
-
 thing
-
 around the ears don't glow when
-
 switching mode
-
 that's not how it works in originally
-
 the things about it around the ears
-
 yeah shame I can't do it like it's full
-
 size
-
 that's
-
 yeah it is working that's the important
-
 thing
-
 well
-
 yeah and then I want them to say it is
-
 working I wish there was like a free cam
-
 or something I keep zooming
-
 this one for Spyro but
-
 there might be one for crashed as one
-
 yeah this is totally how you destroy
-
 this
-
 so I guess that's that any comments
-
 anyone else saying I want to say
-
 something
-
 there's a visible one here too
-
 if you try to get close you can't
-
 have you eat
-
 yeah it starts in the alternate states
-
 that in the two Tuesdays instead of the
-
 one state which I do find interesting
-
 so um
-
 the death button and I'll change the
-
 icons too
-
 ta-da
-
 so
-
 time left
-
 so let's
-
 foreign
-
 up
-
 blender again
-
 there you go
-
 because this is the
-
 base shaped
-
 the I don't need that anymore but we
-
 should have
-
 oh yeah I didn't update the default
-
 because the default isn't even done yet
-
 I'm really interesting
-
 does it blender doesn't remember how
-
 wide it was before so that when I did
-
 not online
-
 but I
-
 oh yeah for the face shift I didn't add
-
 it well but I guess I don't need the
-
 ball do I
-
 it doesn't it doesn't really fit you
-
 know anything
-
 I mean I guess I could still have like
-
 it instead of things
-
 but I'm not looking like this though
-
 I don't know and I love her
-
 hey
-
 hello hello
-
 [Music]
-
 yay I'm happy like it's your day should
-
 I have the bow for this outfit or not it
-
 is fine to just leave it without
-
 it but it does substrate the earring
-
 yeah exactly so maybe maybe for the
-
 because I mean it but as it was I was
-
 first going to say it is a bit weird if
-
 the boat disappears when she gets a
-
 power up but it's kind of odd how her
-
 outfit changes too so
-
 I guess no bows for a power ABS then
-
 Maybe
-
 because the powerapps do have different
-
 heads headwear so I guess
-
 so I guess this replace
-
 the mouse but to show us up right
-
 it's like I said they had where it
-
 replaces the bus the bow right I guess
-
 that's fine
-
 so let's uh
-
 I can make these
-
 there we go
-
 oh no not this one then yeah
-
 this would be the I mean oh yeah I need
-
 to fix the scale of them object so let's
-
 look at the
-
 desk on the way
-
 this is
-
 the wrong
-
 there we go
-
 let's say maybe something
-
 this one and let's fix the one of the
-
 outfits at least which would be
-
 the underwear outfit
-
 which I will replace the 360 no scope
-
 I think
-
 it would be a
-
 foreign
-
 also
-
 oh this skeleton model even has power of
-
 the way uh it's um it's raining around
-
 actually at the moment
-
 because I have replaced
-
 I haven't fixed the
-
 uh
-
 okay so this is spaceships and done with
-
 that
-
 this this one are called default but
-
 this isn't default this is
-
 I said I would replace
-
 let's go back here
-
 so at the next extract this stuff
-
 and
-
 diet
-
 playing Crash I don't care but flash but
-
 I guess I need to include trash again so
-
 the game doesn't crash
-
 and again it doesn't replace anything so
-
 I should be able to just uh
-
 copy that was all day and put it into my
-
 not
-
 being
-
 and but this means that now
-
 it should in addition to the
-
 face shift it now has the gain and
-
 sideward speeds which are the two
-
 skins that are supposed to come with
-
 no scrub is a difference
-
 yes it's the yeah
-
 okay so I actually don't need to edit
-
 hey
-
 so um
-
 I don't need that anymore
-
 um
-
 so let's check uh what's the basic
-
 minoscope that should be at least open
-
 that case
-
 what could it be called in that case
-
 yeah that's a problem the the actual
-
 skin is called 360 no scope but they
-
 they all have code names here
-
 fake
-
 future
-
 could it be future
-
 I don't know gone through these sections
-
 but I can open it in
-
 no that's the Future Past scheme
-
 at least one that kind of matches the
-
 name of it
-
 gamer
-
 yeah it is must be the game Skin three
-
 signals cap that's game right
-
 foreign
-
 [Music]
-
 there you go
-
 here is the cat ear headset
-
 and there's more expensive so this is
-
 the the three signals game called King
-
 oh
-
 I will now create an outfit which are
-
 called gamer gamer will be replaced with
-
 the underwear version because as you
-
 know when you're gaming you're in your
-
 underwear
-
 no it's just a bonus outfit for Pom-Pom
-
 I could have a game or something like
-
 this
-
 would make sense
-
 should I make
-
 should I make a game a problem any
-
 headset but I don't really have like a
-
 gamer outfit
-
 it's just a default dress in any case
-
 let's just replace the game
-
 so I will call this
-
 come on gamer body
-
 and accessible
-
 but I guess I'll just duplicated
-
 [Music]
-
 bye
-
 so what more is standing underwear of
-
 course
-
 again duplicate them
-
 they will be using multiple outfits
-
 and was there anything else but they are
-
 dancing
-
 now I think that's all
-
 nothing else to add I think
-
 against underwear and though that's what
-
 you wear
-
 that's a good question
-
 so
-
 going in here
-
 what are the
-
 let's see
-
 this is the underwear
-
 this is the bow so yeah oh yes this is
-
 but
-
 so this one now
-
 I need to create a new folder in my base
-
 folder which I call local gamer that's
-
 the moment to replace
-
 there's enough
-
 yeah I can
-
 give a moment
-
 [ __ ]
-
 you sure are
-
 you about the gaming yeah
-
 but it would became oh it doesn't
-
 challenge me
-
 and rename them from face ship to gamer
-
 thank you and sing over that one
-
 yes
-
 no that's one that's right
-
 FC which was a first color
-
 but
-
 FW which was pass away
-
 some land stuff now
-
 and for metallic nothing is metallic the
-
 skin is completely clear
-
 and for normal map flat
-
 oh I did realize that I was I wanted to
-
 add one more thing
-
 over roughness
-
 I could say that properties first and
-
 then I can add it because
-
 I don't think it's used
-
 which I don't think is seriously yeah
-
 that's that's budget
-
 go back here now
-
 this is specifically the gamer one
-
 so I'll switch this to where
-
 all the switches
-
 phase shift duplicate it and then set it
-
 to
-
 gamer
-
 and
-
 and then
-
 story machine
-
 they're not just
-
 open the games here see
-
 there we go
-
 um
-
 or
-
 what should be non-colored
-
 non-color is
-
 just means not srgb
-
 and I can explain how to sing with srgb
-
 if anyone is curious
-
 and and phenomena
-
 is something
-
 but I'll change that now because now I
-
 want to switch out the material
-
 to gamer
-
 he came here
-
 on this one again
-
 it is not pink it's a little heart
-
 pretty happy without the underwear
-
 actually turned on
-
 this one thing I want to add
-
 and
-
 oh yeah yeah
-
 and let me switch over to actually
-
 those underwear that was actually used
-
 in the
-
 us
-
 it's very
-
 appropriate now thank you
-
 no but what I wanted to do to point out
-
 was that on Cocoa
-
 [Music]
-
 here
-
 actually
-
 foreign
-
 I was thinking
-
 should I add that
-
 because I mean
-
 it's kind of like folding that [ __ ]
-
 makes sense
-
 [Music]
-
 question is yes can I add it here
-
 [Music]
-
 can I have to work properly
-
 now so the previous skin the face shift
-
 I replaced that I made to be like Focus
-
 outfit that so there was a lot of
-
 copying over texture wise and matches
-
 but now I'm making my own original skin
-
 before that I replace gamer so I don't
-
 care about any of the gamer pictures
-
 those are irrelevant
-
 foreign
-
 [Music]
-
 so let me export
-
 the
-
 [Music]
-
 Darkness like that
-
 export
-
 let's call it you'll be
-
 Roku
-
 underway
-
 points
-
 [Music]
-
 come from amazing here there's so much
-
 to stream
-
 still exporting a very heavy evening
-
 transported
-
 foreign
-
 import
-
 s
-
 anything
-
 so
-
 [Music]
-
 moving
-
 [Music]
-
 on continue
-
 resource here and then click run away
-
 let's see
-
 oh yeah
-
 there we go that's how it makes it
-
 and then I will switch here and check
-
 out which means
-
 um this one is completely
-
 I really like this
-
 there are different this one is various
-
 questions
-
 this one is not but that means I can
-
 probably still got me
-
 no separately if that makes sense
-
 because I only need them yeah
-
 Darkness
-
 it's a copy that
-
 and paste it here
-
 very nice check which channel does
-
 provide
-
 Administration
-
 you can
-
 [Music]
-
 I could also
-
 oh
-
 make my phone
-
 the blue Channel as well
-
 because I don't know it
-
 makes those 50 50.
-
 and then can I faces the resolution of
-
 the
-
 shaving or something
-
 so
-
 this is mostly going to be a test
-
 so I want to see
-
 almost like the edge there you go
-
 it's nice
-
 [Music]
-
 um
-
 strange 20 money
-
 like that
-
 let's do beginning as a back I think
-
 King so meet your left back
-
 [Music]
-
 then I can
-
 [Music]
-
 remove everything and second Heat
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 you can warn me about the ants
-
 [Music]
-
 and then I said it is subtract okay now
-
 now it acts like a shading
-
 now I can put it here
-
 as centered as I can do
-
 it's very strong I could I could make it
-
 softer
-
 although it doesn't need to be
-
 specific invert this again
-
 [Music]
-
 uh
-
 it could provide
-
 [Music]
-
 I understand
-
 and they write sport things now
-
 and then check how it looks
-
 and update it
-
 and
-
 that's the game
-
 and refresh
-
 so yeah now there's a bit more detail it
-
 doesn't look very isn't it
-
 but it's not like moving the flare
-
 make the belly fluffy but it is Fluffy
-
 if you look carefully
-
 you can see it's very very it's very
-
 easy to see in the dark in the night
-
 that's the name of the names
-
 foreign
-
 foreign
-
 basically now
-
 and because
-
 anyway
-
 I should have maybe done this at the
-
 same time
-
 welcome back everyone who wasn't
-
 subscribed to enter them terrible or
-
 around his name
-
 so
-
 [Music]
-
 well let's just
-
 is doing the same thing again
-
 right
-
 that all becomes the gray skin Channel
-
 now this is just one thing that slightly
-
 annoys me in workshop and if someone
-
 else picks this issue
-
 I would be so happy
-
 because it would actually send me some
-
 time but this is quite the process as
-
 you sure you don't see the pop-up I'm
-
 working in but you can see that it takes
-
 a bit time of adjusting the colors after
-
 this
-
 but I do have this panel so I can just
-
 go here oh look it's the red shell I can
-
 just select everything copy and then
-
 paste now I have the red channel the
-
 problem is
-
 this is what Russia should look like
-
 this is what the red jump becomes if I
-
 copy it from channels it does some kind
-
 of
-
 gamma correction
-
 for some sort and ruins everything I
-
 just want to copy this red Channel
-
 values as the grace cake
-
 as seen copying the red Channel values
-
 and paste it on the ingredients which is
-
 what I do with this filter
-
 but it's just so many steps and I just
-
 want one simple step but that's not
-
 that's not an option
-
 hey
-
 [Music]
-
 can you sing again
-
 remember everything that's been called
-
 amused
-
 or action
-
 that I want to use and could result in
-
 weird shading on other parts
-
 so I'll remove it
-
 I can't clean up that's me
-
 foreign
-
 can split these two because
-
 that can be quite useful
-
 and now let's
-
 place this shading on her practice one
-
 and I don't need this anymore
-
 let's have a reference
-
 but this is very really shaped here
-
 is it shaped like that
-
 I guess it's
-
 this part
-
 I'm gonna keep this in here I wonder if
-
 that wanted to show
-
 and yeah
-
 it was mixed that part
-
 so if I want it to be placed let's say
-
 that
-
 all right so select select everything
-
 and now I have that section here it's
-
 kind of there I want to put it
-
 if I can do that
-
 [Music]
-
 wow POV came from inside pom-poms
-
 underneath
-
 yep and this is Insider anyway
-
 [Music]
-
 but there's not bloody inside the
-
 underwear anyway
-
 whatever
-
 yeah inside the underwear
-
 you wouldn't be able to see much
-
 it would be very nice
-
 install the camera inside your underwear
-
 and if you don't mind
-
 oh you didn't mind
-
 a lot
-
 nothing we can do about that then
-
 I guess you'll just have in mind
-
 hope you don't mind oh you didn't mind
-
 upon mind then
-
 but never mind some reasons I guess it
-
 wasn't meant to make any sense
-
 well there is some shading on the
-
 underwear
-
 I guess it kind of looks weird if
-
 everything else is playing it
-
 okay
-
 that doesn't look as good though
-
 on the front at at least clicked finding
-
 is
-
 this part there okay
-
 I guess it's up up inside lady
-
 okay so what I need to do is
-
 that is back to normal
-
 and then I
-
 basically need to make sure that
-
 everything that is a single color I
-
 actually don't need
-
 I don't need that distance
-
 [Music]
-
 right
-
 I'm sure that's nice but
-
 hmm
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 hmm here it is
-
 because then I would have to have the
-
 same here just turn that same color
-
 [Music]
-
 and let's add a slides outline
-
 okay
-
 then I can
-
 learn it that's a bit too much
-
 yeah that's that's left
-
 so now
-
 bye
-
 if I look at it now
-
 the shading should be even
-
 okay let's see
-
 refresh yeah now oh well not really
-
 more even
-
 yeah I just can't get it still working
-
 nicely
-
 [Music]
-
 yeah I think
-
 [Music]
-
 I think I got back on the
-
 right yeah
-
 I have these
-
 [Music]
-
 where I really
-
 see there's only one seam and a few more
-
 insights
-
 um
-
 so yeah at least let's see my edits I
-
 added PC which is because I can just see
-
 there are seems already
-
 things
-
 [Music]
-
 okay
-
 hmm
-
 oh okay
-
 I like to be coming something
-
 I guess I didn't show them
-
 to be fair
-
 [Music]
-
 [Music]
-
 um
-
 okay let's see
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 I mean it's it's harder to see
-
 like it's not a perfect transition but
-
 getting enough
-
 that's if I make it a bit softer
-
 in tone
-
 he's going to get even harder to see
-
 so
-
 I I didn't copyright
-
 take other effects
-
 [Music]
-
 like the normal map is kind of important
-
 [Music]
-
 and there's no roughness difference
-
 sometimes they do
-
 like how they make a darker is less
-
 rough
-
 which I guess doesn't make sense
-
 would they make them more rough
-
 I should not remember
-
 [Music]
-
 [Music]
-
 foreign
-
 difference I need to make
-
 [Music]
-
 sorry sorry don't
-
 change strongly
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 foreign
-
 [Music]
-
 imagine having that
-
 anyway
-
 now the color difference is softer so
-
 it's easy to see
-
 thanks that's great position
-
 yeah okay
-
 [Music]
-
 kind of things
-
 I guess it's probably self-straining
-
 [Music]
-
 I wish there was a piece that really
-
 stood out from the rest
-
 [Music]
-
 I think that's it
-
 yeah that's it just repeat
-
 [Music]
-
 so it's this part that I'm interested in
-
 mostly I mean there's this thing there's
-
 no problem I can just copy of the second
-
 element is first
-
 so
-
 for the FC
-
 [Music]
-
 I just have this too but
-
 I guess even softer
-
 and then they should also business
-
 this part
-
 there's a lot of stuff going on here
-
 already
-
 [Music]
-
 this thing should be placed on top of
-
 everything
-
 when
-
 you know the drill
-
 we need a dream and so do I
-
 know
-
 that wasn't properly
-
 a surprise and then
-
 thank you
-
 tonight yeah
-
 press the wrong button or something
-
 anyway
-
 foreign
-
 [Music]
-
 colors they were supposed to be
-
 not spray stain
-
 [Music]
-
 that that's one that's the one I said
-
 Jake
-
 oh
-
 [Music]
-
 it's there again
-
 [Music]
-
 This Dance
-
 and that's that
-
 [Music]
-
 [Music]
-
 [Music]
-
 foreign
-
 [Music]
-
 then try to remove
-
 [Music]
-
 [Music]
-
 which can be a bit tricky
-
 [Music]
-
 [Music]
-
 [Music]
-
 [Music]
-
 all right I'm getting left
-
 [Music]
-
 [Music]
-
 this one was should be much easier to
-
 clean up
-
 which is very when it's easy
-
 this underwear will be used on multiple
-
 outfits I better why not put a bit of
-
 extra effort into it
-
 [Music]
-
 oh my this is my direction
-
 different
-
 [Music]
-
 foreign
-
 [Music]
-
 yeah
-
 just assumed inside
-
 should not assume I could just go to
-
 see
-
 and I don't lictify
-
 are you crazy
-
 probably the same as we've been on the
-
 same
-
 [Music]
-
 most people don't say like yeah
-
 maybe it's just nice you come
-
 convenient when it existed them
-
 [Music]
-
 back in your big scenes Canada
-
 I don't know maybe maybe the fox is
-
 supposed to be generally neutral
-
 in that case it should be listed
-
 and
-
 I went
-
 [Music]
-
 only two is here keeping hello I'm here
-
 now for a little bit over this what work
-
 is going okay now that's good and I'm
-
 working
-
 um I am working on
-
 the way
-
 exciting isn't it
-
 [Music]
-
 be generated
-
 do you have
-
 yeah there is
-
 using the guide
-
 it's getting very hard to see
-
 yeah
-
 it's mattifying she's controlling it she
-
 she'll be okay that's good
-
 I'm gonna be mad you got a very cute
-
 surprise
-
 but yeah
-
 magic anyway
-
 that's a story to write about fun fun is
-
 wearing magic underwear
-
 the magic anyway against special
-
 abilities
-
 nice
-
 [Music]
-
 oh my cute
-
 which part yeah
-
 maybe both
-
 [Music]
-
 and add
-
 like that
-
 that should be outside so you shouldn't
-
 know
-
 whoops yeah both both
-
 let me turn
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 ones
-
 attracting me I love you anyway
-
 although I really realize that
-
 connected
-
 I should only add 80 together
-
 and add these two together
-
 and then I need to switch yes
-
 forgot about that I said rotate it
-
 as we look here
-
 [Music]
-
 you know
-
 yeah so there's bright dark
-
 green should be
-
 bright
-
 it's not gonna be good
-
 and the red one
-
 Community inverted
-
 singing okay
-
 yeah the other time is for a long time
-
 again
-
 um
-
 okay
-
 [Music]
-
 and then we
-
 [Music]
-
 a lot of mixing
-
 [Music]
-
 these should be set to step subtract
-
 and this is
-
 next now many attempts lately yes this
-
 is good
-
 [Music]
-
 thank you
-
 [Music]
-
 now finally I can test it
-
 wow
-
 update this one
-
 there we go
-
 oh there's no definition here
-
 is it too strong maybe I think most of
-
 the other ways can apply
-
 probably
-
 [Music]
-
 let's reduce this strength a bit
-
 oh look
-
 wait wait that means what are you trying
-
 to imply your immune
-
 electrocuted the feral Bunny and the
-
 feral bunny is dead and the pheromony is
-
 quite indifference to the hallucination
-
 but oh well okay some of that now
-
 I guess that happens sometimes
-
 [Music]
-
 oh no those
-
 areas are two unrelated images
-
 do you know it's no don't be dead
-
 don't be dead I love you
-
 [Music]
-
 I love you
-
 little feral bunny
-
 little feral pumpkin
-
 so I think I'm done
-
 is anything else you should do no
-
 I think this is fine this is this is
-
 pumped funny on the way which is one of
-
 the costume options
-
 first one is foreign
-
 show that for some reason a very sick
-
 lightning bolt
-
 the second one she became a vulpantinger
-
 who was parting here
-
 you mean
-
 no at least
-
 if you get a kid
-
 yeah very cute let's export this now
-
 export
-
 and this
-
 this only export is foreign
-
 foreign
-
 [Music]
-
 [Music]
-
 under where
-
 I exported that so I should go and
-
 Export the textures as well
-
 because I don't think there's anything
-
 more to these textures
-
 very very light outfit
-
 cold weather outfit
-
 [Music]
-
 game game
-
 I think that's as well
-
 amen FC
-
 gamer FW
-
 [Music]
-
 m
-
 and
-
 r r
-
 test
-
 I always have to say that
-
 and then T which I think gives our knees
-
 because it's plain white
-
 so
-
 now
-
 that one is done
-
 now I want to
-
 try to delete some of these I don't
-
 think anything anymore
-
 but I can re-add them if I need them
-
 like this one I'm done
-
 [Music]
-
 like that
-
 and I have something over here
-
 let's see
-
 Bianca
-
 both events need so that's from Nancy
-
 as you clear up a bit a few materials
-
 and stuff
-
 I guess they
-
 it was saying
-
 the restaurant
-
 no yeah so let's see a little bit unused
-
 so if I say again
-
 right very weird way of doing this but
-
 now they're gone
-
 but actually Mark a lot of detection
-
 was it right after Texas
-
 being really loud to find
-
 anyway
-
 oh no this one also has these things
-
 black and this one has the
-
 same here
-
 showing that it's like a suit she's
-
 wearing
-
 hydrate yes
-
 foreign
-
 but this time
-
 yeah
-
 I guess I'll prepare
-
 [Music]
-
 not too much
-
 oh
-
 thanks a few parts far
-
 East with bunny
-
 [Music]
-
 making it slightly harder to copy our
-
 way
-
 [Music]
-
 another one
-
 her hair bun
-
 [Music]
-
 which probably this one the other one
-
 makes Indians but it sure the other one
-
 is the other one shifts between two
-
 different modes
-
 it also made the bridge show up or not
-
 and so some items are only in one face
-
 and you can shift which faces for some
-
 reason doesn't affect the whole world
-
 only those items and this one is the
-
 gravity
-
 months let's go in here but I guess it
-
 might be very small on your phone though
-
 but yes this is reality it also says it
-
 here
-
 it says it here
-
 it says it's here almost there and here
-
 and here
-
 I think that's all the places actually I
-
 like to say there you go that's all the
-
 places where it says security
-
 three in three
-
 I'm going to make
-
 this outfit for a ponton because fun fun
-
 is going to replace cocoa
-
 so let's use this one
-
 large and copy over
-
 I was actually not done with the
-
 face shift texture but I can be so
-
 Mickey
-
 I really just
-
 still don't know I think this time it's
-
 I will actually lift it up I think I'll
-
 look it up before
-
 but I don't think it was Shameless rude
-
 bracing cheeky I get cheeky works
-
 I can be so cheeky as to do those small
-
 edits on the texture of string
-
 so brain sent us to do it
-
 although I do want to make a break
-
 breaks in Cosplay for myself
-
 I will be so Brazen as to wear it
-
 everywhere
-
 to your family gathering
-
 and what we can offended
-
 wearing a cosplay to have family
-
 gathering
-
 I mean dressed as a person
-
 in the summer of the comments
-
 I should take a look at it
-
 cute
-
 yeah that would that would be kind of
-
 cute
-
 I hope so I want to be cute
-
 kitten can be dirty
-
 but maybe maybe I don't know if you
-
 should possibly it's a highlighted
-
 it's fairly funny five cosplay
-
 [Music]
-
 Pokemon
-
 and Digimon hair like
-
 investors are so nice today one
-
 another
-
 [Music]
-
 thing but with your husband with me to
-
 uh family Catherine
-
 [Music]
-
 would you meet my family and cosplay at
-
 the same time
-
 the first impression of you coming
-
 probably dressed as something
-
 probably didn't even cosplayers in that
-
 case
-
 yes yes you would
-
 okay but why would you cosplayers
-
 [Music]
-
 that would be really cute I guess it
-
 would be cute
-
 [Music]
-
 good
-
 apparently I have these Family Guy I
-
 think during summer and summer it's not
-
 a great time of the year to do cosplay
-
 in what I think because I wanted to be
-
 like a fairy animal like Greensburg and
-
 wait for in summer it doesn't seem like
-
 a good condition
-
 and it would be Pittsburgh by the way
-
 before someone asks what are my cleans
-
 [Music]
-
 foreign
-
 [Music]
-
 good thing
-
 itself is you can undo
-
 which is convenient
-
 there are moments where
-
 it would be good that my thoughts
-
 shouldn't be a thing
-
 [Music]
-
 but it's not secure that you can
-
 understand
-
 [Music]
-
 and then the case for example
-
 now audacity which is an audio editing
-
 software you can change the scale like
-
 the size of elements in UI
-
 which can be useful sometimes
-
 and when you undo those changes or also
-
 on on
-
 which can be a bit weird what's also
-
 weird is that those changes does not
-
 count towards the undo
-
 and so when you press undo it will both
-
 change the size of whatever you are
-
 seeing you change the size of and on the
-
 Last Action at the same time
-
 that's
-
 tell me a bit unexpected
-
 [Music]
-
 but the question remains written what
-
 would it cosplay as
-
 this one is a bit tricky to
-
 [Music]
-
 um
-
 foreign
-
 with you cosplay
-
 to and visit my family
-
 dressed as an Umbreon
-
 yes
-
 um
-
 everyone comes cosplaying
-
 oh well I guess
-
 I guess we're doing this though
-
 [Music]
-
 there's another polygons select
-
 unless I don't have to select every
-
 single individual one second day
-
 I guess that was part of the Sun
-
 I don't know which songs
-
 I also don't know if it's the starter in
-
 the design
-
 at least that I should be able
-
 anyway did I select everything now one
-
 more not done yet uh
-
 that's
-
 that means that it's soon after four
-
 o'clock again
-
 starts when adds a plane and
-
 you say that an EV or else
-
 that sounds nice
-
 you'll be a sprigatito and I'll be as
-
 prietita
-
 I still argue that
-
 [Music]
-
 I said that I said argue that Pokemon
-
 should change name based on gender if
-
 that's relevant to the name such as
-
 brigators
-
 [Music]
-
 if that's the name
-
 and
-
 scarado miascarada
-
 there you go
-
 [Music]
-
 [Music]
-
 what's the wind is how
-
 it being made is
-
 yeah but that's already
-
 [Music]
-
 and yeah I mean I couldn't already did
-
 that but they are causing that separate
-
 Pokemon
-
 they are they are they are different
-
 species gender exclusives species but
-
 they are different species
-
 [Music]
-
 but yeah it's very nice that it's still
-
 stuck on the party let me see
-
 there's a minute
-
 there we go
-
 is outfit
-
 nice texture
-
 this makes sense around
-
 this does not make much sense
-
 and also on this outfit the Coco has
-
 these things on their ears
-
 there are lots of arrows on this one
-
 you're gravity based
-
 [Music]
-
 and
-
 yeah I don't see anything
-
 there you go I like some black
-
 explaining it
-
 so
-
 let's duplicate bunny
-
 this will be the bottom
-
 gravity body
-
 [Music]
-
 and I should create a new outfit here
-
 called
-
 gravity
-
 gravity gravity with titties
-
 [Music]
-
 and
-
 name this thing outfit
-
 there's an outfit is an infant
-
 kitties
-
 on that
-
 this style sign of the Apex of one
-
 point's ears can you speak English
-
 words an option
-
 very cute
-
 yes
-
 [Music]
-
 oh it wasn't there
-
 oh this is floating
-
 yes they are
-
 they are technically not connected
-
 I guess that's
-
 gravity-defying outfit
-
 that will be hard to cosplay
-
 I would I would I want cosplay the
-
 gravity suit including the floating
-
 panels
-
 [Music]
-
 not after me
-
 sorry I don't know what happened to me
-
 [Music]
-
 um
-
 and I'm not anatomically and chicken
-
 I don't know that's not how it will be
-
 faced
-
 that's why I pressed it that way
-
 so this one has been launched
-
 so it
-
 that's that's the air key
-
 and that's the control there
-
 so
-
 this axis
-
 the separate this smell
-
 but yeah it's used for extensive unit
-
 for now
-
 [Music]
-
 Rock him all close this down far Apex
-
 top Etc
-
 what I saw you saying
-
 oh I saw that kids okay I got to go now
-
 I hope you have fun with the rest of the
-
 stream it was really fun watching
-
 YouTube it's really morning you're very
-
 amazing
-
 bye kitten bye bye
-
 something only loud to the phone
-
 all right everyone is back by the way
-
 [Music]
-
 since the uh
-
 the countries up to nine views now
-
 so what do you say
-
 put those on the far side of the top of
-
 Ponto news was that hard to say
-
 one by far side you mean
-
 what do you mean by
-
 doing outside
-
 [Music]
-
 foreign
-
 but like um
-
 because they're supposed to be this Arab
-
 shape I want that right here
-
 I guess I could do like
-
 multiple arrows or something
-
 but I could look with that huge over
-
 here
-
 yeah something like this one
-
 yeah
-
 and I actually I put this stuff from an
-
 art
-
 it was very habitat that would be at the
-
 end
-
 okay
-
 [Music]
-
 well I guess I guess
-
 I guess there's a lot of cute too but
-
 yeah I guess that's the tip of the ears
-
 [Music]
-
 it still makes sense I'll get to that
-
 eventually
-
 yo
-
 [Music]
-
 it's very jazzy music
-
 [Music]
-
 I hope you enjoyed some day
-
 research I can say that it's worth Jazz
-
 but I think the title of something else
-
 on some other songs but
-
 related to Jazz
-
 that is black
-
 Jazzy night
-
 [Music]
-
 foreign
-
 hey
-
 Rosie welcome welcome
-
 I am working on this
-
 quantum
-
 still working
-
 I've done like two more cheats
-
 I guess you could ever landed one of the
-
 things again so far
-
 which is one of the powers the powerapps
-
 again is most important for it to work
-
 I don't want on to turn into cocoa as
-
 soon as our part of his name
-
 that would be weird
-
 [Music]
-
 foreign
-
 [Music]
-
 [Music]
-
 cheapness please
-
 oh well do I do I have an offer for you
-
 or only
-
 [Music]
-
 2500 Euro
-
 you can get your own one meter tall one
-
 plus that you can cuddle as much as you
-
 want
-
 [Music]
-
 I don't know
-
 a company might be willing to make
-
 [Music]
-
 that's it uneven
-
 [Music]
-
 you're just myself
-
 [Music]
-
 yeah
-
 guns are nice
-
 if the person is cuddly which I assume I
-
 assume Mickey is very curly
-
 [Music]
-
 [Music]
-
 now let's try
-
 so this is the way it begins
-
 I am
-
 [Music]
-
 it sounds like
-
 sounds like someone has a screwed that
-
 [Music]
-
 let's cuddle
-
 [Music]
-
 you can
-
 for the seventh year I'm not thinking
-
 about it when I said 2500
-
 [Music]
-
 actually
-
 [Music]
-
 and that was for Flash by the way
-
 that wasn't even to get together
-
 oh it is
-
 a parameter tall pump on flash which
-
 which is
-
 switchable
-
 hey ready to
-
 Eddie time my first posture is over and
-
 now my my outfit disappeared how did
-
 that happen so weird
-
 [Music]
-
 my underwear exposed
-
 and someone's okay
-
 and of all the 11 people watching at the
-
 moment someone might be playing the
-
 stream with audio and it just got to be
-
 really awkward
-
 Heaven bananas do the clothes change
-
 when the timer is done there's nothing
-
 that's the prescription
-
 foreign
-
 [Music]
-
 but I don't know how
-
 I do know someone who does have a time
-
 to put outfits
-
 maybe I could ask
-
 [ __ ] that's been I haven't seen her
-
 streaming for a long time
-
 it's because I haven't been able to
-
 catch um
-
 which is because she hasn't been
-
 streaming for a long time I would like
-
 to read too though
-
 because I've never done that I would
-
 like to train everyone in once
-
 maybe she said that she took uh yeah she
-
 hasn't been streaming for two months now
-
 please be it is possible that she said
-
 that she would be gone for it
-
 foreign
-
 that's life sometimes
-
 thank you
-
 this black suit really makes her
-
 breasts always knees
-
 experience
-
 maybe she just should maybe one of the
-
 outfits should just be a black suit like
-
 this black island with suit is the
-
 correct term
-
 but yeah just this as an outfit
-
 and then I'm
-
 streaming 621
-
 6 hours 21 minutes 30 seconds
-
 oh yeah we've asked the actual Talking
-
 stream is 2014 so I don't know what
-
 you're doing
-
 but yeah I know I've been over six hours
-
 and
-
 but I'm still
-
 I'm still
-
 going I'm still going
-
 [Music]
-
 a man stop me
-
 do it do
-
 fives success
-
 And subscribe give subscriptions or even
-
 subscriptions okay here or your own
-
 subscriptions anyway
-
 can we spin the wheel
-
 still haven't implemented them really
-
 [Music]
-
 so many things I want to do but
-
 yeah
-
 yes I'm not satisfied but it's
-
 definitely been
-
 like uh it's just that I want as much as
-
 possible
-
 that's my issue
-
 [Music]
-
 I guess I could just delete the other
-
 one inside Maybe
-
 and it depends on where it is could be
-
 tricky to do
-
 well I could almost do
-
 a little bit more carefully your kid
-
 probably
-
 [Music]
-
 man came out of the department what did
-
 you do in there
-
 [Music]
-
 foreign
-
 [Music]
-
 that's nothing strange is going on
-
 [Music]
-
 sometimes it gets me
-
 [Music]
-
 yeah I guess I guess that'll do
-
 nothing getting a drink okay
-
 man
-
 would like a black suit like this be
-
 good as an outfit it would be like a
-
 [Music]
-
 spices right here
-
 sneaking through night both of this can
-
 is bulging so I can't put it down on it
-
 and spill whatever if it can hit this
-
 side there
-
 and of course you might say it wasn't
-
 signed that way
-
 and
-
 I mean uh probably not however
-
 there are still companies that do design
-
 stuff
-
 with the intention of such things
-
 maybe not tonight
-
 I wouldn't be surprised that a company
-
 would make make it
-
 can not be able to set it down because
-
 every people eventually need to hold it
-
 so you have to consume it and if you do
-
 want your both hands-free you have to
-
 consume it quickly and because he
-
 conceived it quickly he had to get
-
 another one
-
 that would totally be something
-
 accompany with this
-
 because every guy is crazy for a
-
 sharpness but
-
 yeah not a suit I mean like you know
-
 body black bodies thing that's matte and
-
 it shows off my curves
-
 you mean you can have extra liquid for
-
 you to drink oh yeah that's how it works
-
 right
-
 yeah it's a top reference okay
-
 do they talk about sharp stressed
-
 buttons
-
 who knows and sends it up
-
 [Music]
-
 [Music]
-
 there you go
-
 [Music]
-
 the next question is because everything
-
 girls is crazy super sharpness man
-
 [Music]
-
 questions
-
 did this guy in gender neutral sense or
-
 uh main sense in your version
-
 I don't know
-
 let's not take that question series I
-
 think
-
 but you know I'm crazy for you everyone
-
 is crazy for me
-
 Mickey
-
 I have to set up like five dates for
-
 myself here
-
 I can keep making my USB not interested
-
 in that man I don't know I'm
-
 just just just being friendly you know
-
 [Music]
-
 that doesn't mean just anything else
-
 going on
-
 anyway let me see if I can
-
 get rid of as much inside as possible
-
 inside
-
 it's close in here
-
 and okay
-
 this is
-
 a half an hour everything
-
 so
-
 yeah
-
 and everything is left on me on the way
-
 okay
-
 we can have three minutes out no yeah
-
 it's much because the computer is
-
 getting very warm and slow at the moment
-
 I really need some heat things I didn't
-
 know where to get that
-
 something to keep Computing because it's
-
 very
-
 performance having yeah everything
-
 you run the blender
-
 and
-
 Photoshop and stuff
-
 [Music]
-
 decision breaking yeah
-
 that's everything
-
 yeah
-
 um
-
 it wasn't twitch breaking it was the
-
 stream it was me streaming uh I just had
-
 some it's just at that point in the
-
 Stream and probably we can see computer
-
 can't do more at this point
-
 and kind of
-
 definitely pushing it yeah
-
 so what did he say
-
 yeah
-
 uh thank you for the nice coffee Supreme
-
 I will continue
-
 later I learned it with the layer upon
-
 fund
-
 instead of refreshing yes you don't have
-
 and you don't have to do that either you
-
 can't wait to change the content but you
-
 can pause and unpause that will also
-
 refresh the Stream
-
 will be nice with just a single button
-
 press the refresh but
-
 but that's fine
-
 anime
-
 your tree go and visit Jose
-
 is like an onion yes layers did we visit
-
 um
-
 and a nice streaming
-
 foreign
-
 [Music]
-
 but you get points
-
 let's go and visit
-
 araviti I haven't streamed haven't
-
 sprayed her in a while and she is
-
 nice
-
 that's why that's why I read right I had
-
 to read her in over two months now
-
 is it true
-
 again
-
 definitely been too long now
-
 any document that keep track of this
-
 stuff I do have a document
-
 but I want the one that like shows the
-
 last rates to a certain music
-
 yeah I have I have currently held on a
-
 dress
-
 and underway of course and skin and meat
-
 and skeleton
-
 you know everything you need
-
 everything you need for a coupon one
-
 well let's go
-
 I want to keep I'll post this comment
-
 anyways I can remind myself two months I
-
 thought you hated last week no that was
-
 that was that was lonely doing it
-
 I haven't done it
-
 and she likes raids I think
-
 we'll see
-
 [Music]
-
